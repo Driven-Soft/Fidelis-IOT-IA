@@ -1,0 +1,3991 @@
+Especie,Breed,Age (Years),Weight (kg),Gender
+Cachorro,Airedale Terrier,13,27.5,Male
+Cachorro,Jack Russell Terrier,10,6.6,Female
+Cachorro,Dogo Argentino,2,40.6,Female
+Cachorro,Labrador Retriever,9,33.8,Male
+Cachorro,French Bulldog,12,10.1,Male
+Cachorro,French Bulldog,9,11.2,Female
+Cachorro,Bull Terrier,7,29.9,Female
+Cachorro,Boxer,1,28.6,Female
+Cachorro,Cocker Spaniel,13,11.4,Male
+Cachorro,Shetland Sheepdog,1,7.8,Female
+Cachorro,Whippet,3,12.9,Female
+Cachorro,Weimaraner,4,39.3,Male
+Cachorro,Havanese,13,4.3,Female
+Cachorro,Beagle,3,11.7,Female
+Cachorro,Maltese,2,3.6,Male
+Cachorro,Maltese,12,3.1,Female
+Cachorro,Siberian Husky,10,23.8,Male
+Cachorro,German Shepherd,6,22.7,Female
+Cachorro,Bloodhound,7,43.5,Female
+Cachorro,Bull Terrier,2,34.2,Male
+Cachorro,Havanese,13,5.5,Male
+Cachorro,Irish Setter,11,25.8,Female
+Cachorro,Maltese,12,4.0,Male
+Cachorro,Doberman Pinscher,13,37.4,Female
+Cachorro,Vizsla,9,25.1,Female
+Cachorro,Bernese Mountain Dog,12,41.5,Male
+Cachorro,Shih Tzu,13,5.0,Female
+Cachorro,Yorkshire Terrier,8,2.5,Male
+Cachorro,Boxer,12,28.2,Male
+Cachorro,Boston Terrier,8,9.8,Male
+Cachorro,Chinese Shar-Pei,4,23.8,Female
+Cachorro,Pug,5,7.3,Female
+Cachorro,Chinese Shar-Pei,10,20.5,Female
+Cachorro,Poodle,7,22.9,Female
+Cachorro,Australian Shepherd,10,20.9,Female
+Cachorro,Jack Russell Terrier,7,6.2,Female
+Cachorro,Labrador Retriever,5,25.9,Female
+Cachorro,Miniature Schnauzer,12,6.2,Female
+Cachorro,Saint Bernard,2,60.2,Female
+Cachorro,Maltese,3,3.8,Male
+Cachorro,Rottweiler,1,50.9,Male
+Cachorro,Chinese Shar-Pei,1,24.5,Female
+Cachorro,Pekingese,11,4.6,Female
+Cachorro,Cocker Spaniel,8,10.1,Female
+Cachorro,Cocker Spaniel,7,13.9,Male
+Cachorro,Chihuahua,3,2.3,Female
+Cachorro,Bull Terrier,11,31.6,Male
+Cachorro,Shiba Inu,12,8.6,Female
+Cachorro,German Shepherd,10,36.3,Male
+Cachorro,Boxer,11,28.1,Male
+Cachorro,Shiba Inu,13,8.4,Female
+Cachorro,Schnauzer,14,14.0,Female
+Cachorro,Dachshund,9,11.1,Female
+Cachorro,Papillon,9,4.1,Male
+Cachorro,Havanese,3,5.4,Male
+Cachorro,Saint Bernard,2,72.8,Female
+Cachorro,Pembroke Welsh Corgi,11,12.6,Male
+Cachorro,Whippet,13,16.8,Male
+Cachorro,Great Dane,3,49.1,Female
+Cachorro,Akita,12,34.0,Female
+Cachorro,Labrador Retriever,8,29.8,Female
+Cachorro,Labrador Retriever,7,28.4,Female
+Cachorro,Weimaraner,7,35.8,Male
+Cachorro,Dogo Argentino,3,43.5,Male
+Cachorro,Poodle,12,25.0,Female
+Cachorro,Bloodhound,2,45.9,Male
+Cachorro,Basenji,6,9.7,Female
+Cachorro,Papillon,7,2.9,Female
+Cachorro,Doberman Pinscher,10,27.4,Female
+Cachorro,Australian Shepherd,13,26.1,Male
+Cachorro,Bulldog,10,21.4,Male
+Cachorro,Belgian Malinois,4,22.8,Female
+Cachorro,West Highland White Terrier,10,9.6,Male
+Cachorro,Schnauzer,12,14.9,Female
+Cachorro,German Shepherd,5,29.0,Male
+Cachorro,German Shepherd,12,25.3,Female
+Cachorro,Bull Terrier,3,25.1,Female
+Cachorro,Belgian Malinois,2,32.0,Male
+Cachorro,Saint Bernard,7,67.7,Female
+Cachorro,Bloodhound,1,48.0,Male
+Cachorro,Pembroke Welsh Corgi,3,13.1,Male
+Cachorro,Irish Setter,14,26.1,Female
+Cachorro,Miniature Schnauzer,7,8.5,Male
+Cachorro,Bichon Frise,4,6.4,Male
+Cachorro,Labrador Retriever,8,25.2,Female
+Cachorro,Chihuahua,6,1.6,Female
+Cachorro,Saint Bernard,14,71.4,Female
+Cachorro,Dogo Argentino,14,41.5,Male
+Cachorro,Siberian Husky,11,17.2,Female
+Cachorro,West Highland White Terrier,11,7.3,Female
+Cachorro,Boston Terrier,3,7.7,Male
+Cachorro,Pembroke Welsh Corgi,7,13.2,Male
+Cachorro,Bulldog,7,20.0,Female
+Cachorro,Beagle,11,12.0,Male
+Cachorro,Bulldog,12,19.4,Female
+Cachorro,Jack Russell Terrier,2,6.8,Female
+Cachorro,Papillon,10,3.0,Female
+Cachorro,French Bulldog,11,10.0,Male
+Cachorro,Siberian Husky,1,20.7,Male
+Cachorro,Weimaraner,2,34.4,Female
+Cachorro,Papillon,4,3.7,Female
+Cachorro,Basenji,4,9.9,Female
+Cachorro,Chihuahua,2,1.8,Female
+Cachorro,Australian Shepherd,12,26.1,Female
+Cachorro,Boston Terrier,4,10.1,Male
+Cachorro,Saint Bernard,5,71.3,Female
+Cachorro,Havanese,4,3.9,Female
+Cachorro,Australian Shepherd,10,24.4,Male
+Cachorro,Shih Tzu,10,5.3,Male
+Cachorro,Dogo Argentino,14,44.4,Male
+Cachorro,Shetland Sheepdog,6,9.9,Male
+Cachorro,Lhasa Apso,7,6.4,Male
+Cachorro,Rottweiler,9,48.7,Male
+Cachorro,Poodle,11,24.5,Female
+Cachorro,Belgian Malinois,10,26.4,Male
+Cachorro,Saint Bernard,12,86.7,Male
+Cachorro,Labrador Retriever,6,34.3,Male
+Cachorro,Schnauzer,6,16.8,Female
+Cachorro,Poodle,9,23.4,Female
+Cachorro,Cavalier King Charles Spaniel,5,6.2,Female
+Cachorro,Labrador Retriever,6,29.2,Female
+Cachorro,Rottweiler,1,54.3,Male
+Cachorro,Whippet,4,14.2,Male
+Cachorro,Weimaraner,2,29.1,Female
+Cachorro,Akita,7,32.7,Female
+Cachorro,Lhasa Apso,9,7.0,Male
+Cachorro,Pekingese,7,3.8,Female
+Cachorro,French Bulldog,4,10.2,Male
+Cachorro,Akita,5,43.3,Male
+Cachorro,West Highland White Terrier,6,8.9,Male
+Cachorro,Shih Tzu,9,5.5,Male
+Cachorro,Lhasa Apso,12,6.8,Female
+Cachorro,Bull Terrier,3,33.6,Male
+Cachorro,Shetland Sheepdog,10,9.5,Male
+Cachorro,Boxer,4,30.1,Male
+Cachorro,Labrador Retriever,3,25.2,Female
+Cachorro,Dachshund,10,12.0,Female
+Cachorro,Whippet,14,16.3,Male
+Cachorro,Alaskan Malamute,2,41.7,Male
+Cachorro,Havanese,2,4.2,Male
+Cachorro,Golden Retriever,11,27.8,Female
+Cachorro,Akita,9,40.6,Female
+Cachorro,Saint Bernard,14,76.3,Female
+Cachorro,Cavalier King Charles Spaniel,11,6.1,Female
+Cachorro,French Bulldog,7,9.5,Female
+Cachorro,Miniature Schnauzer,11,7.1,Male
+Cachorro,Irish Setter,4,28.5,Male
+Cachorro,Saint Bernard,12,79.1,Male
+Cachorro,Boston Terrier,13,6.7,Female
+Cachorro,Doberman Pinscher,3,27.3,Female
+Cachorro,Whippet,3,18.1,Male
+Cachorro,Bichon Frise,5,7.8,Male
+Cachorro,Chihuahua,11,1.6,Female
+Cachorro,Belgian Malinois,8,30.8,Male
+Cachorro,German Shepherd,3,23.3,Female
+Cachorro,Weimaraner,13,31.6,Female
+Cachorro,Dachshund,5,11.3,Male
+Cachorro,Pomeranian,5,2.4,Female
+Cachorro,Alaskan Malamute,10,41.4,Male
+Cachorro,Basenji,12,10.0,Female
+Cachorro,Pembroke Welsh Corgi,13,11.7,Male
+Cachorro,Golden Retriever,2,33.5,Male
+Cachorro,Chinese Shar-Pei,6,19.8,Female
+Cachorro,Pug,4,6.0,Female
+Cachorro,Shiba Inu,8,10.1,Male
+Cachorro,Labrador Retriever,5,31.5,Male
+Cachorro,Bloodhound,14,48.5,Male
+Cachorro,Cocker Spaniel,11,13.8,Male
+Cachorro,Irish Setter,3,25.6,Female
+Cachorro,West Highland White Terrier,12,9.9,Male
+Cachorro,Chinese Shar-Pei,1,24.5,Male
+Cachorro,Basenji,12,10.4,Male
+Cachorro,Shih Tzu,10,4.5,Female
+Cachorro,Cavalier King Charles Spaniel,3,7.9,Male
+Cachorro,Maltese,14,3.1,Female
+Cachorro,Golden Retriever,14,28.4,Male
+Cachorro,French Bulldog,3,11.2,Male
+Cachorro,Cavalier King Charles Spaniel,13,8.0,Male
+Cachorro,Akita,10,57.1,Male
+Cachorro,Alaskan Malamute,7,38.4,Female
+Cachorro,Shih Tzu,9,5.9,Female
+Cachorro,Lhasa Apso,10,6.7,Female
+Cachorro,Basenji,2,9.7,Female
+Cachorro,Yorkshire Terrier,2,2.2,Female
+Cachorro,Cocker Spaniel,2,13.7,Male
+Cachorro,Schnauzer,1,18.7,Male
+Cachorro,Yorkshire Terrier,2,2.7,Male
+Cachorro,Border Collie,8,15.3,Male
+Cachorro,Golden Retriever,1,32.5,Male
+Cachorro,Papillon,7,2.8,Female
+Cachorro,French Bulldog,12,12.8,Male
+Cachorro,Airedale Terrier,6,24.1,Male
+Cachorro,Chihuahua,10,1.6,Female
+Cachorro,Shiba Inu,13,9.6,Female
+Cachorro,Bulldog,9,18.7,Female
+Cachorro,French Bulldog,14,8.6,Female
+Cachorro,Samoyed,6,21.5,Female
+Cachorro,Pembroke Welsh Corgi,7,12.3,Female
+Cachorro,Pomeranian,9,2.5,Male
+Cachorro,Shih Tzu,14,4.6,Female
+Cachorro,Samoyed,2,28.0,Male
+Cachorro,Pembroke Welsh Corgi,5,12.5,Female
+Cachorro,Pug,6,7.4,Male
+Cachorro,Maltese,14,3.1,Female
+Cachorro,Pekingese,13,3.0,Female
+Cachorro,Shetland Sheepdog,10,6.9,Female
+Cachorro,Irish Setter,13,27.5,Male
+Cachorro,Bernese Mountain Dog,1,40.8,Female
+Cachorro,Pug,6,6.9,Male
+Cachorro,Dogo Argentino,7,41.8,Male
+Cachorro,Cocker Spaniel,10,11.5,Female
+Cachorro,Chesapeake Bay Retriever,2,29.2,Female
+Cachorro,Basenji,2,9.3,Female
+Cachorro,Shiba Inu,4,10.6,Male
+Cachorro,Weimaraner,2,32.0,Female
+Cachorro,Beagle,11,11.4,Female
+Cachorro,Shetland Sheepdog,7,6.5,Female
+Cachorro,Schnauzer,11,16.6,Male
+Cachorro,Shih Tzu,1,5.9,Female
+Cachorro,Rottweiler,8,50.2,Male
+Cachorro,Maltese,12,3.5,Male
+Cachorro,Australian Shepherd,7,21.1,Female
+Cachorro,Belgian Malinois,12,32.1,Male
+Cachorro,Miniature Schnauzer,5,8.9,Male
+Cachorro,Basenji,10,9.4,Female
+Cachorro,Australian Shepherd,3,25.6,Female
+Cachorro,Pembroke Welsh Corgi,4,11.5,Male
+Cachorro,Bloodhound,11,46.0,Male
+Cachorro,Jack Russell Terrier,7,6.8,Female
+Cachorro,Pekingese,7,3.2,Female
+Cachorro,German Shepherd,3,23.6,Female
+Cachorro,Schnauzer,2,15.6,Female
+Cachorro,Airedale Terrier,11,28.8,Male
+Cachorro,Maltese,8,3.4,Female
+Cachorro,Maltese,9,4.0,Male
+Cachorro,French Bulldog,9,10.6,Female
+Cachorro,Miniature Schnauzer,12,7.6,Male
+Cachorro,Jack Russell Terrier,12,7.0,Female
+Cachorro,French Bulldog,5,8.1,Female
+Cachorro,West Highland White Terrier,3,6.3,Female
+Cachorro,Siberian Husky,12,25.8,Male
+Cachorro,Bloodhound,10,48.2,Male
+Cachorro,Saint Bernard,12,60.3,Female
+Cachorro,Pomeranian,9,2.9,Male
+Cachorro,Poodle,11,24.7,Female
+Cachorro,Havanese,1,5.7,Male
+Cachorro,Alaskan Malamute,12,40.7,Male
+Cachorro,Shiba Inu,4,8.8,Female
+Cachorro,Pembroke Welsh Corgi,1,11.0,Female
+Cachorro,Basenji,6,9.6,Female
+Cachorro,Boston Terrier,8,9.6,Male
+Cachorro,Dachshund,8,14.3,Male
+Cachorro,Alaskan Malamute,13,39.8,Male
+Cachorro,Vizsla,5,21.6,Female
+Cachorro,Great Dane,12,67.7,Male
+Cachorro,Jack Russell Terrier,13,7.0,Female
+Cachorro,Basenji,9,10.1,Female
+Cachorro,Golden Retriever,3,25.6,Female
+Cachorro,Bichon Frise,12,6.2,Male
+Cachorro,Cocker Spaniel,10,11.1,Female
+Cachorro,Bernese Mountain Dog,6,40.9,Male
+Cachorro,Havanese,13,5.7,Male
+Cachorro,Dogo Argentino,13,40.5,Male
+Cachorro,Chinese Shar-Pei,2,23.3,Male
+Cachorro,Irish Setter,8,31.6,Male
+Cachorro,Boston Terrier,14,5.6,Female
+Cachorro,Dogo Argentino,8,40.4,Male
+Cachorro,Pekingese,2,3.3,Female
+Cachorro,French Bulldog,6,8.4,Female
+Cachorro,Saint Bernard,1,67.7,Male
+Cachorro,Bull Terrier,8,22.6,Female
+Cachorro,Boxer,14,25.8,Female
+Cachorro,Boxer,9,25.2,Female
+Cachorro,Belgian Malinois,5,31.2,Male
+Cachorro,Havanese,6,5.4,Male
+Cachorro,French Bulldog,3,9.3,Female
+Cachorro,Irish Setter,1,25.7,Female
+Cachorro,Border Collie,14,17.4,Male
+Cachorro,Whippet,9,15.6,Female
+Cachorro,Airedale Terrier,7,24.5,Female
+Cachorro,French Bulldog,12,8.1,Female
+Cachorro,Schnauzer,6,16.8,Male
+Cachorro,Boxer,4,26.1,Female
+Cachorro,Dachshund,9,11.1,Male
+Cachorro,Bichon Frise,11,7.2,Male
+Cachorro,Samoyed,13,24.7,Male
+Cachorro,Rottweiler,10,35.8,Female
+Cachorro,Bull Terrier,14,25.9,Female
+Cachorro,Shetland Sheepdog,1,10.1,Male
+Cachorro,Chesapeake Bay Retriever,11,25.7,Female
+Cachorro,Airedale Terrier,8,27.9,Male
+Cachorro,Akita,3,32.9,Female
+Cachorro,Akita,11,48.2,Female
+Cachorro,Maltese,9,3.1,Female
+Cachorro,Chesapeake Bay Retriever,8,31.0,Female
+Cachorro,Poodle,7,31.2,Male
+Cachorro,Basenji,1,11.0,Male
+Cachorro,Weimaraner,6,32.8,Female
+Cachorro,Labrador Retriever,14,34.4,Male
+Cachorro,Pembroke Welsh Corgi,3,11.7,Female
+Cachorro,Akita,11,55.1,Male
+Cachorro,Poodle,7,21.0,Female
+Cachorro,Dogo Argentino,14,42.0,Male
+Cachorro,Pug,9,7.4,Male
+Cachorro,Yorkshire Terrier,5,2.7,Female
+Cachorro,German Shepherd,1,33.7,Male
+Cachorro,Doberman Pinscher,4,31.5,Female
+Cachorro,Lhasa Apso,11,7.3,Male
+Cachorro,Saint Bernard,5,61.1,Female
+Cachorro,Bichon Frise,2,6.3,Male
+Cachorro,Basenji,9,10.3,Male
+Cachorro,Papillon,3,3.0,Female
+Cachorro,Weimaraner,9,32.5,Male
+Cachorro,Lhasa Apso,10,6.8,Male
+Cachorro,Bernese Mountain Dog,9,36.8,Female
+Cachorro,French Bulldog,8,9.1,Female
+Cachorro,Bull Terrier,13,31.5,Male
+Cachorro,Saint Bernard,10,70.6,Female
+Cachorro,Whippet,4,12.5,Female
+Cachorro,Cavalier King Charles Spaniel,7,6.9,Female
+Cachorro,Pekingese,4,5.1,Female
+Cachorro,Rottweiler,8,51.6,Male
+Cachorro,Chesapeake Bay Retriever,8,27.3,Female
+Cachorro,Miniature Schnauzer,3,6.4,Female
+Cachorro,Doberman Pinscher,8,36.9,Female
+Cachorro,Pekingese,12,5.7,Male
+Cachorro,Boston Terrier,9,10.2,Male
+Cachorro,Golden Retriever,5,28.1,Female
+Cachorro,Poodle,4,29.1,Male
+Cachorro,Vizsla,11,25.4,Male
+Cachorro,Siberian Husky,1,25.1,Male
+Cachorro,Airedale Terrier,3,20.3,Female
+Cachorro,Dogo Argentino,11,43.0,Male
+Cachorro,Golden Retriever,13,30.0,Female
+Cachorro,Jack Russell Terrier,6,6.9,Male
+Cachorro,Bichon Frise,5,6.2,Female
+Cachorro,Shetland Sheepdog,3,6.4,Female
+Cachorro,Bull Terrier,8,29.5,Female
+Cachorro,Bull Terrier,11,22.9,Female
+Cachorro,Pembroke Welsh Corgi,4,13.8,Male
+Cachorro,Pomeranian,8,1.7,Female
+Cachorro,Cavalier King Charles Spaniel,4,7.9,Male
+Cachorro,Doberman Pinscher,2,36.4,Female
+Cachorro,Beagle,14,10.9,Female
+Cachorro,Rottweiler,5,56.5,Male
+Cachorro,Miniature Schnauzer,6,8.5,Male
+Cachorro,Great Dane,4,88.4,Male
+Cachorro,Alaskan Malamute,3,35.5,Female
+Cachorro,Cocker Spaniel,12,13.0,Male
+Cachorro,Rottweiler,2,45.3,Male
+Cachorro,Belgian Malinois,12,25.2,Female
+Cachorro,Pekingese,11,3.4,Female
+Cachorro,Irish Setter,12,26.9,Female
+Cachorro,Shetland Sheepdog,4,10.3,Male
+Cachorro,Boxer,5,29.6,Male
+Cachorro,Bernese Mountain Dog,5,45.8,Male
+Cachorro,Whippet,7,15.0,Female
+Cachorro,Shiba Inu,10,9.6,Female
+Cachorro,Bichon Frise,10,7.0,Male
+Cachorro,Boxer,4,27.7,Female
+Cachorro,Great Dane,8,88.0,Male
+Cachorro,Alaskan Malamute,13,34.7,Female
+Cachorro,Doberman Pinscher,5,28.4,Female
+Cachorro,Belgian Malinois,12,25.3,Male
+Cachorro,Labrador Retriever,14,29.7,Female
+Cachorro,Pomeranian,13,2.0,Female
+Cachorro,Pug,1,7.7,Male
+Cachorro,West Highland White Terrier,11,9.1,Male
+Cachorro,Weimaraner,14,33.5,Male
+Cachorro,Cavalier King Charles Spaniel,1,7.8,Male
+Cachorro,Maltese,1,3.5,Female
+Cachorro,Papillon,1,2.9,Female
+Cachorro,French Bulldog,5,9.2,Female
+Cachorro,Chinese Shar-Pei,12,24.7,Male
+Cachorro,Yorkshire Terrier,14,2.1,Female
+Cachorro,Bichon Frise,6,5.3,Female
+Cachorro,Pekingese,6,5.1,Female
+Cachorro,Irish Setter,10,29.1,Male
+Cachorro,Havanese,3,3.7,Female
+Cachorro,Shiba Inu,11,10.5,Male
+Cachorro,Cocker Spaniel,1,12.9,Male
+Cachorro,Yorkshire Terrier,8,3.2,Male
+Cachorro,Rottweiler,2,47.7,Female
+Cachorro,Havanese,12,3.9,Female
+Cachorro,Shih Tzu,10,4.8,Female
+Cachorro,Doberman Pinscher,10,44.8,Male
+Cachorro,Papillon,11,3.4,Female
+Cachorro,Labrador Retriever,13,35.7,Male
+Cachorro,Pembroke Welsh Corgi,1,10.3,Female
+Cachorro,Great Dane,8,85.6,Male
+Cachorro,Weimaraner,13,31.2,Female
+Cachorro,Bernese Mountain Dog,7,33.6,Female
+Cachorro,Shiba Inu,14,10.2,Male
+Cachorro,West Highland White Terrier,8,7.8,Female
+Cachorro,Chihuahua,11,1.5,Female
+Cachorro,Pomeranian,10,2.8,Male
+Cachorro,Great Dane,1,84.9,Male
+Cachorro,Boston Terrier,12,6.2,Female
+Cachorro,Miniature Schnauzer,12,7.6,Male
+Cachorro,Bulldog,10,20.0,Female
+Cachorro,Pomeranian,5,2.6,Male
+Cachorro,Saint Bernard,13,75.9,Female
+Cachorro,Cocker Spaniel,9,11.8,Female
+Cachorro,Rottweiler,6,36.8,Female
+Cachorro,Yorkshire Terrier,3,3.2,Male
+Cachorro,Shih Tzu,13,5.8,Female
+Cachorro,Poodle,12,22.2,Female
+Cachorro,Labrador Retriever,12,31.0,Female
+Cachorro,Yorkshire Terrier,12,2.1,Female
+Cachorro,Australian Shepherd,6,26.4,Female
+Cachorro,Australian Shepherd,5,28.5,Male
+Cachorro,Dogo Argentino,2,39.2,Female
+Cachorro,Pembroke Welsh Corgi,13,11.6,Male
+Cachorro,Bulldog,13,22.1,Female
+Cachorro,Bull Terrier,1,22.3,Female
+Cachorro,Great Dane,3,52.0,Female
+Cachorro,Samoyed,6,17.3,Female
+Cachorro,Border Collie,5,18.8,Male
+Cachorro,Dachshund,13,8.0,Female
+Cachorro,Papillon,3,4.4,Male
+Cachorro,Irish Setter,8,30.2,Male
+Cachorro,Rottweiler,4,35.6,Female
+Cachorro,Bichon Frise,6,5.0,Female
+Cachorro,Chinese Shar-Pei,11,22.6,Male
+Cachorro,Saint Bernard,7,81.0,Male
+Cachorro,Belgian Malinois,5,33.7,Male
+Cachorro,Miniature Schnauzer,10,7.0,Male
+Cachorro,Dogo Argentino,9,44.0,Male
+Cachorro,Akita,1,42.5,Male
+Cachorro,Chinese Shar-Pei,11,28.4,Male
+Cachorro,Cavalier King Charles Spaniel,11,7.9,Male
+Cachorro,Dogo Argentino,12,40.0,Female
+Cachorro,Alaskan Malamute,1,38.1,Female
+Cachorro,Miniature Schnauzer,3,8.6,Male
+Cachorro,Samoyed,7,16.4,Female
+Cachorro,Havanese,14,4.4,Male
+Cachorro,German Shepherd,13,29.8,Male
+Cachorro,Beagle,13,10.6,Female
+Cachorro,West Highland White Terrier,2,9.3,Male
+Cachorro,Dogo Argentino,6,39.1,Female
+Cachorro,Lhasa Apso,10,6.7,Female
+Cachorro,Cavalier King Charles Spaniel,6,5.3,Female
+Cachorro,Pug,3,7.0,Female
+Cachorro,Border Collie,4,15.8,Male
+Cachorro,Saint Bernard,12,73.4,Male
+Cachorro,Rottweiler,4,55.3,Male
+Cachorro,West Highland White Terrier,14,9.9,Male
+Cachorro,Boxer,4,30.2,Male
+Cachorro,Airedale Terrier,9,22.9,Male
+Cachorro,Shih Tzu,6,6.4,Male
+Cachorro,Beagle,14,10.9,Male
+Cachorro,Bloodhound,12,48.9,Male
+Cachorro,Bull Terrier,10,35.0,Male
+Cachorro,Yorkshire Terrier,6,2.6,Male
+Cachorro,Shih Tzu,2,4.2,Female
+Cachorro,Rottweiler,14,38.0,Female
+Cachorro,Pug,9,7.3,Female
+Cachorro,Pomeranian,11,2.8,Male
+Cachorro,Australian Shepherd,13,24.2,Female
+Cachorro,Bernese Mountain Dog,8,40.3,Female
+Cachorro,Yorkshire Terrier,8,2.9,Male
+Cachorro,Saint Bernard,2,58.3,Female
+Cachorro,Beagle,10,13.8,Male
+Cachorro,Doberman Pinscher,14,36.8,Male
+Cachorro,Rottweiler,1,44.4,Female
+Cachorro,Boston Terrier,10,9.8,Male
+Cachorro,Bernese Mountain Dog,5,40.4,Female
+Cachorro,Golden Retriever,7,33.7,Male
+Cachorro,Pug,1,6.2,Female
+Cachorro,Whippet,12,13.6,Female
+Cachorro,Samoyed,4,19.7,Female
+Cachorro,Havanese,4,5.0,Male
+Cachorro,Maltese,5,3.1,Female
+Cachorro,Bulldog,11,18.6,Female
+Cachorro,Weimaraner,2,27.7,Female
+Cachorro,Airedale Terrier,13,24.5,Male
+Cachorro,Rottweiler,11,50.7,Male
+Cachorro,Havanese,1,5.2,Male
+Cachorro,Cavalier King Charles Spaniel,5,7.3,Male
+Cachorro,Bernese Mountain Dog,7,44.4,Male
+Cachorro,Boston Terrier,9,8.7,Male
+Cachorro,Chesapeake Bay Retriever,3,30.4,Male
+Cachorro,Vizsla,13,27.3,Male
+Cachorro,Havanese,2,3.6,Female
+Cachorro,Bichon Frise,3,6.1,Male
+Cachorro,Pekingese,2,4.0,Female
+Cachorro,Chesapeake Bay Retriever,1,28.4,Female
+Cachorro,Chinese Shar-Pei,2,19.8,Female
+Cachorro,Dogo Argentino,7,38.7,Female
+Cachorro,Chinese Shar-Pei,5,26.6,Male
+Cachorro,Pomeranian,5,2.4,Female
+Cachorro,Rottweiler,12,45.5,Female
+Cachorro,Belgian Malinois,6,31.9,Male
+Cachorro,Rottweiler,10,48.9,Male
+Cachorro,Boxer,4,31.0,Male
+Cachorro,Labrador Retriever,7,32.8,Male
+Cachorro,Cocker Spaniel,11,10.5,Female
+Cachorro,Weimaraner,1,36.4,Male
+Cachorro,Doberman Pinscher,3,31.2,Female
+Cachorro,Boston Terrier,14,7.0,Female
+Cachorro,Dogo Argentino,1,39.8,Female
+Cachorro,Lhasa Apso,8,7.8,Male
+Cachorro,French Bulldog,8,11.0,Female
+Cachorro,West Highland White Terrier,14,7.3,Female
+Cachorro,German Shepherd,2,34.4,Male
+Cachorro,Boston Terrier,5,10.2,Male
+Cachorro,Weimaraner,10,28.1,Female
+Cachorro,Bulldog,9,24.3,Male
+Cachorro,Pug,12,7.3,Male
+Cachorro,Lhasa Apso,1,5.2,Female
+Cachorro,Jack Russell Terrier,4,6.8,Male
+Cachorro,Dachshund,11,11.4,Female
+Cachorro,Samoyed,5,16.5,Female
+Cachorro,Basenji,11,10.1,Male
+Cachorro,Cavalier King Charles Spaniel,7,6.7,Male
+Cachorro,Bichon Frise,2,5.3,Female
+Cachorro,Alaskan Malamute,14,35.8,Female
+Cachorro,Schnauzer,4,16.9,Female
+Cachorro,Boston Terrier,4,5.1,Female
+Cachorro,Beagle,3,13.4,Male
+Cachorro,Boxer,5,28.9,Female
+Cachorro,Bichon Frise,5,5.7,Female
+Cachorro,Jack Russell Terrier,11,6.9,Male
+Cachorro,Saint Bernard,5,80.9,Male
+Cachorro,Cocker Spaniel,10,11.4,Male
+Cachorro,Siberian Husky,6,22.5,Male
+Cachorro,Miniature Schnauzer,9,7.5,Female
+Cachorro,Rottweiler,4,59.9,Male
+Cachorro,Dachshund,7,11.0,Female
+Cachorro,Akita,6,46.9,Male
+Cachorro,Chesapeake Bay Retriever,4,33.8,Male
+Cachorro,Alaskan Malamute,4,38.1,Female
+Cachorro,French Bulldog,8,9.3,Female
+Cachorro,Siberian Husky,1,24.4,Male
+Cachorro,Weimaraner,10,30.4,Male
+Cachorro,German Shepherd,8,24.4,Female
+Cachorro,Rottweiler,11,52.3,Male
+Cachorro,Labrador Retriever,13,30.0,Male
+Cachorro,Bull Terrier,5,23.7,Female
+Cachorro,Maltese,1,3.5,Female
+Cachorro,Weimaraner,12,39.9,Male
+Cachorro,Saint Bernard,13,67.6,Female
+Cachorro,Poodle,11,26.5,Female
+Cachorro,Beagle,13,14.0,Male
+Cachorro,French Bulldog,12,8.5,Female
+Cachorro,Akita,6,49.3,Male
+Cachorro,Basenji,11,10.2,Male
+Cachorro,Chesapeake Bay Retriever,4,25.6,Female
+Cachorro,Great Dane,12,82.8,Male
+Cachorro,Bulldog,7,20.0,Female
+Cachorro,Border Collie,8,17.2,Male
+Cachorro,Shiba Inu,1,8.3,Female
+Cachorro,Samoyed,4,22.5,Male
+Cachorro,Chinese Shar-Pei,3,29.3,Male
+Cachorro,Boxer,1,25.2,Female
+Cachorro,Dogo Argentino,8,40.0,Male
+Cachorro,Poodle,1,26.5,Male
+Cachorro,Chesapeake Bay Retriever,8,32.4,Male
+Cachorro,Rottweiler,3,53.3,Male
+Cachorro,Cavalier King Charles Spaniel,1,7.0,Male
+Cachorro,Yorkshire Terrier,3,2.5,Male
+Cachorro,Boston Terrier,7,8.1,Male
+Cachorro,Rottweiler,13,48.7,Female
+Cachorro,French Bulldog,1,10.1,Female
+Cachorro,Shetland Sheepdog,13,8.5,Female
+Cachorro,Bichon Frise,9,6.3,Female
+Cachorro,Airedale Terrier,4,27.5,Male
+Cachorro,French Bulldog,14,9.9,Male
+Cachorro,Bloodhound,11,39.3,Female
+Cachorro,Boston Terrier,4,9.2,Male
+Cachorro,Rottweiler,7,40.5,Female
+Cachorro,Cocker Spaniel,7,12.0,Female
+Cachorro,Schnauzer,7,15.9,Female
+Cachorro,Labrador Retriever,5,30.5,Female
+Cachorro,Poodle,11,30.8,Male
+Cachorro,Bichon Frise,3,6.0,Female
+Cachorro,Alaskan Malamute,6,42.5,Male
+Cachorro,Cavalier King Charles Spaniel,5,6.1,Female
+Cachorro,Boxer,11,28.9,Female
+Cachorro,Cocker Spaniel,3,12.1,Male
+Cachorro,Rottweiler,1,51.9,Male
+Cachorro,Shetland Sheepdog,10,10.2,Male
+Cachorro,Vizsla,12,20.7,Female
+Cachorro,Great Dane,2,72.4,Male
+Cachorro,Yorkshire Terrier,11,2.7,Female
+Cachorro,Alaskan Malamute,6,40.8,Male
+Cachorro,Irish Setter,14,24.9,Female
+Cachorro,Labrador Retriever,10,27.4,Female
+Cachorro,Basenji,14,9.9,Male
+Cachorro,Chinese Shar-Pei,6,18.2,Female
+Cachorro,Bloodhound,9,44.4,Female
+Cachorro,Bernese Mountain Dog,5,44.8,Male
+Cachorro,Dachshund,13,8.6,Female
+Cachorro,Chinese Shar-Pei,10,22.7,Female
+Cachorro,Akita,1,32.1,Female
+Cachorro,Havanese,14,3.5,Female
+Cachorro,Shiba Inu,14,9.4,Female
+Cachorro,Cocker Spaniel,13,13.2,Male
+Cachorro,Border Collie,7,17.1,Female
+Cachorro,Chihuahua,2,2.1,Female
+Cachorro,Shiba Inu,2,10.0,Male
+Cachorro,Chinese Shar-Pei,4,23.9,Female
+Cachorro,Beagle,1,13.7,Male
+Cachorro,Chesapeake Bay Retriever,4,34.0,Male
+Cachorro,Airedale Terrier,2,25.3,Female
+Cachorro,Whippet,4,17.9,Male
+Cachorro,Samoyed,14,23.9,Female
+Cachorro,Belgian Malinois,12,25.6,Male
+Cachorro,Bulldog,2,21.3,Female
+Cachorro,Pekingese,5,4.0,Female
+Cachorro,Bichon Frise,8,7.1,Male
+Cachorro,Doberman Pinscher,11,34.7,Female
+Cachorro,Saint Bernard,7,77.1,Female
+Cachorro,Golden Retriever,5,33.9,Male
+Cachorro,Boston Terrier,6,6.1,Female
+Cachorro,Samoyed,7,22.7,Female
+Cachorro,Australian Shepherd,1,23.8,Female
+Cachorro,Weimaraner,5,33.6,Male
+Cachorro,Belgian Malinois,14,25.7,Male
+Cachorro,Bulldog,10,20.6,Male
+Cachorro,Rottweiler,4,56.4,Male
+Cachorro,Whippet,8,13.5,Female
+Cachorro,Shih Tzu,1,6.0,Female
+Cachorro,Cavalier King Charles Spaniel,1,7.0,Male
+Cachorro,Samoyed,9,24.9,Female
+Cachorro,Havanese,4,3.8,Female
+Cachorro,Akita,7,45.9,Female
+Cachorro,Saint Bernard,6,69.2,Male
+Cachorro,Boxer,13,27.5,Female
+Cachorro,Border Collie,8,16.2,Female
+Cachorro,Border Collie,4,19.6,Male
+Cachorro,Pomeranian,14,3.3,Male
+Cachorro,Siberian Husky,3,16.3,Female
+Cachorro,Australian Shepherd,9,19.9,Female
+Cachorro,Akita,2,32.9,Female
+Cachorro,Border Collie,4,12.6,Female
+Cachorro,Chinese Shar-Pei,9,23.3,Female
+Cachorro,Bloodhound,12,42.5,Female
+Cachorro,Irish Setter,14,28.0,Female
+Cachorro,Pug,4,7.8,Male
+Cachorro,Jack Russell Terrier,13,7.7,Male
+Cachorro,Basenji,12,10.7,Male
+Cachorro,Labrador Retriever,6,29.2,Male
+Cachorro,Dachshund,2,11.0,Male
+Cachorro,Pembroke Welsh Corgi,3,11.6,Female
+Cachorro,Shih Tzu,11,5.8,Female
+Cachorro,Rottweiler,12,35.1,Female
+Cachorro,Cavalier King Charles Spaniel,12,7.1,Male
+Cachorro,Beagle,7,13.0,Male
+Cachorro,Samoyed,4,16.3,Female
+Cachorro,Dogo Argentino,3,37.6,Female
+Cachorro,Cavalier King Charles Spaniel,14,6.7,Female
+Cachorro,Australian Shepherd,6,23.0,Female
+Cachorro,Belgian Malinois,4,20.8,Female
+Cachorro,Bloodhound,6,43.8,Female
+Cachorro,Dogo Argentino,13,37.3,Female
+Cachorro,Alaskan Malamute,12,39.0,Female
+Cachorro,Miniature Schnauzer,2,7.2,Male
+Cachorro,Rottweiler,10,44.6,Female
+Cachorro,Great Dane,11,72.4,Male
+Cachorro,German Shepherd,2,31.5,Male
+Cachorro,Belgian Malinois,11,28.4,Female
+Cachorro,Golden Retriever,6,26.1,Female
+Cachorro,Whippet,10,11.4,Female
+Cachorro,Great Dane,11,55.0,Female
+Cachorro,Chihuahua,9,2.7,Male
+Cachorro,Vizsla,10,28.7,Male
+Cachorro,Bichon Frise,14,8.0,Male
+Cachorro,Weimaraner,4,33.1,Male
+Cachorro,Schnauzer,3,15.6,Female
+Cachorro,Pekingese,3,4.5,Male
+Cachorro,Whippet,5,14.0,Female
+Cachorro,Irish Setter,8,29.2,Female
+Cachorro,Pekingese,9,4.6,Female
+Cachorro,Whippet,9,16.9,Male
+Cachorro,Chesapeake Bay Retriever,6,27.8,Female
+Cachorro,Siberian Husky,6,22.5,Female
+Cachorro,Shiba Inu,4,9.0,Female
+Cachorro,Belgian Malinois,11,19.6,Female
+Cachorro,Pug,8,6.5,Female
+Cachorro,Golden Retriever,7,28.5,Male
+Cachorro,Yorkshire Terrier,1,2.6,Male
+Cachorro,Chinese Shar-Pei,9,22.3,Male
+Cachorro,Dachshund,13,9.4,Female
+Cachorro,Lhasa Apso,6,7.3,Male
+Cachorro,Border Collie,12,13.8,Female
+Cachorro,Bichon Frise,6,5.8,Female
+Cachorro,German Shepherd,4,39.5,Male
+Cachorro,Labrador Retriever,9,34.2,Male
+Cachorro,Poodle,10,28.4,Male
+Cachorro,Maltese,13,3.2,Female
+Cachorro,Akita,10,47.7,Female
+Cachorro,Australian Shepherd,8,24.0,Male
+Cachorro,French Bulldog,5,9.1,Female
+Cachorro,Irish Setter,8,28.7,Female
+Cachorro,Vizsla,2,23.4,Female
+Cachorro,Alaskan Malamute,4,41.5,Male
+Cachorro,Cocker Spaniel,14,11.1,Female
+Cachorro,Maltese,14,3.8,Male
+Cachorro,Beagle,6,11.7,Male
+Cachorro,Boston Terrier,11,5.9,Female
+Cachorro,Beagle,12,11.8,Male
+Cachorro,Great Dane,9,49.5,Female
+Cachorro,Chinese Shar-Pei,10,24.8,Female
+Cachorro,Beagle,6,9.9,Female
+Cachorro,Golden Retriever,9,28.3,Female
+Cachorro,Great Dane,8,83.9,Male
+Cachorro,Great Dane,4,83.7,Male
+Cachorro,Bloodhound,6,44.9,Male
+Cachorro,Vizsla,10,23.1,Female
+Cachorro,Poodle,13,32.0,Male
+Cachorro,Samoyed,7,22.1,Female
+Cachorro,Boxer,11,31.2,Male
+Cachorro,Weimaraner,6,33.8,Female
+Cachorro,Shih Tzu,12,6.8,Male
+Cachorro,Shetland Sheepdog,4,6.7,Female
+Cachorro,Schnauzer,3,18.3,Male
+Cachorro,Doberman Pinscher,4,28.2,Female
+Cachorro,Saint Bernard,10,82.1,Male
+Cachorro,Samoyed,2,24.7,Female
+Cachorro,Chinese Shar-Pei,12,22.0,Female
+Cachorro,Yorkshire Terrier,7,2.8,Male
+Cachorro,Bernese Mountain Dog,10,32.5,Female
+Cachorro,Shetland Sheepdog,4,11.8,Male
+Cachorro,Samoyed,8,21.8,Male
+Cachorro,Vizsla,8,20.3,Female
+Cachorro,Pomeranian,6,1.8,Female
+Cachorro,Pug,12,6.8,Male
+Cachorro,Bernese Mountain Dog,13,44.9,Male
+Cachorro,Irish Setter,3,26.7,Female
+Cachorro,Vizsla,2,25.5,Male
+Cachorro,German Shepherd,11,28.9,Male
+Cachorro,Poodle,8,25.1,Male
+Cachorro,Beagle,6,10.2,Female
+Cachorro,Siberian Husky,13,16.4,Female
+Cachorro,Border Collie,1,18.4,Male
+Cachorro,Dachshund,4,8.1,Female
+Cachorro,Chihuahua,8,2.3,Male
+Cachorro,Yorkshire Terrier,2,2.7,Male
+Cachorro,Rottweiler,1,41.8,Female
+Cachorro,Samoyed,9,20.9,Male
+Cachorro,Poodle,2,25.1,Male
+Cachorro,Jack Russell Terrier,8,7.1,Female
+Cachorro,West Highland White Terrier,14,7.4,Male
+Cachorro,French Bulldog,8,11.4,Male
+Cachorro,Dachshund,7,12.3,Male
+Cachorro,Whippet,1,15.5,Male
+Cachorro,Bichon Frise,6,5.8,Female
+Cachorro,Bernese Mountain Dog,6,49.1,Male
+Cachorro,French Bulldog,7,10.7,Female
+Cachorro,Chihuahua,12,2.3,Male
+Cachorro,Miniature Schnauzer,6,7.2,Male
+Cachorro,Poodle,14,21.9,Female
+Cachorro,Bulldog,4,20.2,Female
+Cachorro,Doberman Pinscher,14,35.0,Female
+Cachorro,Poodle,4,21.8,Female
+Cachorro,Cavalier King Charles Spaniel,13,5.6,Female
+Cachorro,Maltese,9,4.0,Male
+Cachorro,French Bulldog,4,9.9,Male
+Cachorro,Poodle,13,23.6,Female
+Cachorro,Basenji,12,9.9,Female
+Cachorro,Weimaraner,12,26.5,Female
+Cachorro,Rottweiler,10,35.8,Female
+Cachorro,Maltese,12,3.1,Female
+Cachorro,Chesapeake Bay Retriever,4,31.6,Female
+Cachorro,Miniature Schnauzer,12,5.0,Female
+Cachorro,Chesapeake Bay Retriever,12,30.2,Male
+Cachorro,Chihuahua,4,2.1,Male
+Cachorro,Rottweiler,7,36.8,Female
+Cachorro,Rottweiler,11,45.1,Female
+Cachorro,Dogo Argentino,11,36.6,Female
+Cachorro,Alaskan Malamute,5,37.3,Female
+Cachorro,Irish Setter,14,27.1,Female
+Cachorro,Lhasa Apso,13,6.7,Female
+Cachorro,Papillon,13,3.2,Male
+Cachorro,Chesapeake Bay Retriever,3,35.0,Male
+Cachorro,Doberman Pinscher,6,34.2,Female
+Cachorro,Pekingese,13,3.4,Female
+Cachorro,Siberian Husky,2,21.5,Female
+Cachorro,Irish Setter,9,28.4,Female
+Cachorro,Shiba Inu,10,9.5,Male
+Cachorro,Akita,9,57.6,Male
+Cachorro,Chinese Shar-Pei,6,25.7,Male
+Cachorro,Havanese,9,4.2,Female
+Cachorro,Bernese Mountain Dog,4,51.8,Male
+Cachorro,Irish Setter,13,25.9,Female
+Cachorro,Whippet,1,18.0,Male
+Cachorro,Alaskan Malamute,7,39.0,Male
+Cachorro,Papillon,4,4.2,Male
+Cachorro,Belgian Malinois,2,25.0,Female
+Cachorro,Irish Setter,12,25.1,Female
+Cachorro,Labrador Retriever,8,31.8,Male
+Cachorro,Siberian Husky,9,22.1,Male
+Cachorro,Boxer,4,27.8,Male
+Cachorro,Miniature Schnauzer,8,6.5,Male
+Cachorro,Bulldog,12,19.6,Female
+Cachorro,Rottweiler,7,44.1,Male
+Cachorro,French Bulldog,8,10.3,Male
+Cachorro,Lhasa Apso,10,6.4,Female
+Cachorro,Siberian Husky,7,24.9,Male
+Cachorro,Vizsla,10,24.8,Female
+Cachorro,Papillon,14,3.6,Male
+Cachorro,Samoyed,7,29.0,Male
+Cachorro,Lhasa Apso,8,7.2,Male
+Cachorro,Samoyed,9,17.1,Female
+Cachorro,Miniature Schnauzer,14,6.8,Male
+Cachorro,Chinese Shar-Pei,6,23.4,Female
+Cachorro,Rottweiler,7,37.8,Female
+Cachorro,Rottweiler,4,43.2,Female
+Cachorro,Border Collie,8,17.2,Female
+Cachorro,Rottweiler,3,43.8,Male
+Cachorro,Irish Setter,12,24.1,Female
+Cachorro,Pekingese,8,6.5,Male
+Cachorro,French Bulldog,9,11.7,Male
+Cachorro,Dachshund,3,10.5,Male
+Cachorro,Boston Terrier,14,10.6,Male
+Cachorro,West Highland White Terrier,4,9.7,Male
+Cachorro,German Shepherd,2,34.6,Male
+Cachorro,Boston Terrier,9,7.4,Female
+Cachorro,Pug,12,6.4,Female
+Cachorro,West Highland White Terrier,2,7.5,Male
+Cachorro,Whippet,1,14.1,Female
+Cachorro,Great Dane,11,53.6,Female
+Cachorro,Border Collie,11,18.3,Male
+Cachorro,Havanese,1,4.6,Female
+Cachorro,Papillon,6,3.2,Male
+Cachorro,Lhasa Apso,2,6.2,Female
+Cachorro,Golden Retriever,11,26.4,Female
+Cachorro,Bloodhound,6,44.0,Female
+Cachorro,Boxer,1,26.2,Female
+Cachorro,Golden Retriever,4,31.7,Male
+Cachorro,Papillon,9,3.2,Female
+Cachorro,Airedale Terrier,1,25.1,Male
+Cachorro,Belgian Malinois,9,25.9,Female
+Cachorro,Bernese Mountain Dog,10,48.4,Male
+Cachorro,Dogo Argentino,5,42.2,Male
+Cachorro,Weimaraner,14,37.6,Male
+Cachorro,Border Collie,7,17.1,Female
+Cachorro,Bulldog,12,19.9,Female
+Cachorro,Belgian Malinois,10,24.0,Female
+Cachorro,Dachshund,1,9.9,Male
+Cachorro,Siberian Husky,12,21.7,Female
+Cachorro,Basenji,2,10.4,Male
+Cachorro,Chesapeake Bay Retriever,8,31.8,Male
+Cachorro,Vizsla,3,24.1,Male
+Cachorro,Bull Terrier,7,31.3,Female
+Cachorro,Shiba Inu,4,8.8,Female
+Cachorro,Chesapeake Bay Retriever,14,33.7,Male
+Cachorro,Border Collie,5,15.6,Male
+Cachorro,Saint Bernard,5,89.1,Male
+Cachorro,Bernese Mountain Dog,12,41.3,Male
+Cachorro,Whippet,12,12.0,Female
+Cachorro,Maltese,6,3.6,Female
+Cachorro,Miniature Schnauzer,1,7.4,Female
+Cachorro,Boston Terrier,1,7.9,Male
+Cachorro,Cavalier King Charles Spaniel,14,5.9,Female
+Cachorro,Great Dane,9,82.2,Male
+Cachorro,Yorkshire Terrier,12,2.7,Female
+Cachorro,Miniature Schnauzer,7,7.4,Male
+Cachorro,Bernese Mountain Dog,13,38.7,Female
+Cachorro,Maltese,7,3.8,Male
+Cachorro,Bull Terrier,11,29.6,Female
+Cachorro,West Highland White Terrier,5,8.0,Female
+Cachorro,Great Dane,9,61.7,Female
+Cachorro,Maltese,10,3.4,Male
+Cachorro,Miniature Schnauzer,13,8.8,Male
+Cachorro,French Bulldog,1,10.8,Female
+Cachorro,Airedale Terrier,8,27.7,Male
+Cachorro,Cocker Spaniel,6,11.3,Male
+Cachorro,Samoyed,7,17.9,Female
+Cachorro,Labrador Retriever,4,34.2,Male
+Cachorro,Dachshund,14,9.9,Male
+Cachorro,French Bulldog,11,12.9,Male
+Cachorro,Beagle,10,10.2,Female
+Cachorro,Bichon Frise,13,6.4,Female
+Cachorro,Saint Bernard,1,75.2,Female
+Cachorro,Beagle,5,12.0,Male
+Cachorro,Cocker Spaniel,3,12.1,Male
+Cachorro,Akita,2,42.7,Female
+Cachorro,Whippet,13,14.0,Female
+Cachorro,Whippet,11,13.1,Female
+Cachorro,Bloodhound,8,41.5,Female
+Cachorro,Boston Terrier,2,10.7,Male
+Cachorro,Alaskan Malamute,13,39.9,Male
+Cachorro,Labrador Retriever,1,26.4,Female
+Cachorro,Weimaraner,3,28.7,Female
+Cachorro,Samoyed,8,19.6,Female
+Cachorro,Belgian Malinois,9,25.8,Male
+Cachorro,Golden Retriever,11,29.1,Male
+Cachorro,Chesapeake Bay Retriever,9,33.7,Male
+Cachorro,Siberian Husky,14,18.4,Female
+Cachorro,Australian Shepherd,1,31.5,Male
+Cachorro,Chesapeake Bay Retriever,7,30.6,Male
+Cachorro,Havanese,6,4.2,Male
+Cachorro,Siberian Husky,5,25.2,Male
+Cachorro,Poodle,8,26.9,Female
+Cachorro,Bloodhound,5,38.5,Female
+Cachorro,German Shepherd,1,30.7,Male
+Cachorro,Dachshund,7,8.0,Female
+Cachorro,Beagle,11,10.7,Female
+Cachorro,Beagle,5,10.5,Female
+Cachorro,Bloodhound,7,43.3,Male
+Cachorro,Bloodhound,5,41.3,Male
+Cachorro,Pembroke Welsh Corgi,1,12.7,Male
+Cachorro,Whippet,3,16.0,Female
+Cachorro,Shetland Sheepdog,9,10.6,Male
+Cachorro,Whippet,12,13.6,Female
+Cachorro,Whippet,8,11.6,Female
+Cachorro,Chinese Shar-Pei,9,24.2,Male
+Cachorro,Golden Retriever,11,26.7,Female
+Cachorro,Siberian Husky,7,25.3,Male
+Cachorro,Pekingese,5,5.0,Female
+Cachorro,Boxer,5,31.6,Male
+Cachorro,Chinese Shar-Pei,10,25.7,Female
+Cachorro,Yorkshire Terrier,9,2.8,Female
+Cachorro,Poodle,5,27.4,Female
+Cachorro,Papillon,12,3.3,Male
+Cachorro,Dogo Argentino,13,39.4,Male
+Cachorro,Alaskan Malamute,6,35.8,Female
+Cachorro,German Shepherd,14,34.8,Male
+Cachorro,Alaskan Malamute,4,34.6,Female
+Cachorro,Australian Shepherd,5,24.8,Female
+Cachorro,Siberian Husky,13,24.3,Male
+Cachorro,Jack Russell Terrier,11,7.4,Male
+Cachorro,Siberian Husky,13,21.0,Male
+Cachorro,Shetland Sheepdog,12,7.0,Female
+Cachorro,Miniature Schnauzer,3,5.4,Female
+Cachorro,Bernese Mountain Dog,13,50.1,Male
+Cachorro,Shih Tzu,3,5.2,Female
+Cachorro,Cavalier King Charles Spaniel,14,7.5,Male
+Cachorro,Great Dane,8,69.4,Male
+Cachorro,Airedale Terrier,14,24.9,Male
+Cachorro,Belgian Malinois,13,22.7,Female
+Cachorro,Shetland Sheepdog,10,9.0,Female
+Cachorro,Beagle,6,11.5,Female
+Cachorro,Weimaraner,3,32.3,Male
+Cachorro,Lhasa Apso,12,6.8,Female
+Cachorro,Basenji,2,9.2,Female
+Cachorro,Border Collie,5,16.7,Female
+Cachorro,Cavalier King Charles Spaniel,5,5.2,Female
+Cachorro,Poodle,2,26.3,Male
+Cachorro,Australian Shepherd,9,30.4,Male
+Cachorro,Vizsla,10,21.2,Female
+Cachorro,Vizsla,12,26.2,Male
+Cachorro,Rottweiler,13,42.3,Female
+Cachorro,Schnauzer,3,15.0,Female
+Cachorro,Shiba Inu,6,9.4,Female
+Cachorro,Lhasa Apso,9,7.7,Male
+Cachorro,Pug,3,7.8,Male
+Cachorro,Shiba Inu,10,9.7,Male
+Cachorro,Dachshund,5,9.8,Female
+Cachorro,Siberian Husky,12,21.6,Male
+Cachorro,Pekingese,10,3.6,Female
+Cachorro,Labrador Retriever,7,30.0,Male
+Cachorro,Pekingese,2,6.4,Male
+Cachorro,Border Collie,11,16.6,Female
+Cachorro,Bull Terrier,3,35.7,Male
+Cachorro,Pomeranian,13,2.2,Female
+Cachorro,Cocker Spaniel,7,10.8,Female
+Cachorro,Poodle,3,28.3,Male
+Cachorro,Weimaraner,1,35.5,Male
+Cachorro,Cocker Spaniel,13,10.6,Female
+Cachorro,Weimaraner,12,26.3,Female
+Cachorro,Poodle,1,25.2,Male
+Cachorro,Great Dane,7,72.9,Female
+Cachorro,Siberian Husky,10,23.3,Male
+Cachorro,Border Collie,7,19.8,Male
+Cachorro,Rottweiler,14,46.4,Male
+Cachorro,Cocker Spaniel,3,11.0,Female
+Cachorro,Siberian Husky,4,21.3,Male
+Cachorro,Bloodhound,13,43.2,Male
+Cachorro,Rottweiler,3,44.2,Male
+Cachorro,Papillon,1,3.4,Male
+Cachorro,Pug,10,7.9,Male
+Cachorro,Pekingese,7,3.7,Female
+Cachorro,Labrador Retriever,2,33.2,Male
+Cachorro,Havanese,11,3.9,Female
+Cachorro,Australian Shepherd,5,20.2,Female
+Cachorro,Dachshund,5,12.6,Male
+Cachorro,French Bulldog,3,10.4,Male
+Cachorro,French Bulldog,6,13.0,Male
+Cachorro,Pug,11,7.1,Female
+Cachorro,Lhasa Apso,3,7.5,Male
+Cachorro,Boxer,14,27.1,Female
+Cachorro,Boston Terrier,4,5.6,Female
+Cachorro,Papillon,3,4.4,Male
+Cachorro,Vizsla,4,22.2,Female
+Cachorro,Lhasa Apso,9,6.1,Male
+Cachorro,Doberman Pinscher,11,37.3,Male
+Cachorro,Dogo Argentino,3,43.7,Male
+Cachorro,Boxer,5,30.3,Male
+Cachorro,Airedale Terrier,8,27.4,Male
+Cachorro,Australian Shepherd,11,29.9,Male
+Cachorro,Bloodhound,14,37.9,Female
+Cachorro,Chihuahua,4,2.9,Male
+Cachorro,Chesapeake Bay Retriever,14,32.0,Male
+Cachorro,Bulldog,4,23.4,Male
+Cachorro,Pug,11,6.7,Male
+Cachorro,Weimaraner,4,39.9,Male
+Cachorro,Rottweiler,7,48.3,Male
+Cachorro,Havanese,3,4.2,Male
+Cachorro,Bichon Frise,6,6.9,Male
+Cachorro,Irish Setter,9,27.5,Male
+Cachorro,Rottweiler,8,37.5,Female
+Cachorro,Pomeranian,12,2.3,Female
+Cachorro,Akita,4,48.3,Male
+Cachorro,Cavalier King Charles Spaniel,4,6.8,Female
+Cachorro,Pug,8,7.1,Male
+Cachorro,Bichon Frise,12,7.5,Male
+Cachorro,Jack Russell Terrier,3,7.3,Male
+Cachorro,Jack Russell Terrier,3,6.9,Female
+Cachorro,Whippet,1,14.1,Female
+Cachorro,Pembroke Welsh Corgi,8,11.2,Female
+Cachorro,Havanese,11,5.9,Male
+Cachorro,Chihuahua,14,1.8,Female
+Cachorro,Bull Terrier,12,23.8,Female
+Cachorro,Cavalier King Charles Spaniel,1,6.3,Female
+Cachorro,Border Collie,10,16.4,Female
+Cachorro,Akita,6,42.2,Male
+Cachorro,Doberman Pinscher,5,32.3,Female
+Cachorro,Saint Bernard,9,75.3,Female
+Cachorro,Rottweiler,7,47.2,Female
+Cachorro,Samoyed,5,25.0,Female
+Cachorro,Lhasa Apso,12,7.1,Male
+Cachorro,Vizsla,2,27.8,Male
+Cachorro,Bulldog,7,19.4,Female
+Cachorro,Dogo Argentino,13,44.7,Male
+Cachorro,Shih Tzu,6,4.8,Female
+Cachorro,Vizsla,9,28.3,Male
+Cachorro,Cocker Spaniel,11,12.4,Male
+Cachorro,Alaskan Malamute,8,37.3,Female
+Cachorro,Yorkshire Terrier,14,2.6,Female
+Cachorro,Shiba Inu,5,9.0,Female
+Cachorro,Doberman Pinscher,3,37.6,Female
+Cachorro,Poodle,13,27.5,Male
+Cachorro,Weimaraner,12,31.3,Female
+Cachorro,German Shepherd,3,26.0,Female
+Cachorro,Pekingese,10,5.2,Male
+Cachorro,Poodle,14,27.6,Male
+Cachorro,Pug,1,6.9,Male
+Cachorro,Bloodhound,2,36.8,Female
+Cachorro,Basenji,13,9.9,Female
+Cachorro,Pomeranian,5,3.1,Male
+Cachorro,Cavalier King Charles Spaniel,10,7.3,Male
+Cachorro,Cocker Spaniel,5,11.0,Male
+Cachorro,Bulldog,4,19.5,Female
+Cachorro,Boston Terrier,1,5.8,Female
+Cachorro,West Highland White Terrier,6,9.4,Male
+Cachorro,Dachshund,12,14.3,Male
+Cachorro,French Bulldog,11,8.8,Female
+Cachorro,Pomeranian,9,2.4,Female
+Cachorro,Vizsla,9,20.8,Female
+Cachorro,Pekingese,13,4.9,Male
+Cachorro,Belgian Malinois,14,25.9,Male
+Cachorro,Basenji,8,10.1,Male
+Cachorro,Doberman Pinscher,3,41.2,Male
+Cachorro,Chinese Shar-Pei,6,25.1,Female
+Cachorro,Basenji,2,10.0,Male
+Cachorro,West Highland White Terrier,6,7.4,Female
+Cachorro,Cavalier King Charles Spaniel,3,7.4,Male
+Cachorro,Pekingese,2,5.2,Female
+Cachorro,Chesapeake Bay Retriever,14,29.4,Female
+Cachorro,Cavalier King Charles Spaniel,14,6.5,Male
+Cachorro,Irish Setter,3,30.1,Male
+Cachorro,Vizsla,11,22.1,Female
+Cachorro,Maltese,10,4.0,Male
+Cachorro,Pug,7,6.5,Female
+Cachorro,Saint Bernard,12,82.8,Male
+Cachorro,Bull Terrier,8,22.2,Female
+Cachorro,Pekingese,13,5.1,Male
+Cachorro,German Shepherd,14,38.5,Male
+Cachorro,Havanese,5,4.2,Female
+Cachorro,Yorkshire Terrier,7,2.8,Male
+Cachorro,Labrador Retriever,13,31.7,Female
+Cachorro,Havanese,2,4.7,Female
+Cachorro,Vizsla,6,25.6,Male
+Cachorro,Jack Russell Terrier,8,6.7,Female
+Cachorro,Border Collie,6,17.3,Male
+Cachorro,Bernese Mountain Dog,5,40.2,Female
+Cachorro,Bernese Mountain Dog,14,36.3,Female
+Cachorro,Beagle,14,9.8,Female
+Cachorro,Maltese,9,3.9,Male
+Cachorro,Australian Shepherd,3,25.6,Female
+Cachorro,Vizsla,10,25.5,Female
+Cachorro,Belgian Malinois,7,35.7,Male
+Cachorro,Doberman Pinscher,2,35.7,Female
+Cachorro,Pug,9,7.0,Female
+Cachorro,Lhasa Apso,11,7.5,Male
+Cachorro,Alaskan Malamute,8,40.0,Male
+Cachorro,Irish Setter,13,26.4,Female
+Cachorro,Poodle,10,21.9,Female
+Cachorro,Cocker Spaniel,2,11.3,Female
+Cachorro,Jack Russell Terrier,2,6.4,Female
+Cachorro,Pomeranian,2,2.5,Male
+Cachorro,Samoyed,10,21.3,Female
+Cachorro,Pembroke Welsh Corgi,8,12.5,Male
+Cachorro,Pembroke Welsh Corgi,10,12.0,Male
+Cachorro,Chesapeake Bay Retriever,9,34.7,Male
+Cachorro,Rottweiler,10,49.0,Female
+Cachorro,Border Collie,4,12.9,Female
+Cachorro,Lhasa Apso,11,5.0,Female
+Cachorro,Rottweiler,11,40.5,Female
+Cachorro,Jack Russell Terrier,14,7.0,Female
+Cachorro,Shiba Inu,13,9.6,Female
+Cachorro,Weimaraner,6,31.6,Male
+Cachorro,Miniature Schnauzer,2,7.0,Female
+Cachorro,Havanese,14,3.2,Female
+Cachorro,Shetland Sheepdog,2,9.6,Male
+Cachorro,Golden Retriever,1,34.0,Male
+Cachorro,Yorkshire Terrier,12,2.2,Female
+Cachorro,Dachshund,8,7.8,Female
+Cachorro,Poodle,7,23.3,Female
+Cachorro,Bloodhound,3,41.6,Female
+Cachorro,Bloodhound,11,44.5,Female
+Cachorro,Weimaraner,7,39.8,Male
+Cachorro,German Shepherd,5,29.1,Male
+Cachorro,Dogo Argentino,2,39.4,Male
+Cachorro,Weimaraner,1,32.7,Female
+Cachorro,Poodle,13,26.3,Male
+Cachorro,Poodle,5,26.9,Female
+Cachorro,Bloodhound,5,46.9,Male
+Cachorro,Saint Bernard,8,69.8,Male
+Cachorro,Maltese,1,3.9,Male
+Cachorro,Rottweiler,1,46.6,Male
+Cachorro,Australian Shepherd,8,20.4,Female
+Cachorro,Boston Terrier,10,9.3,Male
+Cachorro,Whippet,1,16.4,Male
+Cachorro,Boxer,13,28.1,Female
+Cachorro,Bulldog,7,23.4,Male
+Cachorro,Rottweiler,10,59.9,Male
+Cachorro,Maltese,5,3.6,Female
+Cachorro,Cavalier King Charles Spaniel,7,6.0,Female
+Cachorro,Golden Retriever,13,28.7,Male
+Cachorro,Cocker Spaniel,11,13.5,Male
+Cachorro,French Bulldog,8,11.2,Female
+Cachorro,Shih Tzu,7,5.8,Male
+Cachorro,Pembroke Welsh Corgi,7,12.6,Male
+Cachorro,Shih Tzu,7,6.0,Male
+Cachorro,Weimaraner,1,30.8,Male
+Cachorro,Doberman Pinscher,8,34.9,Female
+Cachorro,Border Collie,6,13.8,Female
+Cachorro,Beagle,3,13.3,Male
+Cachorro,Jack Russell Terrier,3,7.8,Male
+Cachorro,Akita,14,55.9,Male
+Cachorro,Shetland Sheepdog,5,9.7,Male
+Cachorro,Boston Terrier,14,6.3,Female
+Cachorro,West Highland White Terrier,1,9.3,Male
+Cachorro,Doberman Pinscher,5,36.4,Female
+Cachorro,Vizsla,8,23.2,Female
+Cachorro,Bernese Mountain Dog,4,50.6,Male
+Cachorro,Papillon,13,2.7,Female
+Cachorro,Shetland Sheepdog,13,11.5,Male
+Cachorro,Weimaraner,9,25.9,Female
+Cachorro,Bulldog,7,21.1,Male
+Cachorro,Jack Russell Terrier,7,7.4,Male
+Cachorro,Akita,13,42.6,Male
+Cachorro,Pembroke Welsh Corgi,6,10.1,Female
+Cachorro,Akita,13,32.0,Female
+Cachorro,Chesapeake Bay Retriever,3,32.0,Male
+Cachorro,Cocker Spaniel,7,13.7,Male
+Cachorro,Lhasa Apso,7,5.1,Female
+Cachorro,Pembroke Welsh Corgi,6,13.1,Male
+Cachorro,Chesapeake Bay Retriever,13,30.9,Female
+Cachorro,Bernese Mountain Dog,1,34.2,Female
+Cachorro,Chesapeake Bay Retriever,3,26.1,Female
+Cachorro,Schnauzer,14,17.4,Female
+Cachorro,Samoyed,2,28.4,Male
+Cachorro,Beagle,7,12.5,Male
+Cachorro,Bernese Mountain Dog,14,42.6,Female
+Cachorro,Maltese,2,3.4,Male
+Cachorro,Samoyed,5,24.5,Male
+Cachorro,Bloodhound,3,42.7,Female
+Cachorro,Chinese Shar-Pei,12,24.2,Male
+Cachorro,Pug,14,7.0,Female
+Cachorro,Havanese,2,4.0,Female
+Cachorro,Border Collie,6,15.9,Female
+Cachorro,French Bulldog,3,9.5,Female
+Cachorro,Border Collie,14,13.9,Female
+Cachorro,Irish Setter,2,25.1,Female
+Cachorro,Pekingese,6,4.7,Male
+Cachorro,Golden Retriever,3,29.4,Female
+Cachorro,Poodle,7,25.1,Male
+Cachorro,Rottweiler,13,45.1,Male
+Cachorro,Australian Shepherd,7,23.4,Male
+Cachorro,Chihuahua,11,2.2,Male
+Cachorro,Saint Bernard,3,86.0,Male
+Cachorro,Papillon,1,3.0,Female
+Cachorro,Bull Terrier,5,37.9,Male
+Cachorro,Rottweiler,6,37.2,Female
+Cachorro,Chinese Shar-Pei,8,23.1,Female
+Cachorro,Bloodhound,4,40.1,Female
+Cachorro,Chinese Shar-Pei,7,21.1,Female
+Cachorro,Pekingese,6,5.0,Female
+Cachorro,Rottweiler,6,50.9,Female
+Cachorro,Pembroke Welsh Corgi,10,13.7,Male
+Cachorro,French Bulldog,11,10.4,Male
+Cachorro,Shih Tzu,3,4.5,Female
+Cachorro,Maltese,13,3.8,Male
+Cachorro,Bulldog,1,21.8,Male
+Cachorro,Dogo Argentino,6,43.3,Male
+Cachorro,Chinese Shar-Pei,2,26.6,Male
+Cachorro,Pomeranian,4,2.9,Male
+Cachorro,Pekingese,11,4.9,Female
+Cachorro,Bloodhound,1,42.5,Female
+Cachorro,Pembroke Welsh Corgi,8,10.1,Female
+Cachorro,Chihuahua,2,2.1,Male
+Cachorro,Miniature Schnauzer,10,8.0,Male
+Cachorro,Bernese Mountain Dog,4,38.3,Female
+Cachorro,Airedale Terrier,13,20.7,Female
+Cachorro,French Bulldog,7,9.4,Female
+Cachorro,Vizsla,6,28.4,Male
+Cachorro,Rottweiler,7,57.2,Male
+Cachorro,Pekingese,10,4.3,Female
+Cachorro,Chihuahua,7,2.4,Male
+Cachorro,Pembroke Welsh Corgi,2,10.7,Female
+Cachorro,Boxer,14,29.8,Male
+Cachorro,Pembroke Welsh Corgi,12,12.2,Male
+Cachorro,Pug,6,7.4,Male
+Cachorro,Bull Terrier,11,34.6,Male
+Cachorro,German Shepherd,5,22.8,Female
+Cachorro,Miniature Schnauzer,8,6.4,Male
+Cachorro,Dogo Argentino,7,39.9,Male
+Cachorro,Great Dane,4,86.9,Male
+Cachorro,Labrador Retriever,3,29.6,Female
+Cachorro,Shetland Sheepdog,4,8.8,Male
+Cachorro,Maltese,7,3.6,Female
+Cachorro,Boxer,6,29.6,Male
+Cachorro,Yorkshire Terrier,8,2.8,Male
+Cachorro,Miniature Schnauzer,14,8.8,Male
+Cachorro,Pembroke Welsh Corgi,12,11.6,Male
+Cachorro,Great Dane,8,51.3,Female
+Cachorro,Dogo Argentino,7,42.3,Male
+Cachorro,Chinese Shar-Pei,7,19.5,Female
+Cachorro,Doberman Pinscher,6,41.3,Male
+Cachorro,Australian Shepherd,12,23.8,Male
+Cachorro,French Bulldog,9,8.3,Female
+Cachorro,West Highland White Terrier,6,7.9,Male
+Cachorro,Maltese,4,3.6,Male
+Cachorro,Shetland Sheepdog,8,8.8,Male
+Cachorro,Great Dane,14,48.9,Female
+Cachorro,Shetland Sheepdog,3,9.4,Female
+Cachorro,Chihuahua,8,1.8,Female
+Cachorro,Jack Russell Terrier,3,6.5,Female
+Cachorro,German Shepherd,10,28.9,Male
+Cachorro,Siberian Husky,6,22.4,Male
+Cachorro,Pembroke Welsh Corgi,1,10.7,Female
+Cachorro,Bernese Mountain Dog,3,46.9,Male
+Cachorro,Bull Terrier,9,24.1,Female
+Cachorro,Pembroke Welsh Corgi,2,12.3,Female
+Cachorro,Border Collie,9,19.6,Male
+Cachorro,Samoyed,3,21.8,Male
+Cachorro,Akita,13,43.3,Male
+Cachorro,German Shepherd,9,29.6,Male
+Cachorro,Pug,7,6.8,Female
+Cachorro,German Shepherd,14,29.7,Male
+Cachorro,Pug,9,7.8,Male
+Cachorro,Chesapeake Bay Retriever,13,30.4,Female
+Cachorro,Chesapeake Bay Retriever,4,34.7,Male
+Cachorro,Airedale Terrier,13,22.4,Female
+Cachorro,Bloodhound,12,45.1,Female
+Cachorro,Basenji,7,9.1,Female
+Cachorro,Yorkshire Terrier,5,2.7,Male
+Cachorro,Shih Tzu,1,4.7,Female
+Cachorro,West Highland White Terrier,12,9.9,Male
+Cachorro,Cocker Spaniel,7,11.1,Female
+Cachorro,Whippet,7,18.0,Male
+Cachorro,Shiba Inu,4,9.4,Male
+Cachorro,Havanese,5,4.9,Female
+Cachorro,Bulldog,9,22.7,Male
+Cachorro,Schnauzer,7,18.0,Male
+Cachorro,Pomeranian,1,3.5,Male
+Cachorro,Labrador Retriever,1,27.7,Female
+Cachorro,Vizsla,4,22.6,Female
+Cachorro,Schnauzer,12,18.4,Male
+Cachorro,Australian Shepherd,6,17.3,Female
+Cachorro,Cocker Spaniel,14,10.1,Female
+Cachorro,Australian Shepherd,8,23.6,Male
+Cachorro,Chinese Shar-Pei,12,23.0,Male
+Cachorro,Siberian Husky,1,22.2,Female
+Cachorro,Samoyed,10,21.4,Female
+Cachorro,Dachshund,10,8.9,Female
+Cachorro,Papillon,12,3.7,Male
+Cachorro,Belgian Malinois,12,23.0,Female
+Cachorro,Pug,9,6.8,Female
+Cachorro,Beagle,1,12.0,Female
+Cachorro,Shetland Sheepdog,2,9.6,Female
+Cachorro,Cavalier King Charles Spaniel,10,5.8,Female
+Cachorro,French Bulldog,5,9.1,Female
+Cachorro,Pug,1,7.3,Male
+Cachorro,Labrador Retriever,3,29.1,Female
+Cachorro,German Shepherd,5,27.4,Female
+Cachorro,Whippet,9,14.4,Female
+Cachorro,Shiba Inu,3,10.1,Male
+Cachorro,Alaskan Malamute,3,35.9,Female
+Cachorro,Miniature Schnauzer,12,5.9,Female
+Cachorro,Miniature Schnauzer,8,6.0,Female
+Cachorro,Pomeranian,7,1.6,Female
+Cachorro,Australian Shepherd,4,17.7,Female
+Cachorro,Australian Shepherd,11,29.1,Male
+Cachorro,Great Dane,3,56.4,Female
+Cachorro,Rottweiler,7,38.5,Female
+Cachorro,Bichon Frise,6,7.1,Male
+Cachorro,Maltese,5,3.5,Female
+Cachorro,Maltese,11,3.5,Male
+Cachorro,Siberian Husky,4,21.9,Female
+Cachorro,Shih Tzu,12,5.9,Female
+Cachorro,Miniature Schnauzer,4,8.0,Male
+Cachorro,Chihuahua,10,2.2,Female
+Cachorro,Chihuahua,13,1.6,Female
+Cachorro,Boston Terrier,8,10.8,Male
+Cachorro,Rottweiler,5,41.4,Female
+Cachorro,Airedale Terrier,5,28.5,Male
+Cachorro,Alaskan Malamute,6,40.5,Male
+Cachorro,Dogo Argentino,10,35.0,Female
+Cachorro,Bichon Frise,5,6.1,Male
+Cachorro,Airedale Terrier,2,26.9,Male
+Cachorro,Australian Shepherd,2,21.9,Female
+Cachorro,Havanese,11,3.1,Female
+Cachorro,Pembroke Welsh Corgi,8,13.3,Male
+Cachorro,Shih Tzu,10,6.9,Male
+Cachorro,Pekingese,1,5.4,Male
+Cachorro,Schnauzer,1,15.8,Female
+Cachorro,Irish Setter,14,26.8,Male
+Cachorro,Miniature Schnauzer,6,8.4,Male
+Cachorro,Bulldog,13,19.5,Female
+Cachorro,Great Dane,8,70.7,Female
+Cachorro,German Shepherd,1,26.4,Female
+Cachorro,Rottweiler,6,44.2,Female
+Cachorro,Rottweiler,14,48.1,Male
+Cachorro,Havanese,3,3.3,Female
+Cachorro,Pug,1,7.7,Male
+Cachorro,Belgian Malinois,10,30.1,Male
+Cachorro,Border Collie,8,14.8,Female
+Cachorro,Lhasa Apso,14,6.9,Female
+Cachorro,Golden Retriever,6,33.8,Male
+Cachorro,Jack Russell Terrier,1,7.1,Female
+Cachorro,Doberman Pinscher,4,35.5,Male
+Cachorro,Boston Terrier,6,7.3,Female
+Cachorro,Bloodhound,11,48.9,Male
+Cachorro,Labrador Retriever,13,31.5,Male
+Cachorro,Beagle,4,11.1,Male
+Cachorro,Airedale Terrier,3,24.3,Female
+Cachorro,Pomeranian,11,2.8,Male
+Cachorro,Australian Shepherd,3,27.5,Male
+Cachorro,Dachshund,1,12.1,Female
+Cachorro,Akita,9,42.7,Female
+Cachorro,Basenji,12,10.3,Male
+Cachorro,Bloodhound,4,44.3,Male
+Cachorro,Shetland Sheepdog,10,7.6,Female
+Cachorro,Akita,10,43.5,Male
+Cachorro,Dogo Argentino,10,40.2,Female
+Cachorro,Shiba Inu,7,10.7,Male
+Cachorro,West Highland White Terrier,11,8.1,Male
+Cachorro,Airedale Terrier,5,21.0,Female
+Cachorro,Saint Bernard,10,74.9,Female
+Cachorro,Belgian Malinois,4,18.3,Female
+Cachorro,Bull Terrier,5,33.0,Male
+Cachorro,Bichon Frise,2,5.9,Female
+Cachorro,Lhasa Apso,1,6.3,Female
+Cachorro,Dachshund,14,7.8,Female
+Cachorro,Bulldog,10,23.5,Male
+Cachorro,Doberman Pinscher,2,31.4,Female
+Cachorro,French Bulldog,11,11.8,Male
+Cachorro,Vizsla,11,23.8,Male
+Cachorro,Cavalier King Charles Spaniel,2,5.9,Female
+Cachorro,Havanese,8,5.1,Male
+Cachorro,Pekingese,3,3.5,Female
+Cachorro,Bloodhound,8,42.2,Male
+Cachorro,Cavalier King Charles Spaniel,1,5.4,Female
+Cachorro,Pembroke Welsh Corgi,13,10.9,Female
+Cachorro,Golden Retriever,13,28.7,Male
+Cachorro,Pekingese,11,5.2,Female
+Cachorro,Rottweiler,2,50.3,Male
+Cachorro,Chinese Shar-Pei,9,24.3,Female
+Cachorro,Papillon,1,3.8,Female
+Cachorro,Boxer,12,25.4,Female
+Cachorro,Havanese,11,5.3,Male
+Cachorro,Labrador Retriever,12,31.2,Female
+Cachorro,Lhasa Apso,11,7.3,Male
+Cachorro,Doberman Pinscher,4,32.0,Female
+Cachorro,Basenji,6,10.3,Male
+Cachorro,Chinese Shar-Pei,2,18.3,Female
+Cachorro,Shetland Sheepdog,11,10.2,Male
+Cachorro,Cavalier King Charles Spaniel,13,8.0,Male
+Cachorro,Border Collie,3,17.0,Female
+Cachorro,Australian Shepherd,13,22.0,Male
+Cachorro,Lhasa Apso,12,6.4,Female
+Cachorro,Doberman Pinscher,12,36.8,Male
+Cachorro,Dachshund,2,11.7,Female
+Cachorro,Doberman Pinscher,5,33.8,Male
+Cachorro,French Bulldog,8,11.0,Female
+Cachorro,Bull Terrier,10,30.7,Female
+Cachorro,Boxer,9,25.5,Female
+Cachorro,Pekingese,5,4.4,Male
+Cachorro,French Bulldog,11,12.5,Male
+Cachorro,Rottweiler,5,37.5,Female
+Cachorro,Pug,12,6.7,Female
+Cachorro,Akita,7,48.1,Female
+Cachorro,Bulldog,6,23.0,Male
+Cachorro,Border Collie,14,16.9,Male
+Cachorro,Weimaraner,2,34.6,Male
+Cachorro,Beagle,1,9.2,Female
+Cachorro,Shiba Inu,2,10.9,Male
+Cachorro,Doberman Pinscher,1,36.9,Male
+Cachorro,Dogo Argentino,14,36.2,Female
+Cachorro,Vizsla,4,25.4,Male
+Cachorro,Bichon Frise,6,7.9,Male
+Cachorro,Chinese Shar-Pei,6,18.7,Female
+Cachorro,Chihuahua,7,2.3,Female
+Cachorro,Pomeranian,10,3.1,Male
+Cachorro,Schnauzer,3,17.2,Female
+Cachorro,Yorkshire Terrier,11,2.8,Female
+Cachorro,Pekingese,10,6.1,Male
+Cachorro,Great Dane,6,88.3,Male
+Cachorro,Schnauzer,8,16.6,Male
+Cachorro,Akita,6,46.0,Female
+Cachorro,Doberman Pinscher,10,33.4,Female
+Cachorro,Great Dane,9,60.9,Female
+Cachorro,Jack Russell Terrier,2,7.2,Female
+Cachorro,Pug,14,8.0,Male
+Cachorro,Yorkshire Terrier,6,2.5,Female
+Cachorro,Airedale Terrier,9,22.1,Female
+Cachorro,Rottweiler,10,42.4,Female
+Cachorro,Siberian Husky,14,18.8,Female
+Cachorro,Shiba Inu,2,9.8,Male
+Cachorro,Boston Terrier,5,6.5,Female
+Cachorro,Alaskan Malamute,1,37.7,Male
+Cachorro,Pembroke Welsh Corgi,12,10.2,Female
+Cachorro,Pekingese,3,4.8,Female
+Cachorro,Basenji,1,10.3,Male
+Cachorro,Labrador Retriever,10,31.7,Female
+Cachorro,Boston Terrier,14,7.4,Female
+Cachorro,Samoyed,8,16.3,Female
+Cachorro,Great Dane,11,65.4,Male
+Cachorro,Shih Tzu,10,4.4,Female
+Cachorro,Vizsla,4,26.3,Female
+Cachorro,Jack Russell Terrier,9,7.0,Male
+Cachorro,Bull Terrier,8,27.4,Female
+Cachorro,Whippet,14,15.9,Female
+Cachorro,Bulldog,8,22.4,Female
+Cachorro,Irish Setter,14,25.2,Female
+Cachorro,Siberian Husky,9,20.2,Male
+Cachorro,Vizsla,2,24.5,Male
+Cachorro,Lhasa Apso,10,5.1,Female
+Cachorro,Bulldog,9,21.3,Male
+Cachorro,Belgian Malinois,10,24.7,Female
+Cachorro,Weimaraner,1,39.1,Male
+Cachorro,Pug,13,6.7,Female
+Cachorro,Miniature Schnauzer,12,8.0,Male
+Cachorro,Vizsla,8,21.3,Female
+Cachorro,Cavalier King Charles Spaniel,8,7.6,Male
+Cachorro,Dogo Argentino,7,42.5,Male
+Cachorro,Irish Setter,6,28.5,Female
+Cachorro,Saint Bernard,9,76.6,Female
+Cachorro,Lhasa Apso,6,5.7,Female
+Cachorro,Labrador Retriever,12,25.6,Female
+Cachorro,Rottweiler,12,47.4,Male
+Cachorro,Boxer,5,27.0,Female
+Cachorro,Whippet,1,18.7,Male
+Cachorro,Chesapeake Bay Retriever,10,27.7,Female
+Cachorro,Lhasa Apso,2,7.6,Male
+Cachorro,Rottweiler,9,43.8,Female
+Cachorro,Siberian Husky,1,17.3,Female
+Cachorro,Beagle,4,11.8,Male
+Cachorro,Chinese Shar-Pei,8,27.3,Male
+Cachorro,Weimaraner,4,36.8,Male
+Cachorro,Saint Bernard,8,64.9,Female
+Cachorro,Bloodhound,6,43.0,Male
+Cachorro,Weimaraner,11,37.3,Male
+Cachorro,Cavalier King Charles Spaniel,4,5.3,Female
+Cachorro,Whippet,9,15.9,Female
+Cachorro,Cocker Spaniel,11,11.6,Male
+Cachorro,Bloodhound,4,41.9,Male
+Cachorro,Airedale Terrier,2,25.7,Male
+Cachorro,Saint Bernard,4,66.8,Female
+Cachorro,Chihuahua,12,2.5,Male
+Cachorro,Pekingese,4,4.0,Female
+Cachorro,Chinese Shar-Pei,12,30.0,Male
+Cachorro,Doberman Pinscher,13,32.7,Female
+Cachorro,French Bulldog,1,9.6,Female
+Cachorro,Pekingese,8,5.2,Male
+Cachorro,Bichon Frise,3,6.2,Male
+Cachorro,French Bulldog,1,11.7,Male
+Cachorro,Chesapeake Bay Retriever,7,30.5,Male
+Cachorro,Dogo Argentino,7,39.1,Female
+Cachorro,Chinese Shar-Pei,8,18.4,Female
+Cachorro,Bichon Frise,8,8.0,Male
+Cachorro,Weimaraner,12,29.6,Female
+Cachorro,Shetland Sheepdog,2,9.5,Female
+Cachorro,Bull Terrier,3,26.9,Female
+Cachorro,West Highland White Terrier,14,6.2,Female
+Cachorro,Dachshund,9,14.1,Male
+Cachorro,Pekingese,6,5.7,Male
+Cachorro,Rottweiler,2,56.5,Male
+Cachorro,Pekingese,8,5.2,Male
+Cachorro,Maltese,4,3.4,Female
+Cachorro,Whippet,2,18.3,Male
+Cachorro,Pug,7,6.8,Female
+Cachorro,Labrador Retriever,9,31.3,Male
+Cachorro,Weimaraner,3,31.5,Female
+Cachorro,Akita,8,43.8,Female
+Cachorro,Shih Tzu,9,6.0,Female
+Cachorro,German Shepherd,10,26.3,Female
+Cachorro,Golden Retriever,7,27.5,Female
+Cachorro,Golden Retriever,10,29.8,Female
+Cachorro,Cocker Spaniel,9,12.7,Male
+Cachorro,Papillon,14,4.2,Male
+Cachorro,Siberian Husky,6,23.1,Male
+Cachorro,Cavalier King Charles Spaniel,1,6.5,Male
+Cachorro,Bull Terrier,1,35.4,Male
+Cachorro,Shetland Sheepdog,10,6.5,Female
+Cachorro,Shih Tzu,5,5.5,Male
+Cachorro,Rottweiler,7,53.9,Male
+Cachorro,Border Collie,1,18.7,Male
+Cachorro,Chinese Shar-Pei,12,29.2,Male
+Cachorro,Siberian Husky,10,17.9,Female
+Cachorro,Rottweiler,5,45.5,Male
+Cachorro,Labrador Retriever,3,31.8,Female
+Cachorro,German Shepherd,13,30.1,Male
+Cachorro,Weimaraner,3,26.9,Female
+Cachorro,Dachshund,5,8.5,Female
+Cachorro,West Highland White Terrier,8,7.4,Female
+Cachorro,Shiba Inu,2,10.8,Male
+Cachorro,Great Dane,12,83.0,Male
+Cachorro,Golden Retriever,10,32.3,Male
+Cachorro,Great Dane,13,50.1,Female
+Cachorro,German Shepherd,7,26.2,Female
+Cachorro,Shih Tzu,5,5.0,Female
+Cachorro,Cocker Spaniel,7,9.5,Female
+Cachorro,Jack Russell Terrier,11,6.4,Female
+Cachorro,Doberman Pinscher,9,30.6,Female
+Cachorro,Weimaraner,7,26.2,Female
+Cachorro,Rottweiler,10,52.7,Male
+Cachorro,Dogo Argentino,3,39.6,Female
+Cachorro,Beagle,8,9.2,Female
+Cachorro,Boxer,13,29.6,Male
+Cachorro,Australian Shepherd,5,24.1,Female
+Cachorro,Miniature Schnauzer,1,8.3,Male
+Cachorro,Pekingese,2,4.9,Female
+Cachorro,Dogo Argentino,7,41.4,Male
+Cachorro,West Highland White Terrier,5,9.5,Male
+Cachorro,Miniature Schnauzer,12,7.0,Male
+Cachorro,Golden Retriever,1,27.1,Female
+Cachorro,Pekingese,1,4.6,Male
+Cachorro,Doberman Pinscher,3,32.5,Female
+Cachorro,Saint Bernard,11,63.9,Female
+Cachorro,Cocker Spaniel,11,9.9,Female
+Cachorro,Pug,8,7.7,Male
+Cachorro,Havanese,7,3.6,Female
+Cachorro,Siberian Husky,7,18.0,Female
+Cachorro,Saint Bernard,13,58.0,Female
+Cachorro,Samoyed,8,20.0,Female
+Cachorro,Golden Retriever,14,26.8,Female
+Cachorro,Boston Terrier,8,8.5,Male
+Cachorro,French Bulldog,1,8.8,Female
+Cachorro,Doberman Pinscher,10,35.9,Female
+Cachorro,Airedale Terrier,12,28.5,Male
+Cachorro,Bloodhound,13,45.4,Male
+Cachorro,West Highland White Terrier,5,9.1,Male
+Cachorro,Dachshund,2,14.3,Male
+Cachorro,Vizsla,5,26.5,Female
+Cachorro,West Highland White Terrier,10,7.6,Female
+Cachorro,Basenji,6,10.9,Male
+Cachorro,Jack Russell Terrier,10,7.2,Female
+Cachorro,Bichon Frise,1,7.6,Male
+Cachorro,Bulldog,7,20.1,Female
+Cachorro,Chinese Shar-Pei,5,18.6,Female
+Cachorro,Pomeranian,5,1.5,Female
+Cachorro,Vizsla,12,26.6,Male
+Cachorro,Saint Bernard,2,66.2,Female
+Cachorro,Cavalier King Charles Spaniel,12,6.8,Male
+Cachorro,Rottweiler,8,53.0,Male
+Cachorro,Maltese,14,3.4,Female
+Cachorro,Maltese,12,3.9,Male
+Cachorro,Jack Russell Terrier,14,6.8,Male
+Cachorro,Australian Shepherd,12,23.9,Male
+Cachorro,Dachshund,11,11.1,Female
+Cachorro,Cocker Spaniel,1,12.0,Female
+Cachorro,Shih Tzu,2,7.2,Male
+Cachorro,Bull Terrier,13,31.1,Female
+Cachorro,Vizsla,3,29.3,Male
+Cachorro,Bull Terrier,11,25.3,Female
+Cachorro,Miniature Schnauzer,11,7.4,Male
+Cachorro,Rottweiler,13,39.4,Female
+Cachorro,Maltese,11,3.4,Female
+Cachorro,Shiba Inu,11,10.9,Male
+Cachorro,Airedale Terrier,13,21.2,Female
+Cachorro,Bull Terrier,9,27.8,Female
+Cachorro,Papillon,8,2.9,Female
+Cachorro,Basenji,14,9.2,Female
+Cachorro,Jack Russell Terrier,11,6.3,Female
+Cachorro,Papillon,10,3.3,Male
+Cachorro,Weimaraner,9,34.3,Female
+Cachorro,West Highland White Terrier,13,7.0,Female
+Cachorro,Pug,1,7.8,Male
+Cachorro,Papillon,1,3.4,Female
+Cachorro,Border Collie,12,13.0,Female
+Cachorro,Basenji,13,9.2,Female
+Cachorro,Pug,1,7.8,Male
+Cachorro,Irish Setter,13,25.4,Female
+Cachorro,Shiba Inu,14,10.8,Male
+Cachorro,Cavalier King Charles Spaniel,3,6.3,Male
+Cachorro,Boston Terrier,7,7.6,Female
+Cachorro,Havanese,13,4.6,Female
+Cachorro,Australian Shepherd,9,24.0,Male
+Cachorro,Airedale Terrier,13,20.8,Female
+Cachorro,Cocker Spaniel,4,14.4,Male
+Cachorro,Akita,14,36.6,Female
+Cachorro,Bichon Frise,8,6.9,Male
+Cachorro,Samoyed,4,24.8,Male
+Cachorro,Akita,4,36.4,Female
+Cachorro,Doberman Pinscher,6,36.1,Female
+Cachorro,Havanese,6,4.5,Female
+Cachorro,Bichon Frise,14,6.8,Male
+Cachorro,Shih Tzu,5,6.9,Male
+Cachorro,Lhasa Apso,9,6.5,Male
+Cachorro,Havanese,11,3.0,Female
+Cachorro,Cavalier King Charles Spaniel,10,6.1,Female
+Cachorro,Poodle,3,32.0,Male
+Cachorro,Bull Terrier,14,28.0,Male
+Cachorro,Chesapeake Bay Retriever,12,30.3,Male
+Cachorro,Rottweiler,14,43.4,Female
+Cachorro,Akita,9,55.7,Male
+Cachorro,Great Dane,6,47.6,Female
+Cachorro,Papillon,8,3.0,Female
+Cachorro,German Shepherd,6,30.7,Female
+Cachorro,Bulldog,5,22.1,Male
+Cachorro,Shetland Sheepdog,5,6.7,Female
+Cachorro,Yorkshire Terrier,8,2.2,Female
+Cachorro,Whippet,9,13.1,Female
+Cachorro,Chesapeake Bay Retriever,9,32.3,Male
+Cachorro,Saint Bernard,6,86.9,Male
+Cachorro,Lhasa Apso,7,6.3,Female
+Cachorro,Saint Bernard,7,83.0,Male
+Cachorro,Bernese Mountain Dog,4,51.8,Male
+Cachorro,Poodle,12,23.2,Female
+Cachorro,German Shepherd,7,26.7,Female
+Cachorro,Saint Bernard,1,76.0,Female
+Cachorro,Rottweiler,12,47.7,Male
+Cachorro,German Shepherd,6,36.8,Male
+Cachorro,German Shepherd,7,37.1,Male
+Cachorro,Rottweiler,10,36.6,Female
+Cachorro,Bernese Mountain Dog,6,45.1,Male
+Cachorro,Weimaraner,5,32.2,Male
+Cachorro,Shih Tzu,12,5.5,Male
+Cachorro,Airedale Terrier,12,22.0,Female
+Cachorro,Whippet,4,15.3,Male
+Cachorro,Bichon Frise,1,6.6,Female
+Cachorro,Shiba Inu,14,10.8,Male
+Cachorro,Alaskan Malamute,6,41.8,Male
+Cachorro,Cocker Spaniel,2,10.0,Female
+Cachorro,Akita,6,46.3,Male
+Cachorro,Samoyed,12,23.2,Male
+Cachorro,Weimaraner,2,31.6,Male
+Cachorro,Pug,2,7.9,Male
+Cachorro,Lhasa Apso,9,5.8,Female
+Cachorro,West Highland White Terrier,12,6.6,Female
+Cachorro,Alaskan Malamute,8,42.1,Male
+Cachorro,French Bulldog,10,9.3,Female
+Cachorro,Yorkshire Terrier,12,2.4,Male
+Cachorro,Cocker Spaniel,4,9.6,Female
+Cachorro,Irish Setter,6,30.1,Male
+Cachorro,Labrador Retriever,3,30.6,Female
+Cachorro,Papillon,7,2.8,Female
+Cachorro,Boston Terrier,13,10.7,Male
+Cachorro,Shiba Inu,4,10.7,Male
+Cachorro,Akita,14,56.3,Male
+Cachorro,Alaskan Malamute,9,35.3,Female
+Cachorro,Poodle,14,20.4,Female
+Cachorro,Shetland Sheepdog,5,11.5,Male
+Cachorro,Maltese,9,3.2,Female
+Cachorro,Golden Retriever,1,28.6,Female
+Cachorro,Rottweiler,9,47.3,Female
+Cachorro,Airedale Terrier,11,23.3,Male
+Cachorro,Pembroke Welsh Corgi,5,13.4,Male
+Cachorro,Chinese Shar-Pei,1,29.5,Male
+Cachorro,Great Dane,6,82.1,Male
+Cachorro,Schnauzer,6,15.7,Female
+Cachorro,German Shepherd,3,32.3,Female
+Cachorro,Pug,5,6.7,Female
+Cachorro,Whippet,14,17.7,Male
+Cachorro,Miniature Schnauzer,9,8.5,Male
+Cachorro,Chihuahua,9,2.2,Female
+Cachorro,Shetland Sheepdog,12,7.1,Female
+Cachorro,Jack Russell Terrier,5,6.2,Female
+Cachorro,Jack Russell Terrier,14,6.3,Female
+Cachorro,Poodle,2,28.1,Male
+Cachorro,Chesapeake Bay Retriever,9,28.6,Female
+Cachorro,West Highland White Terrier,9,7.5,Female
+Cachorro,Golden Retriever,9,30.5,Male
+Cachorro,Bichon Frise,12,7.6,Male
+Cachorro,Basenji,14,10.2,Female
+Cachorro,Cocker Spaniel,4,9.9,Female
+Cachorro,Australian Shepherd,4,23.7,Female
+Cachorro,Rottweiler,13,46.0,Female
+Cachorro,Airedale Terrier,3,25.9,Male
+Cachorro,Pekingese,13,3.4,Female
+Cachorro,Saint Bernard,11,85.3,Male
+Cachorro,Chesapeake Bay Retriever,10,35.7,Male
+Cachorro,Lhasa Apso,13,7.5,Male
+Cachorro,Rottweiler,6,49.9,Female
+Cachorro,Pug,8,8.0,Male
+Cachorro,Maltese,14,3.2,Female
+Cachorro,Poodle,6,29.2,Male
+Cachorro,Chinese Shar-Pei,14,25.9,Male
+Cachorro,West Highland White Terrier,9,10.0,Male
+Cachorro,Cocker Spaniel,8,11.3,Male
+Cachorro,Doberman Pinscher,10,31.8,Female
+Cachorro,Samoyed,1,24.0,Female
+Cachorro,Shiba Inu,3,9.6,Male
+Cachorro,Pomeranian,8,3.2,Male
+Cachorro,Chesapeake Bay Retriever,4,27.7,Female
+Cachorro,Bloodhound,11,44.9,Female
+Cachorro,Boxer,13,29.0,Female
+Cachorro,Poodle,6,26.6,Male
+Cachorro,Siberian Husky,2,21.5,Female
+Cachorro,West Highland White Terrier,6,6.9,Female
+Cachorro,Pug,2,7.5,Male
+Cachorro,Doberman Pinscher,2,34.7,Female
+Cachorro,Bulldog,3,24.2,Male
+Cachorro,Bernese Mountain Dog,5,39.3,Male
+Cachorro,Chihuahua,4,1.7,Female
+Cachorro,Samoyed,2,27.4,Male
+Cachorro,Dogo Argentino,12,42.2,Male
+Cachorro,Doberman Pinscher,10,32.8,Female
+Cachorro,Pekingese,2,3.1,Female
+Cachorro,Beagle,3,10.1,Female
+Cachorro,Great Dane,9,70.3,Female
+Cachorro,Dachshund,2,7.2,Female
+Cachorro,Poodle,8,23.1,Female
+Cachorro,Weimaraner,9,39.5,Male
+Cachorro,Weimaraner,3,25.5,Female
+Cachorro,Boston Terrier,10,10.0,Male
+Cachorro,Whippet,7,12.3,Female
+Cachorro,Whippet,6,18.3,Male
+Cachorro,Pomeranian,13,3.2,Male
+Cachorro,Dogo Argentino,2,44.3,Male
+Cachorro,Dachshund,10,10.9,Male
+Cachorro,Alaskan Malamute,7,37.1,Female
+Cachorro,Cavalier King Charles Spaniel,13,7.6,Male
+Cachorro,Chihuahua,13,1.7,Female
+Cachorro,Chinese Shar-Pei,10,19.8,Female
+Cachorro,Lhasa Apso,12,5.1,Female
+Cachorro,German Shepherd,3,33.2,Female
+Cachorro,Basenji,6,10.6,Male
+Cachorro,Rottweiler,7,54.1,Male
+Cachorro,Poodle,12,25.8,Female
+Cachorro,Australian Shepherd,14,27.1,Male
+Cachorro,Belgian Malinois,2,29.9,Male
+Cachorro,Papillon,6,3.8,Male
+Cachorro,Shiba Inu,9,9.2,Female
+Cachorro,Havanese,5,4.4,Male
+Cachorro,Chihuahua,7,2.9,Male
+Cachorro,Akita,6,55.7,Male
+Cachorro,Pekingese,14,3.8,Female
+Cachorro,Chinese Shar-Pei,13,26.7,Male
+Cachorro,Bernese Mountain Dog,7,40.8,Male
+Cachorro,Dogo Argentino,1,41.3,Female
+Cachorro,Bulldog,3,22.1,Female
+Cachorro,Labrador Retriever,6,31.6,Female
+Cachorro,Border Collie,7,16.5,Male
+Cachorro,Boston Terrier,3,7.8,Male
+Cachorro,Poodle,10,21.7,Female
+Cachorro,Maltese,2,3.1,Female
+Cachorro,Doberman Pinscher,5,28.4,Female
+Cachorro,Bulldog,9,18.3,Female
+Cachorro,Shiba Inu,9,9.9,Female
+Cachorro,Rottweiler,4,36.2,Female
+Cachorro,Doberman Pinscher,8,34.9,Male
+Cachorro,Yorkshire Terrier,11,3.1,Male
+Cachorro,Boxer,14,27.6,Female
+Cachorro,Weimaraner,3,32.6,Female
+Cachorro,Schnauzer,10,18.6,Male
+Cachorro,Cavalier King Charles Spaniel,2,6.7,Female
+Cachorro,Boxer,11,30.4,Male
+Cachorro,Airedale Terrier,12,25.9,Male
+Cachorro,Lhasa Apso,2,6.4,Female
+Cachorro,Saint Bernard,2,65.2,Female
+Cachorro,Shiba Inu,7,9.7,Male
+Cachorro,Chihuahua,14,2.0,Female
+Cachorro,Havanese,4,4.4,Male
+Cachorro,Shiba Inu,14,9.6,Female
+Cachorro,Great Dane,7,68.4,Male
+Cachorro,Alaskan Malamute,6,38.0,Male
+Cachorro,Chesapeake Bay Retriever,5,26.8,Female
+Cachorro,Whippet,3,15.4,Female
+Cachorro,Irish Setter,8,28.5,Male
+Cachorro,Airedale Terrier,9,27.0,Male
+Cachorro,Yorkshire Terrier,9,2.7,Female
+Cachorro,Vizsla,1,24.0,Male
+Cachorro,Golden Retriever,8,29.5,Female
+Cachorro,Doberman Pinscher,9,30.6,Female
+Cachorro,Australian Shepherd,9,18.3,Female
+Cachorro,French Bulldog,8,12.0,Male
+Cachorro,Shetland Sheepdog,5,9.5,Female
+Cachorro,Lhasa Apso,11,6.6,Male
+Cachorro,Whippet,7,14.0,Female
+Cachorro,Pekingese,10,3.7,Female
+Cachorro,Vizsla,7,27.1,Male
+Cachorro,Pomeranian,9,3.0,Male
+Cachorro,Miniature Schnauzer,4,8.0,Male
+Cachorro,Rottweiler,8,53.9,Male
+Cachorro,Rottweiler,9,45.9,Male
+Cachorro,Border Collie,5,15.6,Female
+Cachorro,Bulldog,3,21.1,Female
+Cachorro,Samoyed,4,22.2,Female
+Cachorro,Bernese Mountain Dog,1,40.0,Male
+Cachorro,Border Collie,5,14.3,Female
+Cachorro,Chinese Shar-Pei,9,21.2,Female
+Cachorro,Jack Russell Terrier,1,6.1,Female
+Cachorro,Cocker Spaniel,12,9.8,Female
+Cachorro,Chihuahua,13,1.9,Female
+Cachorro,Miniature Schnauzer,11,6.9,Female
+Cachorro,Shiba Inu,5,9.5,Male
+Cachorro,Bichon Frise,3,6.6,Female
+Cachorro,Weimaraner,7,35.6,Male
+Cachorro,Bloodhound,3,42.9,Female
+Cachorro,Boston Terrier,3,6.8,Female
+Cachorro,Airedale Terrier,3,25.7,Male
+Cachorro,French Bulldog,13,11.8,Male
+Cachorro,Miniature Schnauzer,8,8.8,Male
+Cachorro,Shih Tzu,12,5.0,Female
+Cachorro,Chinese Shar-Pei,11,22.1,Female
+Cachorro,Rottweiler,10,44.8,Female
+Cachorro,Schnauzer,11,19.0,Male
+Cachorro,Chesapeake Bay Retriever,7,29.4,Male
+Cachorro,Miniature Schnauzer,10,6.3,Female
+Cachorro,Siberian Husky,7,19.4,Female
+Cachorro,Jack Russell Terrier,1,7.2,Female
+Cachorro,Bichon Frise,3,6.0,Female
+Cachorro,Bull Terrier,2,26.9,Female
+Cachorro,Akita,11,58.3,Male
+Cachorro,Rottweiler,5,42.3,Female
+Cachorro,Cavalier King Charles Spaniel,7,5.4,Female
+Cachorro,Samoyed,4,22.9,Male
+Cachorro,Pug,9,6.1,Female
+Cachorro,German Shepherd,12,22.0,Female
+Cachorro,Maltese,12,3.3,Female
+Cachorro,Pug,13,7.7,Male
+Cachorro,Samoyed,8,22.7,Female
+Cachorro,Bichon Frise,6,5.1,Female
+Cachorro,Vizsla,10,27.2,Male
+Cachorro,Whippet,1,14.6,Male
+Cachorro,Maltese,12,4.0,Male
+Cachorro,Lhasa Apso,3,6.4,Male
+Cachorro,Siberian Husky,14,24.3,Male
+Cachorro,Bulldog,2,21.9,Male
+Cachorro,Lhasa Apso,1,7.3,Male
+Cachorro,Chinese Shar-Pei,12,21.2,Female
+Cachorro,Irish Setter,6,28.0,Female
+Cachorro,Basenji,12,9.3,Female
+Cachorro,Chihuahua,10,2.4,Female
+Cachorro,Rottweiler,8,51.9,Male
+Cachorro,Dachshund,11,13.7,Male
+Cachorro,Bichon Frise,4,6.7,Female
+Cachorro,Chihuahua,5,2.5,Female
+Cachorro,Bloodhound,5,42.9,Male
+Cachorro,Shih Tzu,8,4.6,Female
+Cachorro,Bulldog,14,19.1,Female
+Cachorro,Pomeranian,2,2.5,Male
+Cachorro,Australian Shepherd,8,27.7,Male
+Cachorro,Pekingese,8,6.5,Male
+Cachorro,Chihuahua,9,2.5,Female
+Cachorro,West Highland White Terrier,10,7.4,Female
+Cachorro,Bernese Mountain Dog,6,40.3,Female
+Cachorro,Pembroke Welsh Corgi,7,12.2,Female
+Cachorro,Schnauzer,2,19.7,Male
+Cachorro,Bichon Frise,1,6.4,Male
+Cachorro,Pomeranian,1,2.9,Male
+Cachorro,Irish Setter,1,28.3,Female
+Cachorro,Alaskan Malamute,3,38.9,Male
+Cachorro,Boston Terrier,4,8.8,Male
+Cachorro,Golden Retriever,2,33.9,Male
+Cachorro,Bernese Mountain Dog,7,44.8,Female
+Cachorro,Labrador Retriever,5,35.3,Male
+Cachorro,Schnauzer,1,19.2,Male
+Cachorro,Irish Setter,9,28.2,Male
+Cachorro,Beagle,9,10.0,Female
+Cachorro,Miniature Schnauzer,7,6.4,Female
+Cachorro,Pomeranian,12,2.9,Male
+Cachorro,Irish Setter,5,29.4,Male
+Cachorro,Bernese Mountain Dog,6,47.3,Male
+Cachorro,Shih Tzu,6,4.8,Female
+Cachorro,Siberian Husky,8,21.4,Female
+Cachorro,Vizsla,8,25.7,Male
+Cachorro,Cocker Spaniel,10,10.2,Female
+Cachorro,Schnauzer,4,16.6,Male
+Cachorro,Great Dane,11,66.3,Male
+Cachorro,Cocker Spaniel,6,14.0,Male
+Cachorro,Basenji,6,10.3,Male
+Cachorro,Basenji,5,10.0,Male
+Cachorro,Bernese Mountain Dog,13,48.9,Male
+Cachorro,Jack Russell Terrier,11,6.7,Female
+Cachorro,Pekingese,10,3.0,Female
+Cachorro,Great Dane,13,54.3,Female
+Cachorro,Papillon,1,3.4,Male
+Cachorro,West Highland White Terrier,10,7.7,Female
+Cachorro,Dachshund,6,11.2,Male
+Cachorro,Boston Terrier,14,7.4,Male
+Cachorro,Doberman Pinscher,12,33.9,Male
+Cachorro,Labrador Retriever,7,33.0,Male
+Cachorro,Bull Terrier,11,22.2,Female
+Cachorro,Bloodhound,8,43.7,Female
+Cachorro,Akita,1,34.7,Female
+Cachorro,German Shepherd,9,29.1,Female
+Cachorro,Lhasa Apso,1,5.9,Female
+Cachorro,Pomeranian,12,2.1,Female
+Cachorro,Samoyed,8,21.6,Male
+Cachorro,Rottweiler,9,48.0,Female
+Cachorro,Pomeranian,13,2.7,Female
+Cachorro,Bull Terrier,9,22.1,Female
+Cachorro,Great Dane,10,66.0,Male
+Cachorro,German Shepherd,5,32.6,Female
+Cachorro,Shetland Sheepdog,1,10.2,Male
+Cachorro,Golden Retriever,14,29.0,Male
+Cachorro,Shiba Inu,4,8.4,Female
+Cachorro,Whippet,7,14.4,Female
+Cachorro,Beagle,9,13.1,Male
+Cachorro,Bloodhound,4,46.4,Male
+Cachorro,Saint Bernard,5,76.7,Female
+Cachorro,Dogo Argentino,5,38.2,Female
+Cachorro,Weimaraner,13,27.9,Female
+Cachorro,Havanese,5,5.0,Male
+Cachorro,Chinese Shar-Pei,12,20.8,Female
+Cachorro,Miniature Schnauzer,2,5.6,Female
+Cachorro,Bloodhound,12,36.4,Female
+Cachorro,Bernese Mountain Dog,4,43.6,Male
+Cachorro,Irish Setter,9,27.7,Female
+Cachorro,Australian Shepherd,9,21.8,Male
+Cachorro,Rottweiler,4,42.1,Female
+Cachorro,Bichon Frise,3,7.3,Male
+Cachorro,Shetland Sheepdog,2,8.4,Female
+Cachorro,German Shepherd,13,37.4,Male
+Cachorro,Boxer,5,28.7,Female
+Cachorro,Chinese Shar-Pei,8,27.8,Male
+Cachorro,Doberman Pinscher,7,34.5,Male
+Cachorro,Pembroke Welsh Corgi,13,12.6,Male
+Cachorro,Labrador Retriever,9,29.3,Female
+Cachorro,French Bulldog,1,8.8,Female
+Cachorro,Weimaraner,2,25.4,Female
+Cachorro,Boston Terrier,14,5.9,Female
+Cachorro,Cocker Spaniel,2,10.6,Female
+Cachorro,Jack Russell Terrier,4,6.5,Female
+Cachorro,Poodle,8,25.6,Male
+Cachorro,Boston Terrier,9,8.2,Female
+Cachorro,Bulldog,5,22.2,Female
+Cachorro,Belgian Malinois,7,20.4,Female
+Cachorro,Pug,12,7.2,Female
+Cachorro,Pug,11,6.0,Female
+Cachorro,Poodle,3,31.4,Male
+Cachorro,Shiba Inu,14,9.9,Female
+Cachorro,Pomeranian,7,2.2,Male
+Cachorro,French Bulldog,10,12.2,Male
+Cachorro,Yorkshire Terrier,1,3.2,Male
+Cachorro,Great Dane,1,87.2,Male
+Cachorro,Belgian Malinois,3,29.4,Female
+Cachorro,Dachshund,10,12.7,Male
+Cachorro,Bloodhound,10,36.7,Female
+Cachorro,Great Dane,1,69.9,Female
+Cachorro,Schnauzer,6,16.4,Female
+Cachorro,Airedale Terrier,1,23.0,Female
+Cachorro,Pembroke Welsh Corgi,11,11.1,Female
+Cachorro,Akita,14,51.5,Male
+Cachorro,Bichon Frise,5,6.3,Male
+Cachorro,Rottweiler,8,55.8,Male
+Cachorro,Rottweiler,8,36.2,Female
+Cachorro,Bull Terrier,2,29.6,Female
+Cachorro,Bloodhound,9,43.7,Female
+Cachorro,Poodle,7,23.7,Female
+Cachorro,Boxer,14,27.3,Female
+Cachorro,Maltese,6,3.2,Female
+Cachorro,Siberian Husky,2,22.9,Female
+Cachorro,Basenji,6,10.0,Female
+Cachorro,Chesapeake Bay Retriever,5,27.6,Female
+Cachorro,Chihuahua,3,1.7,Female
+Cachorro,Samoyed,7,22.9,Male
+Cachorro,Australian Shepherd,13,20.8,Female
+Cachorro,Bulldog,11,24.7,Male
+Cachorro,Pomeranian,2,3.2,Male
+Cachorro,Papillon,12,3.5,Male
+Cachorro,Golden Retriever,2,33.2,Male
+Cachorro,Rottweiler,12,41.1,Female
+Cachorro,Samoyed,8,28.7,Male
+Cachorro,Yorkshire Terrier,14,2.2,Female
+Cachorro,Poodle,10,29.0,Male
+Cachorro,Bull Terrier,6,31.6,Female
+Cachorro,Australian Shepherd,5,24.3,Male
+Cachorro,Australian Shepherd,11,28.8,Male
+Cachorro,Belgian Malinois,2,29.6,Female
+Cachorro,Bernese Mountain Dog,6,34.0,Female
+Cachorro,Pomeranian,8,2.3,Male
+Cachorro,Bernese Mountain Dog,9,47.8,Male
+Cachorro,Bernese Mountain Dog,3,36.4,Female
+Cachorro,Cocker Spaniel,5,9.3,Female
+Cachorro,Pekingese,10,4.1,Female
+Cachorro,Boxer,8,28.4,Female
+Cachorro,Pembroke Welsh Corgi,14,10.7,Female
+Cachorro,Saint Bernard,3,62.6,Female
+Cachorro,Border Collie,9,16.4,Female
+Cachorro,Bull Terrier,3,27.4,Female
+Cachorro,Miniature Schnauzer,2,7.2,Female
+Cachorro,Yorkshire Terrier,9,2.8,Male
+Cachorro,German Shepherd,8,33.1,Female
+Cachorro,Saint Bernard,2,69.8,Female
+Cachorro,Whippet,4,14.4,Male
+Cachorro,Rottweiler,11,49.4,Female
+Cachorro,Irish Setter,6,29.3,Male
+Cachorro,Dachshund,9,10.5,Male
+Cachorro,Dachshund,2,7.8,Female
+Cachorro,Maltese,4,3.8,Male
+Cachorro,Schnauzer,10,16.3,Male
+Cachorro,Alaskan Malamute,2,35.7,Female
+Cachorro,Bichon Frise,11,6.3,Male
+Cachorro,Shih Tzu,3,6.0,Male
+Cachorro,Chihuahua,8,2.4,Male
+Cachorro,Poodle,12,24.1,Female
+Cachorro,Havanese,6,3.5,Female
+Cachorro,West Highland White Terrier,11,6.1,Female
+Cachorro,Bull Terrier,9,28.4,Female
+Cachorro,Rottweiler,6,49.8,Male
+Cachorro,Vizsla,4,27.7,Male
+Cachorro,Bloodhound,3,37.0,Female
+Cachorro,Pembroke Welsh Corgi,6,11.4,Male
+Cachorro,Dogo Argentino,5,40.1,Male
+Cachorro,Alaskan Malamute,9,39.8,Male
+Cachorro,Maltese,2,3.3,Female
+Cachorro,Doberman Pinscher,1,42.8,Male
+Cachorro,Shetland Sheepdog,9,9.6,Male
+Cachorro,Cavalier King Charles Spaniel,14,7.1,Male
+Cachorro,Miniature Schnauzer,9,7.9,Male
+Cachorro,Bernese Mountain Dog,5,32.3,Female
+Cachorro,Pekingese,1,5.4,Male
+Cachorro,Vizsla,5,25.7,Male
+Cachorro,Rottweiler,13,50.6,Male
+Cachorro,Basenji,3,9.8,Male
+Cachorro,Rottweiler,8,47.7,Female
+Cachorro,West Highland White Terrier,5,9.9,Male
+Cachorro,Schnauzer,5,16.2,Male
+Cachorro,Bull Terrier,6,28.3,Female
+Cachorro,Pembroke Welsh Corgi,14,13.4,Male
+Cachorro,Dogo Argentino,7,40.4,Male
+Cachorro,Chihuahua,4,2.8,Male
+Cachorro,Shiba Inu,13,10.3,Male
+Cachorro,German Shepherd,14,39.2,Male
+Cachorro,Dogo Argentino,8,44.9,Male
+Cachorro,German Shepherd,1,22.5,Female
+Cachorro,Weimaraner,10,34.6,Male
+Cachorro,Bernese Mountain Dog,5,46.1,Male
+Cachorro,Siberian Husky,5,17.0,Female
+Cachorro,Yorkshire Terrier,11,2.7,Male
+Cachorro,Whippet,6,16.1,Female
+Cachorro,Siberian Husky,11,20.0,Male
+Cachorro,Maltese,9,3.3,Female
+Cachorro,Cocker Spaniel,12,12.0,Female
+Cachorro,French Bulldog,6,10.8,Male
+Cachorro,Dachshund,13,12.3,Male
+Cachorro,Rottweiler,7,50.9,Female
+Cachorro,Papillon,2,3.8,Male
+Cachorro,Great Dane,5,48.8,Female
+Cachorro,Chihuahua,14,2.1,Male
+Cachorro,Yorkshire Terrier,12,2.7,Female
+Cachorro,Irish Setter,6,25.4,Female
+Cachorro,Saint Bernard,4,66.5,Female
+Cachorro,Saint Bernard,14,57.1,Female
+Cachorro,Doberman Pinscher,10,38.3,Male
+Cachorro,Havanese,7,4.8,Female
+Cachorro,Dogo Argentino,9,41.8,Male
+Cachorro,Dogo Argentino,8,41.3,Female
+Cachorro,Siberian Husky,5,21.7,Male
+Cachorro,Samoyed,13,25.5,Male
+Cachorro,Rottweiler,11,49.0,Female
+Cachorro,Jack Russell Terrier,8,7.3,Male
+Cachorro,Irish Setter,9,25.5,Female
+Cachorro,Bull Terrier,2,30.9,Female
+Cachorro,Cavalier King Charles Spaniel,5,5.8,Female
+Cachorro,Cocker Spaniel,6,10.9,Female
+Cachorro,West Highland White Terrier,6,9.9,Male
+Cachorro,Samoyed,14,17.7,Female
+Cachorro,Whippet,4,15.4,Male
+Cachorro,German Shepherd,9,28.7,Male
+Cachorro,Alaskan Malamute,4,39.4,Male
+Cachorro,Miniature Schnauzer,6,6.9,Male
+Cachorro,Chihuahua,4,2.7,Male
+Cachorro,Bernese Mountain Dog,5,41.4,Male
+Cachorro,Vizsla,7,27.9,Male
+Cachorro,Yorkshire Terrier,2,2.6,Male
+Cachorro,Whippet,10,15.6,Male
+Cachorro,Akita,10,47.6,Male
+Cachorro,Border Collie,13,18.5,Male
+Cachorro,Pembroke Welsh Corgi,8,11.2,Female
+Cachorro,Airedale Terrier,7,24.8,Male
+Cachorro,Pembroke Welsh Corgi,6,13.6,Male
+Cachorro,Basenji,3,10.4,Male
+Cachorro,Weimaraner,10,32.3,Male
+Cachorro,Rottweiler,12,58.4,Male
+Cachorro,Siberian Husky,4,18.4,Female
+Cachorro,Doberman Pinscher,6,27.5,Female
+Cachorro,Schnauzer,11,18.0,Male
+Cachorro,Dachshund,9,7.6,Female
+Cachorro,Lhasa Apso,13,5.5,Female
+Cachorro,Dachshund,13,10.9,Female
+Cachorro,Pembroke Welsh Corgi,4,10.3,Female
+Cachorro,Pekingese,2,6.1,Male
+Cachorro,Akita,10,57.9,Male
+Cachorro,Dachshund,7,10.2,Female
+Cachorro,Siberian Husky,11,24.9,Male
+Cachorro,Rottweiler,8,55.3,Male
+Cachorro,Bull Terrier,9,32.3,Female
+Cachorro,Lhasa Apso,2,6.7,Male
+Cachorro,Dachshund,10,10.6,Male
+Cachorro,Golden Retriever,8,31.2,Male
+Cachorro,Jack Russell Terrier,4,7.4,Male
+Cachorro,Pembroke Welsh Corgi,14,10.5,Female
+Cachorro,Irish Setter,8,27.2,Female
+Cachorro,Chinese Shar-Pei,10,18.1,Female
+Cachorro,Papillon,5,3.7,Female
+Cachorro,Belgian Malinois,2,27.4,Male
+Cachorro,Bichon Frise,2,5.1,Female
+Cachorro,French Bulldog,9,10.1,Male
+Cachorro,Pug,13,6.3,Female
+Cachorro,Labrador Retriever,11,27.0,Female
+Cachorro,Shih Tzu,13,4.1,Female
+Cachorro,Bloodhound,3,38.5,Female
+Cachorro,Bulldog,1,18.9,Female
+Cachorro,French Bulldog,9,11.0,Male
+Cachorro,Cocker Spaniel,6,10.4,Female
+Cachorro,Doberman Pinscher,6,31.0,Female
+Cachorro,Pug,4,6.4,Female
+Cachorro,Rottweiler,1,36.5,Female
+Cachorro,Maltese,2,3.4,Male
+Cachorro,Pembroke Welsh Corgi,8,10.5,Female
+Cachorro,Pomeranian,5,2.5,Female
+Cachorro,Bichon Frise,11,6.9,Female
+Cachorro,Golden Retriever,5,30.4,Female
+Cachorro,Yorkshire Terrier,5,2.8,Male
+Cachorro,Yorkshire Terrier,13,2.8,Male
+Cachorro,Bernese Mountain Dog,13,36.1,Female
+Cachorro,Bloodhound,5,47.9,Male
+Cachorro,Papillon,6,4.2,Male
+Cachorro,Chesapeake Bay Retriever,7,34.9,Male
+Cachorro,Maltese,9,3.6,Female
+Cachorro,Shetland Sheepdog,14,7.7,Female
+Cachorro,Bulldog,5,21.5,Female
+Cachorro,Schnauzer,5,17.1,Female
+Cachorro,Chinese Shar-Pei,11,24.6,Male
+Cachorro,Pembroke Welsh Corgi,13,13.8,Male
+Cachorro,Vizsla,8,20.6,Female
+Cachorro,Rottweiler,8,59.9,Male
+Cachorro,Pomeranian,5,3.2,Male
+Cachorro,West Highland White Terrier,6,7.6,Male
+Cachorro,Schnauzer,8,16.6,Female
+Cachorro,Boxer,5,27.6,Male
+Cachorro,Chinese Shar-Pei,10,28.2,Male
+Cachorro,Chinese Shar-Pei,6,28.4,Male
+Cachorro,Miniature Schnauzer,10,8.0,Male
+Cachorro,Havanese,2,4.7,Female
+Cachorro,Cocker Spaniel,5,9.3,Female
+Cachorro,Bernese Mountain Dog,1,42.6,Male
+Cachorro,Poodle,2,27.4,Male
+Cachorro,Bernese Mountain Dog,4,39.6,Male
+Cachorro,Samoyed,10,25.0,Male
+Cachorro,Jack Russell Terrier,3,7.0,Male
+Cachorro,Maltese,1,3.6,Male
+Cachorro,Chinese Shar-Pei,8,25.5,Male
+Cachorro,Airedale Terrier,14,24.7,Female
+Cachorro,Border Collie,11,13.4,Female
+Cachorro,Dogo Argentino,3,44.3,Male
+Cachorro,Alaskan Malamute,10,39.6,Male
+Cachorro,Shiba Inu,11,9.7,Male
+Cachorro,Cavalier King Charles Spaniel,11,6.0,Female
+Cachorro,Chihuahua,1,2.4,Male
+Cachorro,Rottweiler,2,47.9,Male
+Cachorro,Shiba Inu,9,9.0,Female
+Cachorro,German Shepherd,13,23.8,Female
+Cachorro,Jack Russell Terrier,2,7.2,Male
+Cachorro,Samoyed,11,21.1,Female
+Cachorro,Alaskan Malamute,14,39.6,Male
+Cachorro,Border Collie,2,16.3,Female
+Cachorro,Australian Shepherd,6,24.3,Male
+Cachorro,Bulldog,10,24.9,Male
+Cachorro,Dachshund,7,13.9,Male
+Cachorro,Shetland Sheepdog,13,9.8,Female
+Cachorro,Bull Terrier,7,36.3,Male
+Cachorro,West Highland White Terrier,9,6.4,Female
+Cachorro,Alaskan Malamute,2,40.2,Male
+Cachorro,Cavalier King Charles Spaniel,6,6.4,Male
+Cachorro,Pomeranian,10,3.3,Male
+Cachorro,Labrador Retriever,6,29.2,Female
+Cachorro,Doberman Pinscher,7,36.4,Male
+Cachorro,Siberian Husky,12,26.5,Male
+Cachorro,Bichon Frise,10,6.3,Male
+Cachorro,Alaskan Malamute,1,40.4,Male
+Cachorro,Jack Russell Terrier,4,7.6,Male
+Cachorro,Pomeranian,14,2.3,Male
+Cachorro,Schnauzer,11,18.4,Male
+Cachorro,Papillon,8,3.6,Female
+Cachorro,Akita,3,42.6,Male
+Cachorro,Akita,10,50.4,Male
+Cachorro,West Highland White Terrier,1,6.7,Female
+Cachorro,Bulldog,10,21.0,Female
+Cachorro,Weimaraner,11,31.4,Male
+Cachorro,Cocker Spaniel,10,14.3,Male
+Cachorro,Airedale Terrier,10,24.8,Female
+Cachorro,Doberman Pinscher,8,29.2,Female
+Cachorro,Lhasa Apso,11,5.6,Female
+Cachorro,Jack Russell Terrier,8,6.8,Female
+Cachorro,Beagle,7,13.1,Male
+Cachorro,Beagle,11,12.2,Male
+Cachorro,Lhasa Apso,12,5.3,Female
+Cachorro,Boxer,8,25.5,Female
+Cachorro,Great Dane,12,90.0,Male
+Cachorro,Shih Tzu,1,6.1,Male
+Cachorro,Boxer,14,31.4,Male
+Cachorro,Shetland Sheepdog,7,7.9,Female
+Cachorro,Golden Retriever,14,33.5,Male
+Cachorro,Boxer,1,25.4,Female
+Cachorro,Irish Setter,3,27.4,Male
+Cachorro,Weimaraner,7,34.1,Female
+Cachorro,Great Dane,9,88.5,Male
+Cachorro,Papillon,9,3.6,Male
+Cachorro,Labrador Retriever,7,31.4,Male
+Cachorro,Dachshund,4,12.2,Male
+Cachorro,Shih Tzu,3,4.9,Female
+Cachorro,Alaskan Malamute,4,38.3,Male
+Cachorro,Golden Retriever,2,30.3,Female
+Cachorro,Vizsla,11,21.6,Female
+Cachorro,Rottweiler,5,55.2,Male
+Cachorro,Havanese,1,4.2,Male
+Cachorro,Cavalier King Charles Spaniel,9,6.1,Male
+Cachorro,Doberman Pinscher,3,40.9,Male
+Cachorro,French Bulldog,7,9.1,Female
+Cachorro,Jack Russell Terrier,8,7.6,Male
+Cachorro,Akita,13,43.1,Male
+Cachorro,Pug,14,7.9,Male
+Cachorro,Chinese Shar-Pei,11,28.0,Male
+Cachorro,Miniature Schnauzer,8,8.7,Male
+Cachorro,Whippet,9,14.5,Male
+Cachorro,West Highland White Terrier,14,6.8,Female
+Cachorro,Miniature Schnauzer,1,7.4,Male
+Cachorro,Great Dane,3,76.5,Male
+Cachorro,Saint Bernard,14,61.8,Female
+Cachorro,Dogo Argentino,2,35.4,Female
+Cachorro,Border Collie,7,13.9,Female
+Cachorro,Rottweiler,4,47.9,Male
+Cachorro,Bull Terrier,11,31.6,Male
+Cachorro,West Highland White Terrier,7,7.9,Male
+Cachorro,Irish Setter,8,25.4,Female
+Cachorro,Poodle,10,29.1,Male
+Cachorro,Great Dane,5,72.1,Male
+Cachorro,Alaskan Malamute,1,36.0,Female
+Cachorro,Cocker Spaniel,9,12.8,Male
+Cachorro,Dachshund,3,11.0,Female
+Cachorro,Dachshund,13,9.0,Female
+Cachorro,Boxer,11,27.7,Female
+Cachorro,Bichon Frise,4,6.9,Female
+Cachorro,Saint Bernard,3,79.1,Male
+Cachorro,Pembroke Welsh Corgi,9,12.4,Female
+Cachorro,Shiba Inu,1,10.6,Male
+Cachorro,Bloodhound,7,36.5,Female
+Cachorro,Schnauzer,14,17.8,Male
+Cachorro,Chinese Shar-Pei,7,23.4,Female
+Cachorro,Pomeranian,10,3.5,Male
+Cachorro,Bichon Frise,12,6.9,Male
+Cachorro,Shetland Sheepdog,6,6.4,Female
+Cachorro,Chesapeake Bay Retriever,14,32.9,Male
+Cachorro,Airedale Terrier,14,23.3,Male
+Cachorro,Belgian Malinois,10,33.1,Male
+Cachorro,Chinese Shar-Pei,8,22.0,Female
+Cachorro,Alaskan Malamute,4,41.4,Male
+Cachorro,Saint Bernard,7,87.0,Male
+Cachorro,Belgian Malinois,9,31.7,Male
+Cachorro,Havanese,14,5.2,Male
+Cachorro,Basenji,6,10.7,Male
+Cachorro,Papillon,14,4.3,Male
+Cachorro,Havanese,3,4.7,Female
+Cachorro,Yorkshire Terrier,9,2.4,Male
+Cachorro,Belgian Malinois,10,30.8,Male
+Cachorro,Samoyed,2,18.0,Female
+Cachorro,Jack Russell Terrier,11,7.8,Male
+Cachorro,Australian Shepherd,14,22.7,Female
+Cachorro,Weimaraner,5,29.1,Female
+Cachorro,German Shepherd,1,30.5,Male
+Cachorro,Cavalier King Charles Spaniel,10,5.7,Female
+Cachorro,Vizsla,13,24.6,Female
+Cachorro,West Highland White Terrier,5,6.5,Female
+Cachorro,Labrador Retriever,8,29.5,Male
+Cachorro,Cocker Spaniel,1,12.2,Female
+Cachorro,Beagle,10,11.5,Female
+Cachorro,Pekingese,13,3.5,Female
+Cachorro,French Bulldog,2,10.7,Male
+Cachorro,Schnauzer,5,17.8,Female
+Cachorro,Pekingese,1,4.6,Female
+Cachorro,Pug,1,6.8,Female
+Cachorro,French Bulldog,10,10.7,Male
+Cachorro,Border Collie,1,13.6,Female
+Cachorro,Beagle,4,9.1,Female
+Cachorro,Belgian Malinois,9,32.8,Male
+Cachorro,Vizsla,7,23.8,Male
+Cachorro,Pembroke Welsh Corgi,3,11.4,Male
+Cachorro,Doberman Pinscher,1,41.8,Male
+Cachorro,Alaskan Malamute,10,39.6,Female
+Cachorro,French Bulldog,7,12.2,Male
+Cachorro,Boston Terrier,6,8.9,Male
+Cachorro,Bichon Frise,13,7.0,Male
+Cachorro,Great Dane,7,57.8,Female
+Cachorro,Chihuahua,12,1.8,Female
+Cachorro,Chihuahua,10,2.5,Male
+Cachorro,Pug,2,6.6,Female
+Cachorro,Saint Bernard,5,80.9,Male
+Cachorro,Dogo Argentino,5,40.8,Female
+Cachorro,Bloodhound,3,45.1,Female
+Cachorro,Alaskan Malamute,10,34.5,Female
+Cachorro,Bichon Frise,12,5.8,Female
+Cachorro,Bloodhound,11,37.6,Female
+Cachorro,Havanese,3,4.7,Male
+Cachorro,Boston Terrier,12,8.2,Male
+Cachorro,Havanese,13,4.4,Male
+Cachorro,Akita,5,45.4,Female
+Cachorro,Shiba Inu,10,9.0,Female
+Cachorro,German Shepherd,11,39.1,Male
+Cachorro,Pomeranian,4,2.2,Male
+Cachorro,Shetland Sheepdog,4,8.4,Male
+Cachorro,Bulldog,7,19.8,Female
+Cachorro,Samoyed,12,21.6,Male
+Cachorro,Basenji,11,9.3,Female
+Cachorro,Bull Terrier,1,32.3,Female
+Cachorro,Maltese,9,3.5,Male
+Cachorro,Pomeranian,10,2.5,Male
+Cachorro,Doberman Pinscher,6,40.0,Male
+Cachorro,Papillon,11,3.1,Female
+Cachorro,Border Collie,6,15.0,Female
+Cachorro,Yorkshire Terrier,3,2.3,Female
+Cachorro,Poodle,1,30.6,Male
+Cachorro,Chesapeake Bay Retriever,5,29.8,Male
+Cachorro,Pomeranian,1,2.1,Female
+Cachorro,Miniature Schnauzer,6,8.2,Male
+Cachorro,Dachshund,3,11.5,Female
+Cachorro,Pekingese,14,5.1,Male
+Cachorro,Pembroke Welsh Corgi,4,12.9,Male
+Cachorro,Cavalier King Charles Spaniel,3,6.2,Male
+Cachorro,Rottweiler,10,46.5,Male
+Cachorro,Cavalier King Charles Spaniel,9,6.2,Male
+Cachorro,West Highland White Terrier,10,7.9,Female
+Cachorro,Shetland Sheepdog,1,7.1,Female
+Cachorro,Rottweiler,7,55.5,Male
+Cachorro,Bernese Mountain Dog,1,32.9,Female
+Cachorro,Airedale Terrier,10,24.6,Female
+Cachorro,Cocker Spaniel,2,13.9,Male
+Cachorro,Bernese Mountain Dog,4,40.2,Male
+Cachorro,Samoyed,6,16.2,Female
+Cachorro,West Highland White Terrier,2,7.5,Male
+Cachorro,French Bulldog,13,12.5,Male
+Cachorro,Papillon,3,2.8,Female
+Cachorro,Boston Terrier,14,7.1,Female
+Cachorro,Rottweiler,12,41.9,Female
+Cachorro,Cocker Spaniel,1,13.8,Male
+Cachorro,Vizsla,6,26.7,Male
+Cachorro,Chesapeake Bay Retriever,7,28.6,Female
+Cachorro,Airedale Terrier,13,25.4,Female
+Cachorro,Bernese Mountain Dog,10,41.0,Male
+Cachorro,Rottweiler,2,48.5,Female
+Cachorro,Vizsla,13,23.8,Male
+Cachorro,Boston Terrier,3,6.9,Female
+Cachorro,Akita,7,57.0,Male
+Cachorro,Pug,7,7.6,Male
+Cachorro,Samoyed,13,22.2,Female
+Cachorro,Basenji,8,10.0,Male
+Cachorro,Bull Terrier,1,32.0,Male
+Cachorro,Chesapeake Bay Retriever,6,31.5,Male
+Cachorro,Chesapeake Bay Retriever,5,28.7,Female
+Cachorro,German Shepherd,8,27.4,Female
+Cachorro,Boxer,14,26.5,Female
+Cachorro,Havanese,12,3.6,Female
+Cachorro,Bulldog,5,19.1,Female
+Cachorro,Maltese,7,3.2,Female
+Cachorro,Beagle,7,9.5,Female
+Cachorro,Chesapeake Bay Retriever,13,31.2,Female
+Cachorro,Whippet,9,16.9,Male
+Cachorro,Maltese,7,3.1,Female
+Cachorro,Papillon,1,4.1,Male
+Cachorro,Dachshund,3,11.4,Female
+Cachorro,Pekingese,1,4.8,Male
+Cachorro,Jack Russell Terrier,1,6.9,Male
+Cachorro,Great Dane,9,45.3,Female
+Cachorro,Maltese,13,3.4,Male
+Cachorro,French Bulldog,5,12.2,Male
+Cachorro,Miniature Schnauzer,1,7.6,Female
+Cachorro,Shetland Sheepdog,2,8.3,Male
+Cachorro,Beagle,1,13.2,Male
+Cachorro,Boston Terrier,9,5.3,Female
+Cachorro,Shetland Sheepdog,6,10.4,Male
+Cachorro,Bichon Frise,3,6.5,Female
+Cachorro,Border Collie,9,13.9,Female
+Cachorro,Bernese Mountain Dog,1,32.1,Female
+Cachorro,Labrador Retriever,6,33.1,Male
+Cachorro,Irish Setter,11,29.2,Female
+Cachorro,French Bulldog,1,8.8,Female
+Cachorro,Dogo Argentino,9,39.7,Male
+Cachorro,Vizsla,12,20.8,Female
+Cachorro,Rottweiler,6,44.0,Female
+Cachorro,Pug,7,6.8,Female
+Cachorro,Pembroke Welsh Corgi,11,13.5,Male
+Cachorro,Pembroke Welsh Corgi,11,13.4,Male
+Cachorro,Airedale Terrier,12,28.3,Male
+Cachorro,Poodle,14,30.5,Male
+Cachorro,Doberman Pinscher,10,29.9,Female
+Cachorro,Chihuahua,5,2.6,Male
+Cachorro,Poodle,5,22.3,Female
+Cachorro,Chihuahua,14,1.8,Female
+Cachorro,Doberman Pinscher,3,44.2,Male
+Cachorro,Belgian Malinois,5,32.3,Male
+Cachorro,Irish Setter,1,31.9,Male
+Cachorro,Airedale Terrier,9,21.7,Female
+Cachorro,Cavalier King Charles Spaniel,2,7.1,Male
+Cachorro,Akita,8,40.5,Female
+Cachorro,French Bulldog,12,8.3,Female
+Cachorro,Labrador Retriever,14,26.7,Female
+Cachorro,Pekingese,5,4.2,Female
+Cachorro,Airedale Terrier,2,19.4,Female
+Cachorro,Airedale Terrier,13,28.6,Male
+Cachorro,Airedale Terrier,1,23.3,Male
+Cachorro,Chinese Shar-Pei,10,23.7,Male
+Cachorro,Labrador Retriever,6,34.3,Male
+Cachorro,Doberman Pinscher,2,28.1,Female
+Cachorro,Pekingese,12,6.3,Male
+Cachorro,Bichon Frise,9,7.5,Male
+Cachorro,Akita,2,42.7,Male
+Cachorro,Whippet,7,17.4,Male
+Cachorro,Chinese Shar-Pei,1,22.9,Female
+Cachorro,Weimaraner,1,37.6,Male
+Cachorro,Shetland Sheepdog,3,11.3,Male
+Cachorro,Cavalier King Charles Spaniel,11,7.5,Male
+Cachorro,Vizsla,12,27.3,Male
+Cachorro,Doberman Pinscher,1,37.1,Male
+Cachorro,Bloodhound,8,47.2,Male
+Cachorro,Australian Shepherd,3,31.6,Male
+Cachorro,German Shepherd,8,28.9,Female
+Cachorro,Australian Shepherd,6,28.5,Male
+Cachorro,Belgian Malinois,14,29.4,Male
+Cachorro,Pomeranian,5,2.5,Female
+Cachorro,Samoyed,1,25.1,Female
+Cachorro,Doberman Pinscher,8,35.2,Male
+Cachorro,Airedale Terrier,10,20.3,Female
+Cachorro,Dogo Argentino,9,42.0,Male
+Cachorro,Pomeranian,2,2.8,Male
+Cachorro,Shih Tzu,4,5.2,Female
+Cachorro,Whippet,3,14.1,Male
+Cachorro,Jack Russell Terrier,13,7.2,Male
+Cachorro,Golden Retriever,3,28.4,Female
+Cachorro,Pembroke Welsh Corgi,6,11.5,Female
+Cachorro,Boxer,8,28.0,Female
+Cachorro,Whippet,2,17.5,Male
+Cachorro,Basenji,6,9.8,Female
+Cachorro,Chinese Shar-Pei,4,28.4,Male
+Cachorro,Jack Russell Terrier,10,7.5,Male
+Cachorro,Bulldog,6,20.4,Female
+Cachorro,Dachshund,12,13.0,Male
+Cachorro,Rottweiler,7,36.6,Female
+Cachorro,Beagle,14,11.6,Male
+Cachorro,Airedale Terrier,4,22.4,Female
+Cachorro,Yorkshire Terrier,7,2.7,Female
+Cachorro,Yorkshire Terrier,8,2.9,Male
+Cachorro,Yorkshire Terrier,6,2.1,Female
+Cachorro,Airedale Terrier,13,22.8,Female
+Cachorro,Vizsla,7,21.4,Female
+Cachorro,Miniature Schnauzer,13,8.3,Male
+Cachorro,Golden Retriever,11,33.0,Male
+Cachorro,Poodle,13,24.6,Female
+Cachorro,Pekingese,10,4.3,Female
+Cachorro,Vizsla,10,25.7,Male
+Cachorro,Weimaraner,6,34.6,Male
+Cachorro,West Highland White Terrier,8,9.6,Male
+Cachorro,Pekingese,6,5.9,Male
+Cachorro,Bichon Frise,4,6.0,Female
+Cachorro,Doberman Pinscher,11,37.6,Male
+Cachorro,Pembroke Welsh Corgi,14,11.5,Male
+Cachorro,Rottweiler,11,46.1,Male
+Cachorro,Yorkshire Terrier,11,2.6,Male
+Cachorro,Maltese,4,3.6,Male
+Cachorro,French Bulldog,5,12.8,Male
+Cachorro,Lhasa Apso,1,6.0,Female
+Cachorro,Pembroke Welsh Corgi,2,12.0,Male
+Cachorro,Whippet,4,14.3,Male
+Cachorro,Australian Shepherd,10,25.1,Male
+Cachorro,French Bulldog,13,12.4,Male
+Cachorro,Weimaraner,13,28.7,Female
+Cachorro,Bull Terrier,4,30.0,Female
+Cachorro,Shetland Sheepdog,4,11.2,Male
+Cachorro,Pekingese,9,4.5,Male
+Cachorro,Dogo Argentino,11,42.5,Male
+Cachorro,French Bulldog,9,11.1,Female
+Cachorro,Pembroke Welsh Corgi,4,12.4,Male
+Cachorro,Australian Shepherd,9,22.1,Male
+Cachorro,Samoyed,14,29.3,Male
+Cachorro,Border Collie,14,19.4,Male
+Cachorro,Australian Shepherd,14,27.0,Male
+Cachorro,Chesapeake Bay Retriever,10,28.9,Female
+Cachorro,Pembroke Welsh Corgi,13,10.6,Female
+Cachorro,Poodle,5,26.4,Female
+Cachorro,Cavalier King Charles Spaniel,1,7.0,Male
+Cachorro,Bulldog,14,18.2,Female
+Cachorro,Shiba Inu,11,9.3,Female
+Cachorro,Vizsla,7,26.2,Female
+Cachorro,Alaskan Malamute,12,42.0,Male
+Cachorro,Samoyed,13,18.5,Female
+Cachorro,Pekingese,9,4.3,Male
+Cachorro,Bichon Frise,7,6.8,Female
+Cachorro,Bull Terrier,4,31.7,Female
+Cachorro,Bichon Frise,13,7.1,Male
+Cachorro,Pekingese,14,5.7,Male
+Cachorro,Yorkshire Terrier,9,2.4,Female
+Cachorro,Pembroke Welsh Corgi,12,11.1,Female
+Cachorro,Chesapeake Bay Retriever,3,29.7,Male
+Cachorro,Chihuahua,9,2.1,Male
+Cachorro,Bloodhound,9,43.0,Male
+Cachorro,Pembroke Welsh Corgi,9,13.6,Male
+Cachorro,Dachshund,13,7.8,Female
+Cachorro,Bernese Mountain Dog,3,41.9,Male
+Cachorro,Shiba Inu,6,9.1,Female
+Cachorro,Whippet,11,14.9,Male
+Cachorro,Basenji,7,9.2,Female
+Cachorro,Beagle,6,10.8,Female
+Cachorro,Cavalier King Charles Spaniel,9,5.7,Female
+Cachorro,Pomeranian,6,2.3,Female
+Cachorro,Pembroke Welsh Corgi,9,12.4,Female
+Cachorro,Saint Bernard,3,70.7,Male
+Cachorro,Boston Terrier,12,10.7,Male
+Cachorro,Bulldog,1,24.6,Male
+Cachorro,Bulldog,3,24.2,Male
+Cachorro,Rottweiler,13,45.3,Female
+Cachorro,Papillon,11,3.3,Female
+Cachorro,Pekingese,12,5.7,Male
+Cachorro,Bichon Frise,1,6.3,Female
+Cachorro,Jack Russell Terrier,14,6.7,Male
+Cachorro,Cocker Spaniel,3,14.4,Male
+Cachorro,Basenji,10,10.5,Male
+Cachorro,Border Collie,1,18.9,Male
+Cachorro,Border Collie,9,16.8,Male
+Cachorro,Boxer,10,27.5,Male
+Cachorro,Whippet,1,16.5,Male
+Cachorro,Schnauzer,5,18.1,Male
+Cachorro,Cavalier King Charles Spaniel,5,6.9,Male
+Cachorro,Doberman Pinscher,4,37.3,Male
+Cachorro,Rottweiler,6,39.1,Female
+Cachorro,Chinese Shar-Pei,12,22.1,Female
+Cachorro,Saint Bernard,3,75.8,Male
+Cachorro,Boxer,11,31.9,Male
+Cachorro,Great Dane,5,65.8,Male
+Cachorro,Jack Russell Terrier,1,6.4,Female
+Cachorro,Lhasa Apso,14,5.6,Female
+Cachorro,Rottweiler,6,52.6,Male
+Cachorro,Dogo Argentino,10,41.7,Male
+Cachorro,French Bulldog,6,10.1,Female
+Cachorro,Rottweiler,13,59.2,Male
+Cachorro,Yorkshire Terrier,12,2.6,Male
+Cachorro,Vizsla,8,28.0,Male
+Cachorro,Poodle,12,20.2,Female
+Cachorro,Chesapeake Bay Retriever,12,30.7,Male
+Cachorro,Great Dane,14,58.6,Female
+Cachorro,Irish Setter,8,27.0,Male
+Cachorro,Bloodhound,14,41.6,Female
+Cachorro,Rottweiler,2,46.0,Female
+Cachorro,Yorkshire Terrier,12,2.6,Female
+Cachorro,German Shepherd,12,28.0,Female
+Cachorro,Golden Retriever,3,28.5,Female
+Cachorro,Pug,9,6.5,Female
+Cachorro,Golden Retriever,14,28.4,Male
+Cachorro,Pembroke Welsh Corgi,8,10.3,Female
+Cachorro,Schnauzer,9,18.7,Male
+Cachorro,Dachshund,2,15.0,Male
+Cachorro,Boston Terrier,4,7.2,Male
+Cachorro,Weimaraner,3,35.7,Male
+Cachorro,Chihuahua,9,2.8,Male
+Cachorro,Papillon,8,3.6,Female
+Cachorro,Rottweiler,2,43.9,Female
+Cachorro,Pekingese,11,4.4,Female
+Cachorro,Poodle,12,25.4,Female
+Cachorro,Chihuahua,10,2.9,Male
+Cachorro,Whippet,14,11.6,Female
+Cachorro,Irish Setter,7,31.6,Male
+Cachorro,Australian Shepherd,11,21.9,Male
+Cachorro,Chinese Shar-Pei,1,28.7,Male
+Cachorro,Shiba Inu,13,8.1,Female
+Cachorro,Havanese,9,3.4,Female
+Cachorro,Bichon Frise,5,6.1,Male
+Cachorro,Beagle,7,12.2,Male
+Cachorro,Boxer,7,26.5,Female
+Cachorro,German Shepherd,2,30.2,Male
+Cachorro,Pembroke Welsh Corgi,11,12.6,Male
+Cachorro,Havanese,11,3.8,Female
+Cachorro,Beagle,11,11.5,Female
+Cachorro,Basenji,4,10.2,Female
+Cachorro,Weimaraner,1,31.4,Female
+Cachorro,Siberian Husky,13,16.9,Female
+Cachorro,Saint Bernard,12,61.7,Female
+Cachorro,Poodle,8,27.1,Female
+Cachorro,Siberian Husky,2,16.6,Female
+Cachorro,Miniature Schnauzer,8,6.1,Female
+Cachorro,Labrador Retriever,2,31.7,Female
+Cachorro,German Shepherd,6,33.1,Female
+Cachorro,Boston Terrier,6,8.7,Male
+Cachorro,Shih Tzu,12,6.5,Male
+Cachorro,Border Collie,7,14.4,Female
+Cachorro,Lhasa Apso,14,7.5,Male
+Cachorro,Alaskan Malamute,8,37.3,Male
+Cachorro,Shetland Sheepdog,13,8.7,Male
+Cachorro,Chihuahua,10,2.6,Male
+Cachorro,Shih Tzu,14,5.6,Male
+Cachorro,Basenji,14,9.9,Female
+Cachorro,French Bulldog,14,10.9,Male
+Cachorro,Belgian Malinois,8,28.4,Female
+Cachorro,Doberman Pinscher,9,36.6,Female
+Cachorro,Poodle,10,23.8,Female
+Cachorro,Border Collie,5,16.0,Female
+Cachorro,Bichon Frise,6,6.6,Male
+Cachorro,Alaskan Malamute,9,40.0,Male
+Cachorro,Samoyed,12,22.7,Male
+Cachorro,Belgian Malinois,7,34.4,Male
+Cachorro,Shih Tzu,13,5.7,Female
+Cachorro,Samoyed,9,24.2,Female
+Cachorro,Lhasa Apso,6,7.8,Male
+Cachorro,Doberman Pinscher,9,44.5,Male
+Cachorro,Pomeranian,9,2.5,Male
+Cachorro,Schnauzer,5,17.6,Female
+Cachorro,Bernese Mountain Dog,6,39.4,Female
+Cachorro,Great Dane,3,73.1,Male
+Cachorro,Shih Tzu,2,5.2,Female
+Cachorro,Rottweiler,11,49.3,Male
+Cachorro,Border Collie,14,16.3,Male
+Cachorro,Doberman Pinscher,2,29.8,Female
+Cachorro,Bulldog,8,18.4,Female
+Cachorro,Alaskan Malamute,13,36.9,Female
+Cachorro,Jack Russell Terrier,10,7.2,Female
+Cachorro,Cavalier King Charles Spaniel,14,6.2,Female
+Cachorro,Great Dane,13,60.2,Female
+Cachorro,Yorkshire Terrier,8,2.3,Female
+Cachorro,Bichon Frise,1,5.9,Female
+Cachorro,Beagle,7,9.7,Female
+Cachorro,Rottweiler,4,48.4,Female
+Cachorro,Dogo Argentino,3,39.8,Male
+Cachorro,Border Collie,11,18.5,Male
+Cachorro,Pembroke Welsh Corgi,13,13.4,Male
+Cachorro,Vizsla,2,27.2,Male
+Cachorro,Pekingese,2,5.0,Female
+Cachorro,Rottweiler,12,48.5,Male
+Cachorro,Boston Terrier,1,8.4,Female
+Cachorro,Pekingese,8,4.7,Female
+Cachorro,Great Dane,10,84.1,Male
+Cachorro,Havanese,8,4.3,Female
+Cachorro,Boxer,10,28.9,Female
+Cachorro,Labrador Retriever,14,32.1,Female
+Cachorro,Bloodhound,1,44.7,Male
+Cachorro,Cocker Spaniel,4,11.9,Female
+Cachorro,Rottweiler,10,55.8,Male
+Cachorro,Whippet,7,13.4,Female
+Cachorro,French Bulldog,9,12.8,Male
+Cachorro,Cavalier King Charles Spaniel,2,5.8,Female
+Cachorro,Vizsla,12,27.2,Male
+Cachorro,Belgian Malinois,11,19.2,Female
+Cachorro,Poodle,5,21.8,Female
+Cachorro,Pug,6,7.1,Female
+Cachorro,Border Collie,5,16.9,Male
+Cachorro,Schnauzer,13,17.6,Male
+Cachorro,Beagle,13,11.5,Male
+Cachorro,Bernese Mountain Dog,11,38.4,Female
+Cachorro,Pembroke Welsh Corgi,3,13.5,Male
+Cachorro,Doberman Pinscher,11,43.8,Male
+Cachorro,Schnauzer,11,16.4,Male
+Cachorro,Schnauzer,7,18.3,Male
+Cachorro,Boston Terrier,4,8.9,Male
+Cachorro,Border Collie,10,15.2,Female
+Cachorro,Bull Terrier,3,32.3,Male
+Cachorro,Dogo Argentino,3,37.6,Female
+Cachorro,Whippet,4,16.3,Male
+Cachorro,Dachshund,1,10.0,Female
+Cachorro,Bloodhound,12,45.5,Male
+Cachorro,Bulldog,1,20.1,Female
+Cachorro,Bull Terrier,7,36.1,Male
+Cachorro,Australian Shepherd,5,29.4,Male
+Cachorro,Shih Tzu,4,4.7,Female
+Cachorro,Saint Bernard,13,73.2,Female
+Cachorro,Bloodhound,1,43.8,Female
+Cachorro,Pembroke Welsh Corgi,12,11.8,Male
+Cachorro,Bull Terrier,1,28.1,Female
+Cachorro,Pembroke Welsh Corgi,9,12.1,Male
+Cachorro,Lhasa Apso,13,7.5,Male
+Cachorro,Weimaraner,9,32.6,Male
+Cachorro,Miniature Schnauzer,10,8.1,Male
+Cachorro,Pembroke Welsh Corgi,3,10.7,Female
+Cachorro,Chinese Shar-Pei,12,22.0,Female
+Cachorro,Akita,5,58.1,Male
+Cachorro,Pug,11,6.5,Female
+Cachorro,Great Dane,5,86.4,Male
+Cachorro,Boxer,10,29.5,Female
+Cachorro,Vizsla,14,29.2,Male
+Cachorro,Yorkshire Terrier,11,2.1,Female
+Cachorro,Doberman Pinscher,12,42.9,Male
+Cachorro,Lhasa Apso,14,5.1,Female
+Cachorro,Airedale Terrier,9,21.6,Female
+Cachorro,Great Dane,6,86.2,Male
+Cachorro,Bernese Mountain Dog,9,48.0,Male
+Cachorro,Cavalier King Charles Spaniel,3,7.1,Male
+Cachorro,Vizsla,13,26.0,Male
+Cachorro,Cavalier King Charles Spaniel,7,6.6,Female
+Cachorro,Miniature Schnauzer,7,8.2,Male
+Cachorro,Siberian Husky,12,19.3,Female
+Cachorro,German Shepherd,1,32.4,Female
+Cachorro,Bichon Frise,11,6.5,Male
+Cachorro,Dachshund,11,7.9,Female
+Cachorro,French Bulldog,2,11.8,Male
+Cachorro,Pug,6,7.3,Female
+Cachorro,Bichon Frise,4,5.5,Female
+Cachorro,Beagle,4,11.6,Male
+Cachorro,Labrador Retriever,5,26.0,Female
+Cachorro,Rottweiler,13,49.0,Female
+Cachorro,Bernese Mountain Dog,11,41.9,Male
+Cachorro,French Bulldog,2,11.4,Male
+Cachorro,Papillon,3,4.5,Male
+Cachorro,Weimaraner,5,25.1,Female
+Cachorro,Airedale Terrier,9,22.6,Female
+Cachorro,Shetland Sheepdog,2,8.0,Female
+Cachorro,Rottweiler,14,56.9,Male
+Cachorro,Yorkshire Terrier,4,2.3,Female
+Cachorro,Jack Russell Terrier,1,6.5,Female
+Cachorro,Bloodhound,8,37.5,Female
+Cachorro,West Highland White Terrier,9,9.3,Male
+Cachorro,Chesapeake Bay Retriever,14,34.5,Male
+Cachorro,Weimaraner,12,31.6,Male
+Cachorro,Bulldog,14,22.2,Male
+Cachorro,Bichon Frise,3,6.7,Female
+Cachorro,Shih Tzu,2,4.0,Female
+Cachorro,Shih Tzu,7,4.6,Female
+Cachorro,Belgian Malinois,9,30.8,Male
+Cachorro,Yorkshire Terrier,14,2.7,Male
+Cachorro,Beagle,14,9.9,Female
+Cachorro,Cavalier King Charles Spaniel,3,5.9,Female
+Cachorro,Siberian Husky,12,17.3,Female
+Cachorro,Akita,11,41.3,Female
+Cachorro,French Bulldog,9,10.3,Female
+Cachorro,Basenji,2,10.4,Male
+Cachorro,Pug,8,6.8,Male
+Cachorro,Poodle,10,30.8,Male
+Cachorro,Basenji,12,9.9,Male
+Cachorro,Pekingese,11,4.7,Female
+Cachorro,Dogo Argentino,5,40.8,Male
+Cachorro,Pomeranian,10,3.2,Male
+Cachorro,Vizsla,5,21.3,Female
+Cachorro,Havanese,11,4.4,Male
+Cachorro,Weimaraner,3,29.8,Female
+Cachorro,Alaskan Malamute,5,34.2,Female
+Cachorro,Akita,8,36.0,Female
+Cachorro,Beagle,4,11.4,Female
+Cachorro,Beagle,5,13.5,Male
+Cachorro,Maltese,8,3.1,Female
+Cachorro,Siberian Husky,1,26.2,Male
+Cachorro,Doberman Pinscher,5,36.3,Female
+Cachorro,Schnauzer,5,19.5,Male
+Cachorro,Lhasa Apso,12,6.4,Female
+Cachorro,Vizsla,9,27.9,Male
+Cachorro,Labrador Retriever,11,28.8,Female
+Cachorro,Dachshund,8,13.2,Male
+Cachorro,Rottweiler,9,58.7,Male
+Cachorro,Airedale Terrier,13,19.7,Female
+Cachorro,Bulldog,6,21.9,Male
+Cachorro,Schnauzer,11,14.3,Female
+Cachorro,Dachshund,7,11.9,Female
+Cachorro,Pekingese,12,5.2,Male
+Cachorro,Chesapeake Bay Retriever,3,29.8,Female
+Cachorro,Belgian Malinois,12,27.8,Female
+Cachorro,Lhasa Apso,13,8.0,Male
+Cachorro,Shih Tzu,9,5.5,Male
+Cachorro,Cocker Spaniel,9,13.8,Male
+Cachorro,Belgian Malinois,9,34.7,Male
+Cachorro,Siberian Husky,14,16.3,Female
+Cachorro,Airedale Terrier,1,27.4,Male
+Cachorro,Chinese Shar-Pei,1,25.0,Male
+Cachorro,Alaskan Malamute,2,40.9,Male
+Cachorro,Pug,13,7.4,Male
+Cachorro,Whippet,1,12.4,Female
+Cachorro,Vizsla,6,20.9,Female
+Cachorro,Chihuahua,9,1.6,Female
+Cachorro,Weimaraner,12,31.3,Male
+Cachorro,Whippet,13,14.3,Female
+Cachorro,Bulldog,4,19.6,Female
+Cachorro,Whippet,1,12.1,Female
+Cachorro,Jack Russell Terrier,13,6.9,Female
+Cachorro,Labrador Retriever,5,33.8,Male
+Cachorro,Rottweiler,13,43.8,Female
+Cachorro,Vizsla,3,26.1,Female
+Cachorro,Pembroke Welsh Corgi,2,11.0,Female
+Cachorro,Airedale Terrier,10,27.9,Male
+Cachorro,Poodle,9,20.6,Female
+Cachorro,Basenji,10,10.0,Female
+Cachorro,Irish Setter,5,29.1,Female
+Cachorro,Pug,11,7.1,Female
+Cachorro,Pug,2,7.5,Male
+Cachorro,Dachshund,7,10.3,Female
+Cachorro,Poodle,2,22.8,Female
+Cachorro,Havanese,3,4.3,Female
+Cachorro,Jack Russell Terrier,4,7.7,Male
+Cachorro,French Bulldog,1,11.2,Female
+Cachorro,Bloodhound,5,40.5,Female
+Cachorro,Lhasa Apso,6,5.1,Female
+Cachorro,Miniature Schnauzer,11,6.5,Female
+Cachorro,Cavalier King Charles Spaniel,4,5.2,Female
+Cachorro,Pug,14,7.0,Male
+Cachorro,Schnauzer,9,15.3,Female
+Cachorro,West Highland White Terrier,8,9.3,Male
+Cachorro,Jack Russell Terrier,12,6.9,Male
+Cachorro,Shetland Sheepdog,9,8.7,Male
+Cachorro,Chesapeake Bay Retriever,10,29.2,Male
+Cachorro,Dachshund,11,11.5,Female
+Cachorro,Airedale Terrier,9,27.0,Male
+Cachorro,Schnauzer,11,14.2,Female
+Cachorro,Cocker Spaniel,3,9.1,Female
+Cachorro,Golden Retriever,6,28.3,Female
+Cachorro,Cocker Spaniel,4,11.9,Male
+Cachorro,Schnauzer,8,16.3,Female
+Cachorro,Whippet,13,13.3,Female
+Cachorro,Cocker Spaniel,7,12.3,Female
+Cachorro,Bull Terrier,4,25.0,Female
+Cachorro,Bull Terrier,6,29.1,Female
+Cachorro,Chesapeake Bay Retriever,12,25.4,Female
+Cachorro,Airedale Terrier,13,25.2,Female
+Cachorro,Papillon,6,3.8,Female
+Cachorro,Airedale Terrier,5,27.3,Male
+Cachorro,Cavalier King Charles Spaniel,4,7.0,Male
+Cachorro,Bull Terrier,3,24.3,Female
+Cachorro,Siberian Husky,2,21.8,Female
+Cachorro,Pug,13,7.0,Female
+Cachorro,Pug,10,6.3,Female
+Cachorro,Beagle,7,12.2,Male
+Cachorro,Bulldog,11,20.1,Female
+Cachorro,Samoyed,13,23.5,Female
+Cachorro,Boston Terrier,1,9.8,Male
+Cachorro,Cavalier King Charles Spaniel,1,6.3,Female
+Cachorro,Siberian Husky,7,24.5,Male
+Cachorro,Dogo Argentino,4,40.3,Male
+Cachorro,Chesapeake Bay Retriever,10,31.5,Male
+Cachorro,Border Collie,9,12.2,Female
+Cachorro,Miniature Schnauzer,4,7.0,Female
+Cachorro,Beagle,12,12.2,Male
+Cachorro,Golden Retriever,4,30.7,Male
+Cachorro,Border Collie,14,13.3,Female
+Cachorro,Irish Setter,11,27.9,Male
+Cachorro,Bernese Mountain Dog,8,46.6,Male
+Cachorro,Shih Tzu,10,5.6,Male
+Cachorro,Bichon Frise,5,5.1,Female
+Cachorro,Vizsla,12,28.5,Male
+Cachorro,Samoyed,13,24.3,Male
+Cachorro,Shetland Sheepdog,9,7.5,Female
+Cachorro,Alaskan Malamute,7,36.5,Female
+Cachorro,Poodle,7,30.6,Male
+Cachorro,Rottweiler,8,49.0,Male
+Cachorro,Bernese Mountain Dog,3,41.9,Female
+Cachorro,Siberian Husky,6,26.6,Male
+Cachorro,Papillon,5,3.4,Female
+Cachorro,Beagle,12,12.2,Male
+Cachorro,Jack Russell Terrier,11,7.7,Male
+Cachorro,Boxer,12,29.5,Male
+Cachorro,Dachshund,11,9.2,Female
+Cachorro,Yorkshire Terrier,13,2.8,Male
+Cachorro,Border Collie,13,16.5,Male
+Cachorro,Pug,1,6.8,Male
+Cachorro,Schnauzer,6,17.7,Male
+Cachorro,Cavalier King Charles Spaniel,10,5.2,Female
+Cachorro,Vizsla,7,26.2,Male
+Cachorro,Bloodhound,14,46.0,Male
+Cachorro,Lhasa Apso,7,6.8,Female
+Cachorro,Beagle,12,10.9,Male
+Cachorro,Lhasa Apso,12,7.3,Male
+Cachorro,Beagle,9,10.5,Female
+Cachorro,German Shepherd,14,22.2,Female
+Cachorro,Jack Russell Terrier,11,7.0,Male
+Cachorro,German Shepherd,6,23.4,Female
+Cachorro,Shetland Sheepdog,3,8.9,Male
+Cachorro,Irish Setter,13,28.2,Male
+Cachorro,Labrador Retriever,13,31.7,Male
+Cachorro,Pomeranian,4,2.9,Male
+Cachorro,Weimaraner,8,25.0,Female
+Cachorro,Border Collie,10,12.8,Female
+Cachorro,Boston Terrier,4,5.4,Female
+Cachorro,Boston Terrier,6,7.1,Female
+Cachorro,Bull Terrier,11,31.0,Male
+Cachorro,Akita,2,51.1,Male
+Cachorro,Rottweiler,2,38.6,Female
+Cachorro,Irish Setter,1,26.9,Male
+Cachorro,Cavalier King Charles Spaniel,5,7.9,Male
+Cachorro,Bichon Frise,10,6.3,Male
+Cachorro,Weimaraner,14,31.5,Male
+Cachorro,Boxer,12,25.7,Female
+Cachorro,Yorkshire Terrier,11,3.2,Male
+Cachorro,Papillon,13,3.3,Female
+Cachorro,Boston Terrier,14,7.4,Female
+Cachorro,Havanese,12,4.9,Female
+Cachorro,Lhasa Apso,11,6.2,Male
+Cachorro,Bull Terrier,4,37.7,Male
+Cachorro,Alaskan Malamute,4,35.2,Female
+Cachorro,West Highland White Terrier,5,9.0,Male
+Cachorro,Shih Tzu,11,6.0,Male
+Cachorro,Jack Russell Terrier,4,7.2,Male
+Cachorro,Boxer,10,29.2,Female
+Cachorro,Bichon Frise,6,6.3,Male
+Cachorro,Vizsla,13,26.5,Female
+Cachorro,Akita,9,48.1,Male
+Cachorro,Beagle,2,12.9,Male
+Cachorro,Belgian Malinois,11,35.6,Male
+Cachorro,Samoyed,14,21.4,Male
+Cachorro,Vizsla,10,26.0,Female
+Cachorro,Beagle,4,10.8,Female
+Cachorro,Shetland Sheepdog,1,10.8,Male
+Cachorro,French Bulldog,7,10.2,Male
+Cachorro,Pembroke Welsh Corgi,5,11.4,Female
+Cachorro,West Highland White Terrier,8,9.2,Male
+Cachorro,Pembroke Welsh Corgi,7,11.2,Female
+Cachorro,Pekingese,6,4.6,Male
+Cachorro,Chihuahua,7,2.3,Male
+Cachorro,Cocker Spaniel,1,14.0,Male
+Cachorro,Border Collie,8,15.0,Male
+Cachorro,Alaskan Malamute,8,41.3,Male
+Cachorro,Pug,14,7.3,Female
+Cachorro,Saint Bernard,2,67.4,Male
+Cachorro,Papillon,1,2.7,Female
+Cachorro,Doberman Pinscher,11,41.2,Male
+Cachorro,Pug,14,6.8,Male
+Cachorro,Dachshund,12,12.9,Male
+Cachorro,Boxer,12,28.1,Female
+Cachorro,Saint Bernard,3,68.4,Female
+Cachorro,Bernese Mountain Dog,12,36.7,Female
+Cachorro,Border Collie,7,18.4,Male
+Cachorro,Chinese Shar-Pei,7,22.6,Female
+Cachorro,Bichon Frise,5,6.5,Male
+Cachorro,Bulldog,4,20.6,Female
+Cachorro,Bloodhound,4,44.0,Female
+Cachorro,Shetland Sheepdog,6,8.6,Female
+Cachorro,Bull Terrier,2,26.9,Female
+Cachorro,Rottweiler,1,40.2,Female
+Cachorro,Dogo Argentino,12,39.1,Male
+Cachorro,Havanese,2,3.5,Female
+Cachorro,Airedale Terrier,3,22.6,Male
+Cachorro,Bloodhound,6,49.9,Male
+Cachorro,Alaskan Malamute,13,35.3,Female
+Cachorro,Alaskan Malamute,11,38.8,Female
+Cachorro,Pomeranian,5,2.4,Male
+Cachorro,Great Dane,10,69.0,Male
+Cachorro,Irish Setter,3,29.0,Male
+Cachorro,Alaskan Malamute,10,39.0,Male
+Cachorro,Beagle,7,13.3,Male
+Cachorro,Shih Tzu,5,6.0,Female
+Cachorro,Shih Tzu,12,5.8,Female
+Cachorro,Doberman Pinscher,2,28.8,Female
+Cachorro,Basenji,1,10.0,Female
+Cachorro,Cavalier King Charles Spaniel,12,6.3,Male
+Cachorro,Bulldog,8,24.6,Male
+Cachorro,Miniature Schnauzer,12,6.3,Female
+Cachorro,Lhasa Apso,9,6.7,Male
+Cachorro,Golden Retriever,3,25.9,Female
+Cachorro,Bichon Frise,9,5.0,Female
+Cachorro,Yorkshire Terrier,6,2.2,Female
+Cachorro,Alaskan Malamute,4,39.3,Female
+Cachorro,Australian Shepherd,3,29.9,Male
+Cachorro,Chinese Shar-Pei,3,29.8,Male
+Cachorro,Havanese,13,4.2,Male
+Cachorro,Jack Russell Terrier,7,6.8,Female
+Cachorro,Cavalier King Charles Spaniel,9,6.6,Male
+Cachorro,Shih Tzu,12,6.2,Male
+Cachorro,Great Dane,2,54.4,Female
+Cachorro,Irish Setter,5,28.3,Male
+Cachorro,Chihuahua,14,2.1,Female
+Cachorro,Whippet,14,12.0,Female
+Cachorro,Irish Setter,2,26.4,Female
+Cachorro,Samoyed,11,26.8,Male
+Cachorro,Chesapeake Bay Retriever,4,25.9,Female
+Cachorro,Bulldog,8,24.7,Male
+Cachorro,Papillon,14,3.2,Female
+Cachorro,Dachshund,14,11.3,Female
+Cachorro,Papillon,4,4.1,Male
+Cachorro,Miniature Schnauzer,1,6.8,Female
+Cachorro,Weimaraner,12,37.2,Male
+Cachorro,Yorkshire Terrier,8,3.1,Male
+Cachorro,Boxer,4,27.8,Female
+Cachorro,Irish Setter,1,25.4,Female
+Cachorro,Shih Tzu,9,4.2,Female
+Cachorro,Siberian Husky,4,24.2,Male
+Cachorro,Pekingese,12,3.2,Female
+Cachorro,Chihuahua,8,1.7,Female
+Cachorro,Basenji,5,9.8,Male
+Cachorro,Shih Tzu,2,6.3,Male
+Cachorro,Boxer,7,25.7,Female
+Cachorro,Irish Setter,13,27.2,Female
+Cachorro,Siberian Husky,5,21.7,Female
+Cachorro,Vizsla,11,25.3,Female
+Cachorro,Pekingese,4,4.9,Male
+Cachorro,Samoyed,13,21.0,Female
+Cachorro,Pembroke Welsh Corgi,7,11.5,Female
+Gato,Russian Blue,19,3.8,Female
+Gato,Norwegian Forest,19,6.1,Female
+Gato,Chartreux,3,3.5,Female
+Gato,Persian,13,5.2,Female
+Gato,Ragdoll,10,6.4,Male
+Gato,Ocicat,9,5.4,Female
+Gato,Ragdoll,6,6.2,Female
+Gato,Abyssinian,12,4.0,Male
+Gato,Oriental,2,4.6,Male
+Gato,Egyptian Mau,12,4.2,Male
+Gato,Chartreux,16,6.4,Male
+Gato,American Shorthair,13,6.1,Male
+Gato,Bengal,16,5.0,Male
+Gato,Cornish Rex,13,3.3,Male
+Gato,British Shorthair,19,6.0,Female
+Gato,Burmese,14,4.6,Male
+Gato,Burmese,13,5.8,Male
+Gato,Russian Blue,10,5.1,Male
+Gato,Singapura,7,2.7,Female
+Gato,Maine Coon,5,8.0,Male
+Gato,British Shorthair,17,5.8,Female
+Gato,Abyssinian,9,4.9,Male
+Gato,Cornish Rex,6,3.3,Male
+Gato,Turkish Angora,16,3.0,Female
+Gato,Burmese,6,3.5,Female
+Gato,Himalayan,6,4.8,Male
+Gato,Sphynx,18,5.1,Male
+Gato,Manx,1,4.8,Male
+Gato,Siberian,17,7.6,Male
+Gato,Birman,17,3.5,Female
+Gato,Oriental,1,2.7,Female
+Gato,Balinese,11,3.8,Male
+Gato,Egyptian Mau,13,5.7,Male
+Gato,Devon Rex,1,4.0,Male
+Gato,Egyptian Mau,8,4.8,Male
+Gato,Sphynx,6,4.3,Female
+Gato,Norwegian Forest,5,4.2,Female
+Gato,Norwegian Forest,5,6.6,Male
+Gato,Persian,6,4.7,Male
+Gato,American Shorthair,13,7.0,Male
+Gato,Ragdoll,18,8.1,Male
+Gato,Burmese,13,4.2,Female
+Gato,Himalayan,7,3.0,Female
+Gato,Egyptian Mau,8,4.4,Male
+Gato,Exotic Shorthair,17,5.8,Male
+Gato,Egyptian Mau,1,3.7,Female
+Gato,Egyptian Mau,16,5.9,Male
+Gato,Turkish Angora,11,4.6,Male
+Gato,Abyssinian,4,3.6,Female
+Gato,Persian,4,5.9,Male
+Gato,Maine Coon,17,10.9,Male
+Gato,Oriental,17,3.2,Female
+Gato,Manx,10,4.3,Female
+Gato,Persian,6,6.3,Male
+Gato,Scottish Fold,17,4.5,Male
+Gato,Balinese,18,4.8,Male
+Gato,Cornish Rex,10,3.3,Male
+Gato,Ragdoll,13,8.0,Male
+Gato,Savannah,16,10.2,Male
+Gato,American Shorthair,7,4.9,Female
+Gato,Cornish Rex,15,3.8,Male
+Gato,Munchkin,2,3.6,Male
+Gato,Siamese,5,2.7,Female
+Gato,Persian,17,4.7,Male
+Gato,Persian,5,4.8,Male
+Gato,Bengal,8,4.9,Female
+Gato,Chartreux,15,5.5,Male
+Gato,Sphynx,8,4.3,Male
+Gato,British Shorthair,3,7.7,Male
+Gato,Balinese,16,3.1,Female
+Gato,Himalayan,16,4.9,Male
+Gato,Norwegian Forest,19,5.3,Female
+Gato,Bengal,12,5.1,Male
+Gato,Oriental,15,3.7,Female
+Gato,Scottish Fold,8,4.9,Male
+Gato,Singapura,3,2.5,Male
+Gato,Burmese,18,4.9,Female
+Gato,Maine Coon,4,7.9,Female
+Gato,Maine Coon,8,7.6,Female
+Gato,Abyssinian,14,4.1,Female
+Gato,Oriental,17,4.0,Female
+Gato,Manx,6,4.6,Male
+Gato,Ragdoll,5,6.3,Female
+Gato,British Shorthair,14,5.6,Female
+Gato,Cornish Rex,6,2.8,Female
+Gato,Savannah,12,5.9,Female
+Gato,Turkish Angora,9,3.6,Male
+Gato,American Shorthair,1,6.2,Male
+Gato,Ocicat,18,5.3,Female
+Gato,Persian,6,4.7,Female
+Gato,Turkish Angora,5,3.9,Male
+Gato,Ragdoll,2,6.7,Male
+Gato,Chartreux,6,5.6,Male
+Gato,Russian Blue,17,4.8,Male
+Gato,Manx,7,5.4,Male
+Gato,Scottish Fold,9,5.8,Male
+Gato,Balinese,5,4.0,Female
+Gato,Savannah,11,8.3,Female
+Gato,Bengal,11,5.7,Female
+Gato,British Shorthair,4,6.6,Male
+Gato,Bengal,6,3.6,Female
+Gato,Norwegian Forest,10,4.3,Female
+Gato,Balinese,9,3.1,Female
+Gato,Ragdoll,18,6.8,Male
+Gato,Russian Blue,9,4.2,Male
+Gato,Bengal,11,6.9,Male
+Gato,Balinese,2,2.8,Female
+Gato,Birman,15,5.4,Male
+Gato,Turkish Angora,6,3.7,Female
+Gato,Norwegian Forest,17,6.1,Female
+Gato,Balinese,4,3.6,Female
+Gato,Ragdoll,8,7.0,Male
+Gato,Singapura,2,3.2,Male
+Gato,Cornish Rex,9,2.7,Female
+Gato,Norwegian Forest,1,7.0,Female
+Gato,Siberian,6,5.0,Female
+Gato,Chartreux,16,3.7,Female
+Gato,Chartreux,7,6.2,Male
+Gato,Devon Rex,16,4.1,Male
+Gato,Himalayan,6,3.9,Female
+Gato,Sphynx,10,4.9,Male
+Gato,Oriental,18,2.8,Female
+Gato,Ragdoll,17,8.0,Male
+Gato,Persian,17,3.6,Female
+Gato,Sphynx,12,3.4,Female
+Gato,Persian,15,3.4,Female
+Gato,Himalayan,6,3.6,Female
+Gato,American Shorthair,16,5.5,Male
+Gato,Bengal,14,5.8,Male
+Gato,Siamese,12,2.8,Female
+Gato,Devon Rex,12,3.5,Male
+Gato,Exotic Shorthair,2,4.6,Female
+Gato,Ragdoll,8,6.5,Male
+Gato,Siamese,17,3.6,Female
+Gato,Scottish Fold,8,5.9,Male
+Gato,Siberian,16,5.4,Female
+Gato,Devon Rex,1,3.7,Female
+Gato,Abyssinian,5,3.1,Female
+Gato,Chartreux,19,3.1,Female
+Gato,Oriental,3,3.7,Female
+Gato,Persian,9,6.0,Male
+Gato,Scottish Fold,11,5.7,Male
+Gato,American Shorthair,6,3.6,Female
+Gato,Savannah,7,8.0,Female
+Gato,Singapura,7,2.9,Male
+Gato,Cornish Rex,5,2.9,Female
+Gato,Ocicat,2,3.9,Female
+Gato,Siamese,5,4.1,Female
+Gato,Manx,6,3.6,Female
+Gato,Siamese,6,3.8,Female
+Gato,Ragdoll,7,7.9,Male
+Gato,Ocicat,4,5.2,Female
+Gato,Ragdoll,18,8.2,Male
+Gato,American Shorthair,16,5.5,Female
+Gato,Turkish Angora,19,3.7,Male
+Gato,Ragdoll,10,4.5,Female
+Gato,Balinese,5,4.3,Male
+Gato,Himalayan,18,4.7,Male
+Gato,American Shorthair,3,5.0,Male
+Gato,Ocicat,4,3.9,Female
+Gato,Turkish Angora,14,3.9,Male
+Gato,Oriental,12,3.5,Male
+Gato,Singapura,14,2.6,Male
+Gato,Maine Coon,5,10.6,Male
+Gato,Bengal,18,5.4,Male
+Gato,Scottish Fold,7,6.0,Male
+Gato,Tonkinese,16,4.4,Female
+Gato,Savannah,3,7.7,Male
+Gato,Birman,11,5.0,Male
+Gato,Savannah,18,7.3,Female
+Gato,Siamese,6,4.5,Male
+Gato,Egyptian Mau,5,3.2,Female
+Gato,Devon Rex,5,3.4,Male
+Gato,Persian,16,3.2,Female
+Gato,Tonkinese,3,4.7,Male
+Gato,Persian,12,6.5,Male
+Gato,British Shorthair,3,5.7,Female
+Gato,Egyptian Mau,2,5.4,Male
+Gato,Turkish Angora,15,5.0,Male
+Gato,Scottish Fold,17,4.3,Female
+Gato,Egyptian Mau,12,4.1,Male
+Gato,Burmese,2,5.7,Male
+Gato,Munchkin,2,3.4,Male
+Gato,Birman,14,3.9,Male
+Gato,Siberian,7,7.4,Male
+Gato,Burmese,14,4.8,Female
+Gato,Exotic Shorthair,7,4.0,Female
+Gato,Siamese,17,3.3,Female
+Gato,Ragdoll,4,5.0,Female
+Gato,Siamese,15,2.6,Female
+Gato,Savannah,3,5.3,Female
+Gato,Siberian,6,6.4,Female
+Gato,Devon Rex,8,4.3,Male
+Gato,Birman,16,3.2,Female
+Gato,Birman,15,3.5,Female
+Gato,Egyptian Mau,4,4.4,Male
+Gato,Birman,8,3.0,Female
+Gato,Singapura,8,2.5,Female
+Gato,Siamese,7,4.5,Male
+Gato,Burmese,18,5.3,Male
+Gato,Balinese,12,3.1,Female
+Gato,Ragdoll,4,6.1,Female
+Gato,Russian Blue,14,4.0,Male
+Gato,Exotic Shorthair,5,4.9,Male
+Gato,Turkish Angora,7,4.9,Male
+Gato,Persian,12,6.0,Male
+Gato,Bengal,15,6.8,Male
+Gato,Ragdoll,19,8.8,Male
+Gato,Siberian,13,7.9,Male
+Gato,Savannah,4,10.7,Male
+Gato,Munchkin,6,3.4,Male
+Gato,Tonkinese,8,2.5,Female
+Gato,Siberian,15,4.2,Female
+Gato,Manx,12,4.3,Male
+Gato,Siberian,10,4.3,Female
+Gato,Savannah,12,8.5,Male
+Gato,Burmese,17,5.4,Male
+Gato,Devon Rex,8,4.2,Male
+Gato,Burmese,2,4.2,Female
+Gato,Exotic Shorthair,19,4.8,Male
+Gato,Chartreux,1,6.3,Male
+Gato,Turkish Angora,10,3.1,Female
+Gato,Manx,9,3.5,Female
+Gato,Devon Rex,19,2.9,Female
+Gato,Munchkin,12,2.8,Female
+Gato,Manx,18,4.6,Male
+Gato,Tonkinese,16,4.1,Female
+Gato,Chartreux,4,6.4,Male
+Gato,Exotic Shorthair,11,5.9,Male
+Gato,Egyptian Mau,15,3.3,Female
+Gato,Maine Coon,16,7.9,Female
+Gato,Birman,2,5.0,Male
+Gato,Bengal,12,3.9,Female
+Gato,Ocicat,8,6.2,Male
+Gato,Ocicat,12,4.6,Female
+Gato,Manx,14,4.1,Female
+Gato,British Shorthair,3,5.7,Male
+Gato,Chartreux,2,5.7,Male
+Gato,Siberian,17,4.3,Female
+Gato,Abyssinian,2,3.2,Female
+Gato,Burmese,17,4.3,Male
+Gato,Burmese,2,4.9,Female
+Gato,Norwegian Forest,2,6.7,Male
+Gato,Oriental,13,3.1,Female
+Gato,American Shorthair,7,4.2,Female
+Gato,Birman,9,5.3,Male
+Gato,Tonkinese,9,4.6,Male
+Gato,Norwegian Forest,14,7.0,Female
+Gato,Savannah,11,6.2,Female
+Gato,British Shorthair,19,4.3,Female
+Gato,Norwegian Forest,1,5.8,Female
+Gato,Exotic Shorthair,5,5.2,Male
+Gato,Manx,1,5.2,Male
+Gato,Maine Coon,6,8.2,Female
+Gato,Tonkinese,16,3.4,Female
+Gato,Russian Blue,16,5.5,Male
+Gato,Burmese,13,5.1,Male
+Gato,Exotic Shorthair,14,4.0,Female
+Gato,Burmese,11,4.0,Female
+Gato,Ragdoll,10,6.2,Male
+Gato,American Shorthair,17,6.6,Male
+Gato,Norwegian Forest,7,6.1,Male
+Gato,Ragdoll,4,7.0,Male
+Gato,Scottish Fold,17,5.2,Male
+Gato,Russian Blue,1,3.1,Female
+Gato,British Shorthair,2,4.2,Female
+Gato,Ragdoll,19,6.5,Female
+Gato,Tonkinese,1,2.6,Female
+Gato,Exotic Shorthair,12,4.4,Female
+Gato,Sphynx,19,4.4,Male
+Gato,Cornish Rex,19,3.5,Male
+Gato,Savannah,16,7.8,Male
+Gato,Persian,16,6.0,Male
+Gato,Savannah,8,8.7,Female
+Gato,Birman,13,3.2,Female
+Gato,Balinese,14,4.9,Male
+Gato,Scottish Fold,19,5.2,Male
+Gato,Tonkinese,15,3.8,Female
+Gato,Savannah,15,7.8,Female
+Gato,Sphynx,8,5.0,Male
+Gato,Exotic Shorthair,13,5.1,Female
+Gato,Munchkin,12,3.0,Female
+Gato,Norwegian Forest,13,5.7,Female
+Gato,Birman,16,3.5,Female
+Gato,Siamese,12,2.7,Female
+Gato,Ocicat,14,6.2,Male
+Gato,Egyptian Mau,15,4.1,Male
+Gato,Manx,19,3.9,Female
+Gato,Cornish Rex,5,2.6,Female
+Gato,Chartreux,2,4.9,Male
+Gato,Egyptian Mau,18,4.2,Female
+Gato,Turkish Angora,18,4.4,Male
+Gato,Balinese,17,4.1,Male
+Gato,Chartreux,10,4.6,Male
+Gato,Exotic Shorthair,17,5.4,Male
+Gato,Ragdoll,3,5.5,Female
+Gato,Ragdoll,16,8.2,Male
+Gato,Abyssinian,18,4.5,Male
+Gato,Oriental,7,3.3,Female
+Gato,Oriental,1,4.2,Male
+Gato,Oriental,7,4.9,Male
+Gato,Cornish Rex,13,3.5,Female
+Gato,Ragdoll,16,7.5,Male
+Gato,Turkish Angora,11,3.3,Female
+Gato,Singapura,3,2.0,Female
+Gato,American Shorthair,9,5.6,Female
+Gato,Russian Blue,7,3.5,Female
+Gato,Ragdoll,3,6.8,Male
+Gato,Oriental,1,5.0,Male
+Gato,Scottish Fold,11,5.5,Male
+Gato,Ocicat,13,4.8,Male
+Gato,Siberian,4,6.0,Male
+Gato,Abyssinian,10,3.0,Female
+Gato,Abyssinian,8,3.8,Female
+Gato,Exotic Shorthair,17,3.6,Female
+Gato,Chartreux,11,5.4,Female
+Gato,Maine Coon,5,10.7,Male
+Gato,Russian Blue,18,3.9,Female
+Gato,Siamese,4,3.5,Female
+Gato,Siamese,6,3.8,Male
+Gato,Burmese,7,4.2,Male
+Gato,Maine Coon,12,9.9,Male
+Gato,Sphynx,3,4.0,Male
+Gato,Birman,8,3.1,Female
+Gato,Bengal,10,5.4,Male
+Gato,Persian,1,3.0,Female
+Gato,Savannah,17,8.8,Male
+Gato,Siamese,18,3.6,Female
+Gato,Sphynx,9,4.3,Female
+Gato,Chartreux,16,6.0,Male
+Gato,Devon Rex,17,4.3,Male
+Gato,Birman,18,3.7,Female
+Gato,Exotic Shorthair,11,5.2,Female
+Gato,Maine Coon,18,8.9,Male
+Gato,Himalayan,4,3.4,Female
+Gato,Devon Rex,8,3.7,Female
+Gato,Ragdoll,10,5.3,Female
+Gato,Burmese,4,3.1,Female
+Gato,Ocicat,8,5.3,Male
+Gato,Birman,17,4.5,Male
+Gato,Balinese,3,3.1,Female
+Gato,Bengal,5,4.7,Female
+Gato,Devon Rex,5,4.3,Male
+Gato,Manx,7,4.6,Male
+Gato,Ragdoll,1,6.0,Female
+Gato,Abyssinian,18,3.4,Female
+Gato,Munchkin,6,3.3,Female
+Gato,Ragdoll,15,6.5,Male
+Gato,American Shorthair,9,5.0,Male
+Gato,Exotic Shorthair,3,4.5,Female
+Gato,Himalayan,18,5.4,Male
+Gato,Maine Coon,16,7.9,Female
+Gato,American Shorthair,17,6.1,Male
+Gato,Himalayan,9,4.5,Female
+Gato,Exotic Shorthair,13,4.3,Female
+Gato,Balinese,8,2.6,Female
+Gato,Exotic Shorthair,13,4.8,Male
+Gato,Siamese,1,2.6,Female
+Gato,Sphynx,12,3.5,Female
+Gato,Sphynx,12,3.8,Female
+Gato,Russian Blue,9,4.5,Male
+Gato,Russian Blue,1,4.8,Male
+Gato,Chartreux,14,4.2,Female
+Gato,Exotic Shorthair,14,5.9,Male
+Gato,Siamese,6,4.5,Male
+Gato,Norwegian Forest,16,5.0,Female
+Gato,Ocicat,8,4.3,Female
+Gato,Chartreux,19,4.5,Female
+Gato,Abyssinian,5,4.5,Male
+Gato,Abyssinian,15,3.4,Female
+Gato,Savannah,13,8.4,Male
+Gato,Tonkinese,6,3.9,Female
+Gato,Himalayan,17,4.3,Female
+Gato,British Shorthair,5,5.8,Male
+Gato,Abyssinian,10,4.3,Male
+Gato,American Shorthair,5,5.5,Female
+Gato,Munchkin,17,2.5,Female
+Gato,Savannah,19,8.3,Female
+Gato,Egyptian Mau,6,3.3,Female
+Gato,Himalayan,15,5.0,Male
+Gato,Oriental,4,3.2,Female
+Gato,Exotic Shorthair,17,3.5,Female
+Gato,Turkish Angora,1,4.9,Male
+Gato,Chartreux,18,5.6,Male
+Gato,Oriental,10,4.1,Female
+Gato,Manx,19,4.6,Male
+Gato,American Shorthair,2,6.7,Male
+Gato,Persian,17,6.3,Male
+Gato,Ocicat,18,4.8,Female
+Gato,Oriental,13,2.8,Female
+Gato,Munchkin,7,3.2,Female
+Gato,Savannah,5,9.2,Male
+Gato,Himalayan,4,4.8,Female
+Gato,Oriental,7,4.1,Male
+Gato,Singapura,5,2.3,Female
+Gato,Persian,19,3.3,Female
+Gato,Tonkinese,7,3.9,Female
+Gato,Devon Rex,13,4.5,Male
+Gato,Scottish Fold,4,4.1,Male
+Gato,Bengal,15,5.2,Female
+Gato,Burmese,18,4.8,Female
+Gato,Balinese,4,2.6,Female
+Gato,Ragdoll,4,6.4,Male
+Gato,Birman,5,4.1,Female
+Gato,Burmese,8,4.3,Female
+Gato,Ocicat,11,3.7,Female
+Gato,Exotic Shorthair,11,5.1,Female
+Gato,Ocicat,18,4.7,Female
+Gato,Turkish Angora,19,4.8,Male
+Gato,Cornish Rex,17,3.6,Female
+Gato,Persian,1,6.1,Male
+Gato,Egyptian Mau,5,5.1,Male
+Gato,Birman,3,3.4,Female
+Gato,Abyssinian,14,3.7,Female
+Gato,Cornish Rex,2,2.6,Female
+Gato,Siberian,3,6.1,Female
+Gato,Singapura,3,2.1,Female
+Gato,Himalayan,13,5.0,Male
+Gato,Burmese,8,4.2,Male
+Gato,Balinese,14,3.0,Female
+Gato,Cornish Rex,18,3.5,Male
+Gato,Persian,13,5.6,Male
+Gato,Savannah,18,8.1,Female
+Gato,Munchkin,1,3.1,Male
+Gato,Bengal,2,6.7,Male
+Gato,Manx,5,5.3,Male
+Gato,Persian,11,5.0,Male
+Gato,Scottish Fold,11,4.3,Female
+Gato,Turkish Angora,1,3.2,Female
+Gato,Tonkinese,3,2.8,Female
+Gato,Munchkin,2,3.0,Female
+Gato,Balinese,14,2.6,Female
+Gato,American Shorthair,16,6.7,Male
+Gato,Bengal,18,5.6,Female
+Gato,Tonkinese,5,5.2,Male
+Gato,Ragdoll,8,7.7,Male
+Gato,Singapura,7,2.5,Female
+Gato,Egyptian Mau,10,4.9,Female
+Gato,Abyssinian,16,3.3,Female
+Gato,Birman,19,3.1,Female
+Gato,Exotic Shorthair,11,4.6,Female
+Gato,Siberian,19,6.8,Male
+Gato,Sphynx,3,4.4,Male
+Gato,Persian,18,4.2,Male
+Gato,Birman,4,4.0,Female
+Gato,Norwegian Forest,17,6.6,Male
+Gato,Norwegian Forest,13,4.6,Female
+Gato,Chartreux,4,4.5,Male
+Gato,Savannah,14,6.4,Female
+Gato,Bengal,3,6.7,Male
+Gato,Abyssinian,4,3.4,Female
+Gato,Munchkin,18,3.2,Female
+Gato,Siberian,13,8.2,Male
+Gato,Singapura,7,2.8,Male
+Gato,Scottish Fold,11,4.6,Female
+Gato,Balinese,11,4.5,Male
+Gato,Turkish Angora,6,4.3,Male
+Gato,Himalayan,11,4.1,Male
+Gato,Ocicat,9,4.8,Male
+Gato,Egyptian Mau,16,4.9,Female
+Gato,Ragdoll,5,8.4,Male
+Gato,Oriental,6,4.0,Female
+Gato,American Shorthair,4,6.8,Male
+Gato,Chartreux,8,3.1,Female
+Gato,Siamese,16,4.7,Male
+Gato,Egyptian Mau,16,4.9,Male
+Gato,Chartreux,11,5.1,Female
+Gato,Singapura,14,2.5,Male
+Gato,Savannah,8,8.2,Male
+Gato,Cornish Rex,6,3.5,Female
+Gato,Munchkin,8,3.3,Female
+Gato,Munchkin,19,3.1,Female
+Gato,American Shorthair,8,4.2,Female
+Gato,Siberian,1,5.0,Female
+Gato,Cornish Rex,13,3.8,Female
+Gato,Maine Coon,8,8.6,Male
+Gato,British Shorthair,9,6.6,Male
+Gato,Scottish Fold,16,5.1,Male
+Gato,Chartreux,5,5.5,Male
+Gato,Devon Rex,11,3.9,Male
+Gato,Ocicat,17,5.7,Male
+Gato,Devon Rex,9,4.3,Male
+Gato,Singapura,17,2.9,Female
+Gato,Munchkin,15,3.9,Male
+Gato,Ragdoll,1,6.2,Female
+Gato,Singapura,16,3.0,Male
+Gato,Himalayan,13,4.4,Female
+Gato,Scottish Fold,3,5.7,Male
+Gato,Oriental,14,4.3,Male
+Gato,Russian Blue,3,5.0,Male
+Gato,Siberian,18,6.4,Female
+Gato,Manx,14,5.1,Male
+Gato,British Shorthair,17,7.3,Male
+Gato,British Shorthair,6,4.5,Female
+Gato,Abyssinian,8,4.3,Male
+Gato,Birman,2,4.8,Male
+Gato,Siberian,18,5.8,Male
+Gato,Burmese,3,5.7,Male
+Gato,Abyssinian,2,4.5,Male
+Gato,Devon Rex,5,2.7,Female
+Gato,Burmese,9,5.6,Male
+Gato,Tonkinese,19,4.9,Male
+Gato,Burmese,2,5.5,Male
+Gato,Norwegian Forest,4,7.0,Male
+Gato,Manx,17,4.6,Female
+Gato,Birman,4,3.7,Female
+Gato,Ragdoll,6,6.2,Female
+Gato,British Shorthair,2,5.4,Male
+Gato,Himalayan,4,4.3,Female
+Gato,Abyssinian,8,3.9,Female
+Gato,Balinese,2,4.3,Male
+Gato,Manx,2,4.8,Male
+Gato,Siamese,8,3.8,Female
+Gato,Munchkin,5,3.7,Male
+Gato,Devon Rex,14,2.9,Female
+Gato,Burmese,13,4.9,Female
+Gato,American Shorthair,19,5.1,Female
+Gato,Siberian,1,7.2,Female
+Gato,Cornish Rex,12,4.5,Male
+Gato,Burmese,3,5.8,Male
+Gato,Bengal,14,6.4,Male
+Gato,Bengal,5,6.1,Male
+Gato,Russian Blue,17,3.3,Female
+Gato,Himalayan,17,4.1,Female
+Gato,Cornish Rex,11,3.5,Female
+Gato,Tonkinese,12,3.5,Female
+Gato,Manx,4,4.6,Female
+Gato,Balinese,9,2.7,Female
+Gato,Maine Coon,15,8.4,Male
+Gato,Sphynx,1,3.8,Female
+Gato,Manx,1,4.1,Female
+Gato,Cornish Rex,3,3.3,Male
+Gato,Ocicat,12,5.1,Male
+Gato,Exotic Shorthair,6,5.1,Female
+Gato,Maine Coon,3,8.8,Male
+Gato,Egyptian Mau,8,3.1,Female
+Gato,Chartreux,13,4.4,Male
+Gato,Cornish Rex,12,3.8,Male
+Gato,Egyptian Mau,2,4.4,Male
+Gato,Tonkinese,17,4.9,Male
+Gato,Tonkinese,19,5.1,Male
+Gato,Abyssinian,19,4.0,Male
+Gato,Oriental,15,4.3,Male
+Gato,Himalayan,16,4.4,Male
+Gato,Oriental,16,3.9,Male
+Gato,Tonkinese,6,4.2,Female
+Gato,Persian,2,4.2,Female
+Gato,Egyptian Mau,11,4.7,Female
+Gato,Burmese,3,4.5,Male
+Gato,Bengal,9,4.3,Female
+Gato,Himalayan,16,5.0,Male
+Gato,Balinese,8,4.2,Male
+Gato,Chartreux,13,7.0,Male
+Gato,Devon Rex,4,3.3,Male
+Gato,Ragdoll,2,7.0,Female
+Gato,Scottish Fold,17,5.7,Male
+Gato,Maine Coon,18,9.1,Male
+Gato,Balinese,17,3.1,Female
+Gato,Bengal,6,5.9,Male
+Gato,Bengal,11,4.2,Female
+Gato,Devon Rex,18,4.2,Male
+Gato,Devon Rex,14,3.8,Male
+Gato,Norwegian Forest,1,8.8,Male
+Gato,Scottish Fold,2,5.3,Male
+Gato,Siberian,7,7.4,Male
+Gato,Birman,10,4.2,Female
+Gato,Ocicat,6,5.9,Male
+Gato,Savannah,13,8.5,Female
+Gato,Balinese,11,2.8,Female
+Gato,British Shorthair,17,6.5,Female
+Gato,Oriental,18,3.8,Female
+Gato,Munchkin,5,3.3,Female
+Gato,Ocicat,15,4.6,Female
+Gato,Norwegian Forest,14,8.5,Male
+Gato,Ragdoll,18,5.4,Female
+Gato,Egyptian Mau,7,5.5,Male
+Gato,Russian Blue,11,4.1,Male
+Gato,American Shorthair,6,5.4,Male
+Gato,Himalayan,5,3.9,Female
+Gato,Scottish Fold,5,4.7,Male
+Gato,Siamese,19,4.0,Male
+Gato,Maine Coon,19,8.0,Female
+Gato,Savannah,11,6.0,Female
+Gato,Ragdoll,12,6.7,Female
+Gato,Russian Blue,15,4.0,Male
+Gato,Bengal,17,5.2,Female
+Gato,Singapura,2,2.8,Female
+Gato,Maine Coon,9,6.2,Female
+Gato,Himalayan,8,5.5,Male
+Gato,Persian,6,6.3,Male
+Gato,Abyssinian,16,4.0,Female
+Gato,Burmese,10,3.8,Female
+Gato,Singapura,1,3.0,Male
+Gato,Bengal,15,6.5,Male
+Gato,Ragdoll,3,5.4,Female
+Gato,Sphynx,5,5.2,Male
+Gato,British Shorthair,1,6.3,Male
+Gato,Ragdoll,6,6.9,Female
+Gato,Siamese,18,2.6,Female
+Gato,Manx,5,4.3,Male
+Gato,Birman,1,5.5,Male
+Gato,Munchkin,18,3.3,Female
+Gato,Maine Coon,18,8.2,Female
+Gato,Munchkin,9,4.0,Male
+Gato,Bengal,10,4.5,Female
+Gato,Singapura,5,2.3,Female
+Gato,Persian,10,4.5,Male
+Gato,Burmese,13,4.0,Female
+Gato,Siberian,17,4.7,Female
+Gato,Egyptian Mau,4,4.8,Female
+Gato,Oriental,1,3.4,Male
+Gato,Chartreux,15,3.4,Female
+Gato,Sphynx,1,3.4,Female
+Gato,Maine Coon,12,5.3,Female
+Gato,Abyssinian,2,3.3,Female
+Gato,Exotic Shorthair,19,4.8,Female
+Gato,Birman,15,3.5,Female
+Gato,Tonkinese,13,3.7,Female
+Gato,Balinese,9,3.9,Female
+Gato,Abyssinian,6,4.5,Male
+Gato,Ragdoll,3,6.5,Female
+Gato,Chartreux,18,4.0,Female
+Gato,Ocicat,16,3.9,Female
+Gato,Russian Blue,4,3.5,Female
+Gato,Ragdoll,17,7.3,Female
+Gato,British Shorthair,19,5.6,Female
+Gato,Balinese,6,3.8,Male
+Gato,Abyssinian,19,4.3,Male
+Gato,Egyptian Mau,8,5.7,Male
+Gato,Persian,18,4.5,Female
+Gato,Sphynx,5,4.8,Male
+Gato,Ocicat,14,5.5,Female
+Gato,Savannah,16,7.6,Female
+Gato,Oriental,15,4.4,Male
+Gato,Egyptian Mau,19,3.4,Female
+Gato,Abyssinian,1,3.8,Male
+Gato,Chartreux,5,6.9,Male
+Gato,Sphynx,7,4.8,Male
+Gato,Munchkin,13,3.4,Male
+Gato,Birman,4,4.8,Male
+Gato,Savannah,19,7.3,Male
+Gato,Turkish Angora,14,4.7,Male
+Gato,Persian,18,3.5,Female
+Gato,Birman,2,4.3,Female
+Gato,Egyptian Mau,19,5.1,Male
+Gato,British Shorthair,13,6.1,Male
+Gato,Manx,16,3.5,Female
+Gato,Scottish Fold,8,5.6,Male
+Gato,Egyptian Mau,3,4.4,Male
+Gato,Siamese,8,2.6,Female
+Gato,Cornish Rex,17,3.5,Female
+Gato,Persian,2,3.8,Female
+Gato,Egyptian Mau,17,3.8,Female
+Gato,Singapura,14,2.2,Female
+Gato,Turkish Angora,6,4.8,Male
+Gato,Persian,19,4.9,Male
+Gato,Egyptian Mau,17,4.5,Male
+Gato,British Shorthair,13,4.8,Female
+Gato,Maine Coon,5,5.4,Female
+Gato,Russian Blue,17,3.5,Female
+Gato,Ocicat,15,3.7,Female
+Gato,Manx,9,4.4,Male
+Gato,American Shorthair,15,5.7,Male
+Gato,Siberian,18,8.6,Male
+Gato,Oriental,11,3.5,Male
+Gato,Bengal,15,4.0,Female
+Gato,Manx,7,4.7,Female
+Gato,Exotic Shorthair,14,6.3,Male
+Gato,Ocicat,5,5.0,Female
+Gato,Himalayan,16,4.5,Male
+Gato,Ragdoll,15,5.7,Female
+Gato,Siamese,11,2.8,Female
+Gato,Balinese,12,2.7,Female
+Gato,Siberian,15,5.2,Female
+Gato,Manx,12,4.2,Female
+Gato,Norwegian Forest,3,6.9,Male
+Gato,Cornish Rex,1,3.3,Female
+Gato,Bengal,15,4.2,Female
+Gato,Oriental,7,3.9,Male
+Gato,Bengal,19,6.5,Male
+Gato,Himalayan,15,5.8,Male
+Gato,American Shorthair,14,4.2,Female
+Gato,Siberian,13,5.9,Female
+Gato,Siberian,6,6.7,Male
+Gato,Cornish Rex,9,3.3,Male
+Gato,Siamese,9,3.7,Female
+Gato,Ragdoll,16,5.0,Female
+Gato,Oriental,11,3.2,Female
+Gato,Singapura,11,2.5,Female
+Gato,Cornish Rex,18,2.7,Female
+Gato,Singapura,1,2.6,Male
+Gato,Tonkinese,8,4.2,Male
+Gato,Tonkinese,7,5.4,Male
+Gato,Russian Blue,3,4.0,Female
+Gato,Norwegian Forest,2,5.2,Female
+Gato,Siamese,17,2.6,Female
+Gato,Singapura,14,2.6,Female
+Gato,Egyptian Mau,18,3.2,Female
+Gato,British Shorthair,8,6.8,Male
+Gato,Turkish Angora,2,4.6,Male
+Gato,Devon Rex,3,3.1,Female
+Gato,Exotic Shorthair,1,4.1,Female
+Gato,Munchkin,19,3.1,Male
+Gato,Norwegian Forest,7,5.8,Male
+Gato,Singapura,7,2.4,Female
+Gato,Birman,4,5.3,Male
+Gato,Persian,5,3.6,Female
+Gato,Scottish Fold,19,4.1,Female
+Gato,Savannah,7,9.8,Male
+Gato,Siberian,15,4.2,Female
+Gato,Abyssinian,16,3.2,Female
+Gato,British Shorthair,18,4.9,Female
+Gato,Siberian,2,7.9,Male
+Gato,Chartreux,10,5.5,Male
+Gato,Norwegian Forest,18,6.4,Female
+Gato,Oriental,12,4.8,Male
+Gato,British Shorthair,1,6.0,Female
+Gato,Chartreux,4,5.6,Female
+Gato,Savannah,5,10.0,Male
+Gato,American Shorthair,16,5.4,Female
+Gato,Abyssinian,6,4.8,Male
+Gato,Munchkin,5,3.2,Female
+Gato,Maine Coon,10,7.9,Female
+Gato,Oriental,17,4.0,Female
+Gato,Siamese,17,3.3,Female
+Gato,American Shorthair,6,6.2,Male
+Gato,Munchkin,1,3.0,Female
+Gato,Turkish Angora,4,4.8,Male
+Gato,Sphynx,9,4.6,Male
+Gato,Ocicat,10,6.6,Male
+Gato,Tonkinese,11,5.1,Male
+Gato,Bengal,7,5.7,Female
+Gato,Exotic Shorthair,13,4.0,Female
+Gato,American Shorthair,12,6.3,Male
+Gato,Munchkin,3,3.8,Male
+Gato,Turkish Angora,18,4.9,Male
+Gato,Exotic Shorthair,8,6.3,Male
+Gato,American Shorthair,8,6.0,Male
+Gato,Maine Coon,7,6.9,Female
+Gato,Russian Blue,6,4.1,Male
+Gato,Persian,10,6.4,Male
+Gato,Oriental,13,2.9,Female
+Gato,Devon Rex,9,3.4,Female
+Gato,Siamese,2,4.7,Male
+Gato,Birman,15,4.6,Male
+Gato,Egyptian Mau,14,4.5,Male
+Gato,Exotic Shorthair,16,3.9,Female
+Gato,Scottish Fold,5,4.7,Female
+Gato,Devon Rex,3,3.9,Male
+Gato,Singapura,8,2.1,Female
+Gato,Ocicat,14,6.4,Male
+Gato,Burmese,9,3.5,Female
+Gato,Burmese,6,4.7,Female
+Gato,Maine Coon,8,8.1,Male
+Gato,Persian,16,4.7,Male
+Gato,Sphynx,16,3.1,Female
+Gato,Burmese,10,5.0,Male
+Gato,Siamese,10,3.2,Female
+Gato,Norwegian Forest,12,6.4,Female
+Gato,Ragdoll,4,7.4,Male
+Gato,Munchkin,8,2.8,Female
+Gato,Turkish Angora,19,2.9,Female
+Gato,Sphynx,9,3.5,Female
+Gato,Savannah,2,10.7,Male
+Gato,Egyptian Mau,4,3.3,Female
+Gato,Burmese,19,6.0,Male
+Gato,British Shorthair,18,6.2,Male
+Gato,Balinese,15,2.6,Female
+Gato,British Shorthair,11,6.0,Male
+Gato,Munchkin,11,3.1,Male
+Gato,Egyptian Mau,12,5.6,Male
+Gato,British Shorthair,14,5.3,Female
+Gato,Siamese,15,3.9,Male
+Gato,Munchkin,6,3.7,Male
+Gato,Munchkin,11,3.1,Female
+Gato,British Shorthair,8,7.8,Male
+Gato,Sphynx,18,5.4,Male
+Gato,Ocicat,6,6.3,Male
+Gato,Sphynx,7,4.3,Female
+Gato,Siberian,12,8.3,Male
+Gato,Oriental,12,4.2,Male
+Gato,Bengal,18,6.3,Male
+Gato,Tonkinese,19,2.7,Female
+Gato,Siberian,6,6.5,Female
+Gato,Chartreux,18,5.5,Female
+Gato,Ocicat,9,4.9,Male
+Gato,Himalayan,18,4.6,Female
+Gato,Ragdoll,11,8.8,Male
+Gato,Siberian,8,6.5,Male
+Gato,Egyptian Mau,12,4.0,Female
+Gato,Singapura,15,3.4,Male
+Gato,Birman,1,5.4,Male
+Gato,Manx,2,4.4,Male
+Gato,Chartreux,2,5.3,Male
+Gato,Siberian,5,6.3,Female
+Gato,Sphynx,13,4.2,Male
+Gato,Tonkinese,9,4.2,Male
+Gato,Devon Rex,19,3.2,Male
+Gato,Manx,13,4.4,Male
+Gato,Turkish Angora,4,4.3,Male
+Gato,Cornish Rex,11,4.0,Male
+Gato,Sphynx,8,4.1,Female
+Gato,Maine Coon,15,10.1,Male
+Gato,Sphynx,9,4.5,Male
+Gato,British Shorthair,15,6.1,Male
+Gato,Russian Blue,4,3.9,Male
+Gato,Singapura,4,2.2,Female
+Gato,Scottish Fold,18,3.6,Female
+Gato,Ocicat,13,3.9,Female
+Gato,Tonkinese,14,3.6,Male
+Gato,Turkish Angora,8,2.8,Female
+Gato,Birman,16,5.0,Male
+Gato,Abyssinian,15,4.5,Male
+Gato,Siberian,8,7.0,Female
+Gato,Sphynx,11,5.2,Male
+Gato,Norwegian Forest,14,7.6,Male
+Gato,Ocicat,19,5.0,Male
+Gato,Scottish Fold,2,4.1,Female
+Gato,Ragdoll,12,6.3,Male
+Gato,Scottish Fold,19,4.9,Male
+Gato,American Shorthair,15,5.6,Male
+Gato,Manx,6,4.1,Female
+Gato,Ocicat,9,5.4,Male
+Gato,Manx,19,4.4,Female
+Gato,Ragdoll,3,7.0,Female
+Gato,Exotic Shorthair,12,6.0,Male
+Gato,Turkish Angora,13,3.5,Female
+Gato,American Shorthair,12,4.7,Female
+Gato,Sphynx,9,3.1,Female
+Gato,Singapura,5,3.2,Male
+Gato,Himalayan,13,5.1,Male
+Gato,Sphynx,18,3.4,Female
+Gato,Burmese,11,3.6,Female
+Gato,Ragdoll,17,8.8,Male
+Gato,Sphynx,11,4.0,Female
+Gato,Birman,12,3.8,Female
+Gato,Bengal,3,6.1,Male
+Gato,Singapura,11,2.4,Female
+Gato,Himalayan,13,3.9,Female
+Gato,Cornish Rex,18,2.9,Female
+Gato,Burmese,8,4.9,Male
+Gato,Maine Coon,17,7.4,Female
+Gato,American Shorthair,11,4.8,Male
+Gato,Maine Coon,3,10.1,Male
+Gato,Turkish Angora,16,3.0,Female
+Gato,Himalayan,12,4.3,Female
+Gato,Abyssinian,15,3.8,Female
+Gato,Chartreux,10,4.7,Female
+Gato,Savannah,4,7.4,Female
+Gato,Turkish Angora,17,4.9,Male
+Gato,Devon Rex,1,3.2,Female
+Gato,Balinese,14,3.7,Female
+Gato,Maine Coon,7,9.8,Male
+Gato,Himalayan,5,3.5,Female
+Gato,Exotic Shorthair,4,5.1,Male
+Gato,Russian Blue,18,3.7,Female
+Gato,Tonkinese,17,4.1,Male
+Gato,Turkish Angora,8,4.0,Male
+Gato,Tonkinese,12,4.3,Male
+Gato,Persian,3,4.4,Female
+Gato,Siamese,9,2.9,Female
+Gato,Egyptian Mau,9,4.6,Female
+Gato,Cornish Rex,7,3.8,Male
+Gato,Munchkin,2,3.7,Male
+Gato,Manx,5,4.3,Male
+Gato,Turkish Angora,12,4.1,Male
+Gato,American Shorthair,6,4.8,Male
+Gato,Savannah,8,9.7,Male
+Gato,Balinese,11,3.1,Female
+Gato,Oriental,10,4.9,Male
+Gato,Turkish Angora,19,3.9,Male
+Gato,Persian,6,4.3,Female
+Gato,Russian Blue,14,3.4,Female
+Gato,Tonkinese,16,3.7,Female
+Gato,Oriental,13,3.3,Female
+Gato,American Shorthair,12,4.3,Female
+Gato,Bengal,1,4.0,Female
+Gato,Abyssinian,15,3.8,Male
+Gato,Ragdoll,8,4.9,Female
+Gato,Devon Rex,1,3.8,Female
+Gato,Russian Blue,2,4.5,Male
+Gato,Sphynx,16,3.9,Male
+Gato,Balinese,14,4.0,Female
+Gato,Siberian,12,5.8,Male
+Gato,Devon Rex,16,3.7,Male
+Gato,Siberian,5,6.3,Female
+Gato,American Shorthair,11,6.8,Male
+Gato,Egyptian Mau,8,5.4,Male
+Gato,Himalayan,11,3.9,Female
+Gato,Abyssinian,12,4.3,Female
+Gato,Singapura,1,2.0,Female
+Gato,Himalayan,18,4.9,Female
+Gato,Turkish Angora,13,4.8,Male
+Gato,Exotic Shorthair,12,6.4,Male
+Gato,Ragdoll,16,5.2,Female
+Gato,Scottish Fold,3,4.3,Male
+Gato,Balinese,3,4.5,Male
+Gato,Scottish Fold,11,5.1,Male
+Gato,Maine Coon,5,6.7,Female
+Gato,Cornish Rex,5,3.7,Female
+Gato,Balinese,13,4.4,Male
+Gato,Devon Rex,18,3.6,Male
+Gato,Scottish Fold,17,4.8,Male
+Gato,American Shorthair,16,5.0,Male
+Gato,Munchkin,7,2.7,Female
+Gato,Singapura,7,2.7,Male
+Gato,Cornish Rex,17,4.3,Male
+Gato,Balinese,10,3.6,Female
+Gato,Devon Rex,14,3.9,Male
+Gato,Siamese,10,4.0,Male
+Gato,British Shorthair,3,7.1,Male
+Gato,Oriental,10,4.7,Male
+Gato,Siamese,15,3.9,Female
+Gato,Balinese,5,4.3,Male
+Gato,Russian Blue,1,4.3,Female
+Gato,Oriental,11,4.2,Male
+Gato,Manx,14,4.1,Female
+Gato,Munchkin,12,3.9,Male
+Gato,Chartreux,3,4.0,Female
+Gato,Bengal,6,5.6,Male
+Gato,Singapura,8,2.8,Male
+Gato,Bengal,18,5.9,Male
+Gato,Oriental,4,4.3,Male
+Gato,Scottish Fold,16,5.3,Male
+Gato,Russian Blue,3,3.7,Female
+Gato,Birman,17,3.4,Female
+Gato,Maine Coon,19,8.2,Female
+Gato,Sphynx,19,3.6,Female
+Gato,Abyssinian,11,4.9,Male
+Gato,Persian,19,4.7,Male
+Gato,Singapura,4,2.5,Female
+Gato,Maine Coon,18,9.0,Male
+Gato,Singapura,8,2.8,Female
+Gato,Ragdoll,11,6.5,Male
+Gato,Manx,15,5.4,Male
+Gato,American Shorthair,6,4.7,Female
+Gato,Burmese,12,5.2,Male
+Gato,American Shorthair,11,5.9,Male
+Gato,Balinese,11,3.4,Male
+Gato,Munchkin,10,3.0,Female
+Gato,Birman,4,4.3,Male
+Gato,American Shorthair,12,4.3,Female
+Gato,Manx,1,4.3,Female
+Gato,Burmese,7,4.0,Female
+Gato,Abyssinian,2,3.1,Female
+Gato,Scottish Fold,13,3.1,Female
+Gato,Ocicat,10,5.1,Male
+Gato,Munchkin,12,3.2,Male
+Gato,Burmese,4,5.2,Male
+Gato,American Shorthair,10,5.1,Male
+Gato,Ragdoll,9,8.7,Male
+Gato,Russian Blue,9,3.3,Female
+Gato,Egyptian Mau,10,4.2,Male
+Gato,Siberian,14,8.6,Male
+Gato,Tonkinese,16,3.1,Female
+Gato,Persian,16,5.2,Male
+Gato,Scottish Fold,5,4.9,Female
+Gato,Ragdoll,2,7.3,Female
+Gato,British Shorthair,6,7.3,Male
+Gato,Ocicat,11,4.9,Male
+Gato,Ragdoll,1,7.8,Male
+Gato,Manx,7,4.8,Female
+Gato,British Shorthair,4,6.5,Female
+Gato,Egyptian Mau,17,3.2,Female
+Gato,Siamese,4,4.0,Male
+Gato,American Shorthair,7,4.2,Female
+Gato,American Shorthair,10,3.8,Female
+Gato,British Shorthair,6,7.2,Male
+Gato,Balinese,12,3.8,Male
+Gato,Savannah,18,6.3,Female
+Gato,Tonkinese,12,3.7,Male
+Gato,Persian,4,4.1,Female
+Gato,Bengal,15,3.9,Female
+Gato,Siberian,15,5.4,Female
+Gato,Oriental,17,3.6,Male
+Gato,Siamese,4,4.9,Male
+Gato,Maine Coon,7,5.1,Female
+Gato,Russian Blue,12,3.8,Female
+Gato,Norwegian Forest,7,4.6,Female
+Gato,Tonkinese,3,2.6,Female
+Gato,Maine Coon,1,7.6,Male
+Gato,Cornish Rex,2,3.3,Male
+Gato,Russian Blue,5,4.1,Male
+Gato,Sphynx,14,4.7,Male
+Gato,British Shorthair,9,7.1,Male
+Gato,Maine Coon,8,4.9,Female
+Gato,Scottish Fold,18,4.9,Male
+Gato,British Shorthair,9,5.5,Female
+Gato,Exotic Shorthair,6,4.0,Female
+Gato,British Shorthair,2,5.0,Female
+Gato,British Shorthair,19,4.2,Female
+Gato,British Shorthair,11,4.6,Female
+Gato,Savannah,12,6.8,Female
+Gato,American Shorthair,8,5.8,Female
+Gato,Chartreux,11,5.6,Female

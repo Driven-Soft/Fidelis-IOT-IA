@@ -75,17 +75,17 @@ A premissa central da solução — avaliar o peso do indivíduo contra uma refe
 
 ## 4. Dados: origem, estrutura e utilização
 
-O componente combina **uma fonte externa de treinamento** (dataset público) com **dados internos do próprio schema** do Fidelis para a inferência — sem exigir nenhuma alteração nas 14 tabelas existentes.
+O componente combina **fontes externas de treinamento** (datasets públicos de cães e gatos) com **dados internos do próprio schema** do Fidelis para a inferência — sem exigir nenhuma alteração nas 14 tabelas existentes.
 
 | Fonte | Campos utilizados | Origem | Papel na IA |
 |---|---|---|---|
-| **Dataset público (Kaggle)** | Raça, idade, sexo, peso (e porte, quando disponível) | Datasets abertos de características de raças e registros de animais (ex.: bases derivadas do AKC e datasets de cães com raça/idade/peso) | **Treinamento offline** do modelo de faixa de peso esperada por perfil |
+| **Datasets públicos (Kaggle)** | Raça, idade, sexo, peso | [Dogs Dataset – 3000 Records](https://www.kaggle.com/datasets/waqi786/dogs-dataset-3000-records) e [Cats Dataset](https://www.kaggle.com/datasets/waqi786/cats-dataset), auditados e calibrados pelo pipeline `prepare_dataset.py` → `fidelis_training_dataset.csv` | **Treinamento offline** do modelo de faixa de peso esperada por perfil |
 | `PETS` | `Especie`, `Raca`, `Sexo`, `DataNascimento`, `Status` | Cadastro do pet pelo tutor | **Entrada da inferência** — perfil do animal (idade derivada de `DataNascimento`; apenas pets com `Status` ativo) |
 | `HISTORICO_PESOS` | `PesoKg` (DECIMAL(7,2)), `DataMedicao`, `PetId` | Registrado pelo tutor ou pelo veterinário | **Entrada da inferência** — o peso atual (medição mais recente) é o valor comparado à faixa esperada; a série completa alimenta apenas a visualização complementar do prontuário |
 | `RECOMENDACOES` | `Tipo`, `Descricao`, `DataRecomendacao`, `PetId` | **Gerada pela IA** | **Saída** — o nível de risco é codificado no campo `Tipo` (ex.: `PESO_ATENCAO`, `PESO_ALERTA`) e a justificativa em `Descricao` |
 | `LEMBRETES` | `Tipo`, `Descricao`, `DataPrevista`, `Status`, `TutorId`, `PetId` | **Gerada pela IA** (além dos manuais) | **Saída** — ex.: `Tipo = PESAGEM`, `DataPrevista` = data sugerida para nova medição (`TutorId` obtido via `PETS.TutorId`) |
 
-Sobre a estrutura do dado externo: os datasets candidatos são tabulares (CSV), com uma linha por animal ou por raça, contendo raça, faixas/valores de peso e, conforme o dataset, idade e sexo. Na etapa de preparação, os dados passam por limpeza e normalização (unidades para kg, padronização de nomes de raça e mapeamento para as raças cadastráveis no Fidelis) antes do treinamento. Cobertura de gatos e de animais sem raça definida é tratada pelas regras de fallback descritas na seção 3.
+Sobre a estrutura do dado externo: os dois datasets são tabulares (CSV), com uma linha por animal, contendo raça, idade, sexo e peso. **Na auditoria dos dados, identificou-se que a coluna de peso dos arquivos originais foi gerada sem calibração por raça** (pesos aleatórios — ex.: Yorkshires com dezenas de quilos). Por isso, o pipeline de preparação do projeto (`prepare_dataset.py`) remove duplicatas, **unifica as duas espécies com a adição de uma coluna `Especie`** e **recalibra os pesos com faixas de referência de peso adulto por raça e sexo**, baseadas em padrões raciais (AKC/FCI para cães; TICA/CFA para gatos), gerando o arquivo final de treinamento — `fidelis_training_dataset.csv`, com 3.990 registros (2.995 cães e 995 gatos, 83 raças). O processo usa semente aleatória fixa e é totalmente reprodutível a partir dos datasets originais. Raças ausentes dos datasets e animais sem raça definida (SRD) são tratados pelas regras de fallback descritas na seção 3.
 
 ## 5. Fluxo de dados e arquitetura de integração
 
@@ -156,5 +156,5 @@ A separação em serviço dedicado isola a stack de ciência de dados (Python/sc
 | Problema de negócio | Identificação automática de peso inadequado ao perfil do pet, convertendo cuidado reativo em preventivo |
 | Personalização / priorização / recomendação / apoio à decisão | Faixa de peso esperada por perfil (espécie/raça/sexo/idade); risco em 3 níveis; recomendações de serviço da clínica; avaliação no prontuário do veterinário |
 | Abordagem de IA | Modelo preditivo supervisionado treinado em dataset público (Kaggle) + motor de regras inteligentes, com justificativa e descarte fundamentado das alternativas |
-| Dados | Dataset público (Kaggle) para treinamento offline; PETS e HISTORICO_PESOS (peso atual) para inferência; RECOMENDACOES e LEMBRETES como saída — sem alteração de schema |
+| Dados | Datasets públicos (Kaggle: cães e gatos) para treinamento offline; PETS e HISTORICO_PESOS (peso atual) para inferência; RECOMENDACOES e LEMBRETES como saída — sem alteração de schema |
 | Fluxo e integração | Serviço de IA em Python/FastAPI, stateless e sem acesso a banco, em container no Azure ao lado da API .NET; acionamento on-demand a cada pesagem via REST |

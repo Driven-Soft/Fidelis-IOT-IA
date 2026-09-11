@@ -1,4 +1,7 @@
-# Fidelis — Componente de Inteligência Artificial
+<h1>
+  <img src="https://github.com/user-attachments/assets/b50494c7-e977-4e38-ad77-d3c4b9842740" width="60" alt="Fidelis" />
+  &nbsp;Fidelis — Componente de Inteligência Artificial
+</h1>
 
 **Projeto:** Fidelis — Gestão de Saúde Pet (React Native/Expo)
 
@@ -56,6 +59,15 @@ O componente de IA transforma cada pesagem registrada no app em uma **avaliaçã
 **Apoio à tomada de decisão do veterinário.** No portal do veterinário, o prontuário do pet exibe a avaliação de risco da pesagem mais recente junto à faixa de referência do perfil — informação que apoia (e não substitui) o julgamento clínico. O sistema é explicitamente um instrumento de triagem e apoio: **a decisão diagnóstica permanece sempre com o veterinário**.
 
 **Componente complementar (não essencial ao núcleo de IA):** a curva do histórico de pesagens (`HISTORICO_PESOS`) pode ser exibida no prontuário como visualização de acompanhamento, enriquecendo a leitura do veterinário sem fazer parte do cálculo de risco.
+
+## Demonstração da funcionalidade (protótipo visual):
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/863f3d1c-36e4-4907-80c2-c6d90aa3d9a2" width="430" alt="Aurora 1" /><br /><sub>Perfil do Pet - Exemplo</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/2c87ca10-c39a-4c35-989a-ef34b2f27c7a" width="430" alt="Aurora 2" /><br /><sub>Perfil do Pet - Exemplo com recomendação usando classificação do modelo</sub></td>
+  </tr>
+</table>
 
 ## 3. Abordagem de IA adotada e justificativa
 

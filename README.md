@@ -8,6 +8,8 @@
 
 **Repositório no Github:** https://github.com/Driven-Soft/Fidelis-IOT-IA
 
+**Link do Vídeo Pitch:** https://youtu.be/LsMuxc3TqE0
+
 ### Integrantes
 
 | Nome | RM |

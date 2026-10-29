@@ -8,11 +8,18 @@ recalibra os pesos usando faixas de referência de peso adulto por raça
 (literatura de padrões raciais: AKC/FCI para cães, TICA/CFA para gatos),
 com ajuste por sexo, e unifica as duas espécies em um único CSV de treino.
 
-Saída: fidelis_training_dataset.csv
+Entrada: data/dogs_dataset.zip e data/cats_dataset.zip (originais do Kaggle)
+Saída:   data/fidelis_training_dataset.csv
 Colunas: Especie, Breed, Age (Years), Weight (kg), Gender
+
+Uso:     python pipeline/prepare_dataset.py
 """
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
+
+DADOS = Path(__file__).resolve().parent.parent / "data"
 
 rng = np.random.default_rng(42)  # reprodutível
 
@@ -72,7 +79,7 @@ def calibrate_weight(breed: str, gender: str, ranges: dict) -> float:
     return round(w, 1)
 
 
-def prepare(csv_path: str, especie: str, ranges: dict) -> pd.DataFrame:
+def prepare(csv_path: Path, especie: str, ranges: dict) -> pd.DataFrame:
     df = pd.read_csv(csv_path)
     df = df.drop_duplicates().reset_index(drop=True)
     missing = set(df["Breed"]) - set(ranges)
@@ -87,9 +94,9 @@ def prepare(csv_path: str, especie: str, ranges: dict) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    dogs = prepare("dogs_dataset.csv", "Cachorro", DOG_RANGES)
-    cats = prepare("cats_dataset.csv", "Gato", CAT_RANGES)
+    dogs = prepare(DADOS / "dogs_dataset.zip", "Cachorro", DOG_RANGES)
+    cats = prepare(DADOS / "cats_dataset.zip", "Gato", CAT_RANGES)
     out = pd.concat([dogs, cats], ignore_index=True)
-    out.to_csv("fidelis_training_dataset.csv", index=False)
+    out.to_csv(DADOS / "fidelis_training_dataset.csv", index=False)
     print(f"OK: {len(out)} registros ({len(dogs)} cães, {len(cats)} gatos)")
     print(out.groupby(["Especie"])["Weight (kg)"].describe().round(1))

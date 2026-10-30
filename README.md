@@ -11,7 +11,7 @@
 
 **Repositório no Github:** https://github.com/Driven-Soft/Fidelis-IOT-IA
 
-**Link do Vídeo Pitch (4º Sprint):** _adicionar o link do YouTube (não listado)_
+**Link do Vídeo Pitch (4º Sprint):** https://youtu.be/96wZJxgdKeE
 
 **Link do Vídeo Pitch (3º Sprint):** https://youtu.be/LsMuxc3TqE0
 

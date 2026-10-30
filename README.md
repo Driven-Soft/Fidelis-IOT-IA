@@ -11,9 +11,7 @@
 
 **Repositório no Github:** https://github.com/Driven-Soft/Fidelis-IOT-IA
 
-**Link do Vídeo Pitch (4º Sprint):** https://youtu.be/96wZJxgdKeE
-
-**Link do Vídeo Pitch (3º Sprint):** https://youtu.be/LsMuxc3TqE0
+**Link do Vídeo Pitch:** https://youtu.be/96wZJxgdKeE
 
 **Repositórios integrados:** [FidelisApi-NET](https://github.com/Driven-Soft/FidelisApi-NET) (API .NET) · [FidelisMobile](https://github.com/Driven-Soft/FidelisMobile) (app React Native)
 
